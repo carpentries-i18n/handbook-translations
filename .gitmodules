@@ -1,0 +1,4 @@
+[submodule "handbook"]
+	path = handbook
+	url = git@github.com:swcarpentry-i18n/handbook.git
+	branch = translations
