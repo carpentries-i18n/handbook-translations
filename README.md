@@ -21,3 +21,10 @@ sphinx-intl update -p locale/gettext -l es -l fr
 ```
 This generates the basic translation files for `es` and `fr` under `locale/<lang>`. These configuration is taken from the local `conf.py` file.
 
+3. Translate! For that there are two ways. Listed below.
+
+4. Build your translations
+```bash
+sphinx-build -D language=es -b html . _build/html
+```
+
