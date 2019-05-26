@@ -28,3 +28,23 @@ This generates the basic translation files for `es` and `fr` under `locale/<lang
 sphinx-build -D language=es -b html . _build/html
 ```
 
+# Translations
+
+# Update translations
+
+1. Update the pot files from the original source.
+```bash
+sphinx-build -M gettext . locale -a
+```
+
+2. Update the po files for each of the languages you want:
+```bash
+sphinx-intl update -p locale/gettext -l es
+```
+This will mark the translations blocks that have changed into `fuzzy` translations.
+
+
+# Read the docs
+
+Each language needs to have its own project, and linked from the master project as translations.
+
