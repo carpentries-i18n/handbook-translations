@@ -1,0 +1,266 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:1
+msgid "The Carpentries Reimbursement Policy"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:3
+msgid "Designed to be consistent with Community Initiatives reimbursement policies."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:5
+msgid "I. Policy Statement"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:7
+msgid "Business expenses may be reimbursed if an individual paid the expense from personal funds."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:9
+msgid "This policy establishes the three components required for reimbursement of allowable non-compensation business expenses:"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:10
+msgid "An allowable business expense"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:11
+msgid "Substantiation of the expense with receipts and expense report"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:12
+msgid "Approval of the expense"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:14
+msgid "II. Who is Affected by this Policy"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:16
+msgid "This policy affects all employees, volunteers, independent contractors, and guests seeking reimbursement or payment for necessary and reasonable non-compensation business expenses."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:18
+msgid "III. Definitions"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:20
+msgid "Necessary  Minimum purchase or service required to achieve a particular objective."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:22
+msgid "Reasonable An expense that is ordinary and reflects a prudent decision to incur the expense on behalf of The Carpentries business. Not extreme or excessive. Travel expenses should not exceed the current US federal per diem rates for the location of travel. If an expense exceeds these rates, a justification for additional spending should be included in the description of that expense."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:24
+msgid "Appropriate expense An expense that is suitable or fitting for a particular valid The Carpentries business purpose or activity."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:26
+msgid "Allowable expense A necessary, reasonable, and appropriate expense incurred for the primary benefit of The Carpentries activities and therefore permitted to be reimbursed or directly charged based on the permission of The Carpentries. Allowable expenses must meet 501(c)3 expense policies."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:28
+msgid "Original Receipt The original merchant receipt or invoice issued by the supplier or service provider to document and substantiate the business transaction. A digital image of the original receipt is allowable provided that it is legible. Electronic receipts are allowable."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:30
+msgid "Substantiation Documentation to support an incurred business expense that includes the original receipt, documentation of business purpose, names of persons in attendance, and an appropriate expense report for the incurred cost."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:32
+msgid "IV. Policy"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:34
+msgid "The Carpentries provides reimbursement for appropriate and allowable expenses. These are business and travel related expenses, including transportation, hotels, and food. These expenses must be reasonable and necessary, as well as job-related."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:36
+msgid "SUBSTANTIATION AND ORIGINAL RECEIPTS"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:38
+msgid "In order for a business expense to be approved and reimbursed, it must be properly substantiated. Original receipts (see above definition) for all expenditures are required. If sponsored by a particular agency or organization and requirements are more restrictive, the more restrictive receipt requirement will take precedence. If a required receipt has been lost, that information must be included when the reimbursement request is made."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:40
+msgid "EXPENSE REPORT"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:42
+msgid "Reimbursement as a nontaxable payment can be made as long as:"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:43
+msgid "the expense qualifies as an allowable business expense and"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:44
+msgid "all substantiation and receipt requirements are met."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:46
+msgid "The sections below establish The Carpentries policy for reimbursement based on proper substantiation of the business expense, timely request for reimbursement, and payment approval."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:48
+msgid "APPROVAL AND REIMBURSEMENT"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:50
+msgid "For each business expense reimbursement being requested, the request must include"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:51
+msgid "the valid business purpose of the expense and"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:52
+msgid "if travel related, the location and dates of the event."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:54
+msgid "DEADLINE TO SUBMIT EXPENSE REPORTS AND DOCUMENTATION"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:56
+msgid "Expense Reimbursement DeadlinesTo be reimbursable, business expenses must be properly substantiated and submitted within certain time limitations."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:58
+msgid "Substantiation for the reimbursement should be submitted within 60 calendar days of when the expenses were incurred. For expenses incurred while traveling, the traveler will have 60 calendar days upon returning from travel to substantiate and submit the expenses."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:59
+msgid "If substantiation occurs more than 60 calendar days after the expenses were incurred, the expense reimbursement request must include an explanation for the delay."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:60
+msgid "Funds can be reimbursed before travel is completed, with receipts for the travel expenditure. If travel is not completed or is changed to have a lower cost, funds must be returned according to the 'Return of Excess Amounts' section."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:62
+msgid "RETURN OF EXCESS AMOUNTS"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:64
+msgid "Return of excess amounts must be done within 120 days after expenses are paid or incurred."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:66
+msgid "Community Initiatives will guide the process for repayment of funds."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:68
+msgid "If individuals are volunteers, they will be expected to repay “excess amounts” and it may affect their volunteer status with the organization."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:70
+msgid "V. Procedures"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:72
+msgid "REIMBURSEMENT REQUEST"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:74
+msgid "Those expecting reimbursement are responsible for discerning appropriate and allowable expenses. Requests must include"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:75
+msgid "Person requesting"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:76
+msgid "Vendor (for business expenses)"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:77
+msgid "Meeting, location and dates of meeting (for travel expenses)"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:78
+msgid "Reason for travel or expense"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:79
+msgid "Designated expense category (travel, infrastructure, other)"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:80
+msgid "If applicable, explanation of why requirements aren’t being met (e.g. missing receipt, submitted later than 90 days after purchase)"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:81
+msgid "If a meal for business purposes besides travel, the people in attendance at the meal"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:82
+msgid "Additional notes"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:84
+msgid "Reimbursement requests and documentation should be submitted to the Administrative Support Specialist at finance@carpentries.org. The Administrative Support Specialist will organize the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment, in accordance with our reimbursement workflow. Reimbursement workflow guidelines are available for staff."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:86
+msgid "VI. Contact Roles and Responsibilities"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:87
+msgid "Executive Director - Tracy Teal"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:88
+msgid "Executive Council Treasurer - Raniere Silva"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:89
+msgid "Administrative Support Specialist - Talisha Sutton-Kennedy"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:91
+msgid "VII. Update Log"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:92
+msgid "Updated on 2019-02-19 to replace Business Administrator with Administrative Support Specialist"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:93
+msgid "Updated on 2018-07-06 to include Business Administrator in procedures and add federal per diem rates as guideline for expenses."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:94
+msgid "Updated on 2018-03-06 to reflect that reimbursements cannot be denied due their time of submission."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:95
+msgid "Updated on 2018-02-23 to reflect updated workflow with Community Initiatives and approval contacts."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:96
+msgid "Updated on 2018-01-31 to refer to Community Initiatives as our fiscal sponsor."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/reimbursement-policy.md:97
+msgid "Updated 2017-12-22 to change from Data Carpentry to The Carpentries."
+msgstr ""
+

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../handbook/topic_folders/communications/presentations.md:1
+msgid "Presentations"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/presentations.md:3
+msgid "It's great for community members to give presentations on The Carpentries! Include your work with The Carpentries in a presentation, or you're more than welcome to give talks or discuss the organization in general."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/presentations.md:7
+msgid "There are some general Google slide decks as well as ones more tailored to particular topics or events. The General slide deck is CC0, so you're welcome to use it how you wish. Please just keep attributions on individual figures or photos if they are there."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/presentations.md:10
+msgid "Other slide decks are CC-BY."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/presentations.md:12
+msgid "General Carpentries slide deck CC0"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/presentations.md:14
+msgid "Google drive with slide decks"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/presentations.md:16
+msgid "List of past Data Carpentry presentations on Zotero including abstracts and links to slide decks."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/presentations.md:18
+msgid "Updates to slide decks or contributing your slide decks is encouraged and welcomed too!"
+msgstr ""
+

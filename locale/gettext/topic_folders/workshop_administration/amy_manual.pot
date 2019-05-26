@@ -1,0 +1,690 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:1
+msgid "AMY: the Carpentries' internal database"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:3
+msgid "Logging in"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:5
+msgid "Log in to AMY here.  Contact Carpentries staff if you need login credentials."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:9
+msgid "AMY dashboard"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:11
+msgid "All the menus and a search bar are displayed across the top. The main page has two columns, showing published workshops and unpublished workshops."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:13
+msgid "This view can be filtered to show workshops assigned to the logged in administrator, unassigned workshops, or all workshops."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:17
+msgid "Published workshops have a complete start and end date, a valid url, and a complete location."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:18
+msgid "Unpublished workshops are all workshops that do not meet the criteria to be published."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:20
+msgid "Published workshops will show up on the Software Carpentry, Data Carpentry, or Library Carpentry website, depending on how they are tagged."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:22
+msgid "From here you can also add new persons, events, organizations, or airports to the database."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:26
+msgid "Adding a new organization"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:28
+msgid "If the site name is not already in AMY, add a new one by selecting \"New Organization.\" Do not enter http:// or any slashes in the domain name."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:32
+msgid "Adding a new person"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:34
+msgid "If a person's record does not exist in the database, it can be added individually or as part of a bulk upload."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:36
+msgid "Adding an individual person record"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:38
+msgid "Select \"New person\" and enter in as much information as possible.  At minimum a personal name is required.  If the airport is not listed, it will need to be added in."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:40
+msgid "The person's privacy settings can also be set here.  The person's profile will display on The Carpentries website only if the consent box is checked."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:44
+msgid "Adding bulk person records"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:46
+msgid "Person records can also be added in bulk from a .csv file using the Bulk add persons menu option in the  New menu at the top right or the More menu. Note: To bulk add records, the persons must have a role specified (instructor,helper,learner,host) associated with a specific event."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:50
+msgid "Use the blank template to generate a well formed csv noting each person's personal name, family name (optional), email address (optional), role, and associated event. Any additional information about the person must be entered manually."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:52
+msgid "The role must exactly match the instructions here. The event slug must exactly match the slug for the event recorded in AMY."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:54
+msgid "This will take you to a screen where you can verify each record, correct any errors, and submit them for bulk upload.  If a person with the same name and email already exists in the database, you will be able to match the new entry to the existing record.  Otherwise a new person record will be created."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:56
+msgid "Adding a new airport"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:58
+msgid "Airports are used as approximate geographic identifiers for our instructors. Each airport is identified by its three digit IATA code which can be looked up using the link in AMY."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:60
+msgid "Enter in the airport's IATA code, full name, country, and latitude and longitude."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:64
+msgid "Adding a new event"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:66
+msgid "New events can be created one of several ways:"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:67
+msgid "By manually entering all information on the new event page"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:68
+msgid "By importing from URL on the new event page"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:69
+msgid "By accepting a workshop request"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:71
+msgid "Creating a new event manually"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:73
+msgid "Create the workshop slug. This must be in the form YYYY-MM-DD-sitename (for example, 2018-01-01-hawkins.  The same slug should be used for the workshop's GitHub page and any other place the workshop is identified. If the exact date is not known, XX can replace the month and/or day (for example, 2018-01-xx-starfleet)."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:77
+msgid "If known, enter in the workshop dates."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:81
+msgid "Select the host site name from the drop down menu. If the host site does not appear on the list, create a new organization."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:85
+msgid "Select the administrator from the drop down menu.  This will almost always be Software Carpentry, Data Carpentry, Library Carpentry, or self organized."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:89
+msgid "Select the name of the Carpentries Regional Coordinator responsible for managing this workshop."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:93
+msgid "Assign all appropriate tags to the event."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:95
+msgid "SWC: Software Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:96
+msgid "DC: Data Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:97
+msgid "LC: Library Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:98
+msgid "WiSE: Women in Science and Engineering"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:99
+msgid "TTT: Instructor Training"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:100
+msgid "LSO: Lesson Specific Onboarding"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:101
+msgid "ITT: Trainer Training"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:102
+msgid "LMO: Lesson Maintainer Onboarding"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:103
+msgid "online: Online events"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:104
+msgid "stalled: When host stalled event planning before workshop occurred"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:105
+msgid "unresponsive: When host/instructors were unresponsive to requests for attendance data"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:106
+msgid "hackathon: Non-workshop events. Hackathons related to lesson development or other topics."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:107
+msgid "cancelled: When a fully scheduled event gets cancelled"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:111
+msgid "TTT Open applications. For instructor training events, member sites become associated with the event as individuals from that member site are assigned to that event. Checking this box will allow people from the open application pool to be matched to this event as well."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:115
+msgid "Select the curricula taught at this workshop."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:119
+msgid "Enter in the workshop's url (to the GitHub page, not the repo). This is generally in the format username.github.io/YYYY-MM-DD-sitename."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:123
+msgid "Enter in the human language the workshop is taught in. This is especially important for the Carpentries to track workshops in languages other than English."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:127
+msgid "If the workshop is using Carpentries Eventbrite for registration, enter the Eventbrite key. This is not needed if the host site is using their own Eventbrite account or any other internal system."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:131
+msgid "After the event is over, record the total number of learners who attended the workshop."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:135
+msgid "Enter only the email address for the main contact person for this event."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:139
+msgid "Add in the location including the country, venue name, address, and latitude/longitude coordinates."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:143
+msgid "Add in any other notes that may not be covered in any fields above.  This will be transformed into a timestamped notes log once the event is saved."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:147
+msgid "Click \"Submit\" to save this event."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:149
+msgid "Creating a new event from URL"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:151
+msgid "If you already have the event's URL with properly formatted metadata using The Carpentries workshop template, the following information can automatically be imported:"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:153
+msgid "Slug (created from GitHub repo name)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:154
+msgid "Start and end dates"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:155
+msgid "Location details"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:157
+msgid "Instructor and helper names will be in the notes field but not assigned in the database.  All people will need to be assigned to the event."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:159
+msgid "All other information will need to be entered in as above."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:161
+msgid "Creating a new event from a workshop request"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:163
+msgid "A workshop can be requested from a host site, and this information can be used to create an event in AMY. Select \"Workshop requests\" from the \"Requests\" menu."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:167
+msgid "This page will show a list of all open workshop requests, with the name/email of the requestor, their affiliation, their preferred dates, the Carpentry type, and any other comments."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:171
+msgid "At the bottom of this page, the user has the option to accept or discard the request. Choosing \"Change state to Accepted\" will mark it as accepted in the workshop request list but will not create a new event.  Select \"Accept and create a new event\" to create a new event from this request. All requests should be accepted (unless spam or otherwise inappropriate) so the Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:173
+msgid "This will open a page with a side by side view of the request details and view to create a new event. The new event can be created manually or if available, from the URL, as described above."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:177
+msgid "Assigning people to events"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:179
+msgid "Regardless of how events are created, adding the people associated with each event can not easily be automated. Name matching is hard."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:181
+msgid "People can be associated with events one by one or as a bulk upload."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:183
+msgid "Assigning people to events one by one"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:185
+msgid "Go to the event page and click the \"Edit\" button at the top of the page.  Select the \"Tasks\" tab. (Note the sponsor tab is not currently being used.)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:187
+msgid "To add a new person to the event, start typing the person's name in the \"Person\" field. Auto-completed suggested names will appear."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:189
+msgid "Add the person's role in the event (Helper, Instructor, Workshop Host, Learner, Workshop Organizer). \"Contributed to Lesson Materials\" is not used in this context. \"Title\" and \"URL\" are also not used in this context."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:191
+msgid "If a person's name does not appear in the dropdown, they may need to be added to the database."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:193
+msgid "Below this form, a list of all people assigned to this event is displayed. A person's role can not be directly changed. Instead, delete the item and enter a new one."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:195
+msgid "When done, go back to the \"Event\" tab at the top of the page, and click \"Submit\" at the bottom of the event page to save changes. All people should now appear at the bottom of the event page."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:197
+msgid "Assigning people to events in bulk"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:199
+msgid "See section above."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:201
+msgid "Instructor Training"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:203
+msgid "Accepting Trainee Applications"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:205
+msgid "In addition to tracking workshops, AMY also allows us to track applications to instructor training events. The public facing application is here. Applicants are given a group name if participating in a member training event. Open applicants will likely not have a group name."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:207
+msgid "Once an individual submits the form, the record can be viewed by going to Requests --> Training Requests."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:209
+msgid "Applications can then be searched by individual name, email address, group name, status (pending, accepted, or discarded), affliliation, or location."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:211
+msgid "Some trainees will already be in AMY because they were formerly learners or helpers at Carpentries events. If there is a record with a matching name and email address, they will show up with a \"matched trainee\" when you search for them.  If \"matched trainee\" is blank, you will need to create a new person record for them."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:213
+msgid "To create a trainee record, click on the \"i\" icon at the far right of the individual's line. If you know this person is in AMY under a different name or email address, look this person up here and click \"Match to selected trainee account.\"  If this is a new person, click \"Create new trainee account.\""
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:217
+msgid "This will return you to the search screen, and this person's record will be updated with the new trainee account."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:219
+msgid "Continue doing this until all relevant applications have a new trainee account. This must be done individually; it can not be done in bulk."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:221
+msgid "Once all trainees for a given event have trainee accounts, we can assign them to a specific training event and associate them with a specific member contract. This part can be done in bulk for each group of trainees with a unique training date and member site affiliation. The event and the member agreement must already have been created in AMY."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:223
+msgid "Check all the names to be assigned to the training event and membership, and then select the training event from the first drop down menu.  Select the member agreement from the second drop down menu. If the trainees are coming through the open application process rather than a member agreement, check this box instead of choosing a member agreement."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:225
+msgid "Click \"Accept & match selected trainees to chosen training.\" The search screen will then update to show that the trainees have been matched to this event. The event page will also update to list these trainees as learners at that event."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:229
+msgid "Tracking checkout progress"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:231
+msgid "The above steps note that a trainee was accepted in to a training event. Completion of the training event and three steps towards trainee checkout can be tracked in AMY.  Each person's record will have a line for Instructor Training Progress."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:235
+msgid "Click on the plus sign in the Training Progress line. This will go to a screen where you can track the all steps towards certification."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:239
+msgid "Recording completion of training event"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:241
+msgid "On the screen above, select 'Training' and note whether they passed or failed."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:243
+msgid "Recording completion of discussion session"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:245
+msgid "On the screen above, select 'Discussion' and note whether they passed or failed."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:247
+msgid "Recording completion of teaching demo"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:249
+msgid "On the screen above, select 'DC Demo' or 'SWC Demo' depending on which lesson they used for their demo, and note whether they passed or failed."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:251
+msgid "Recording completion of lesson contribution"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:253
+msgid "On the screen above, select 'DC Homework' or 'SWC Homework' depending on which lesson they used for their contribution, and note whether they passed or failed.  In the notes section, link to their lesson contribution."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:255
+msgid "Issueing badges"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:257
+msgid "The Carpentries has various badges that can be issued, including Data Carpentry Instructor, Software Carpentry Instructor, Trainer, Maintainer, and more."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:259
+msgid "An individual badge can be issued by going to a person's record and clicking the Edit button."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:263
+msgid "Choose the Awards tab on the next screen.  Select the Badge type from the drop down menu, and fill in the date it was awarded. The associated event (such as a training event) and awarded by fields are optional.  Click Submit to save the entry."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:267
+msgid "Memberships"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:269
+msgid "AMY is also used to track all Carpentries memberships.  To create a new membership, the site must first be listed as an organization in AMY."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:271
+msgid "On the organization's page, click the green \"Add a membership\" button.  Enter the following information:"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:273
+msgid "Variant (membership type)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:274
+msgid "Agreement start and end dates"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:275
+msgid "Contribution type (Financial, Person-days, or other)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:276
+msgid "Workshops without admin fee per agreement"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:277
+msgid "Self organized workshops per agreement (can be left blank as this is typically unlimited)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:278
+msgid "Instructor training seats (actual number alloted in contract)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:279
+msgid "Additional instructor training seats (any additional seats allowed beyond contracted amount)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:280
+msgid "Notes."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:282
+msgid "Reports"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:284
+msgid "AMY comes with several built in reporting features that can be accessed by clicking Reports in the top menu. Most reports include an api link for further analysis."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:286
+msgid "List of instructors by time period will generate a list of all instructors who have taught or will teach a workshop in a given time period and can be downloaded as a csv file. This is especially useful when inviting instructors to discussion sessions."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:288
+msgid "Workshops over time, Learners over time, Instructors over time show cumulative numbers of workshops, learners, and instructors from the start of the Carpentries to present day."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:290
+msgid "How often instructors have taught returns a list of all instructors who have taught at least once with the number of workshops they have taught."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:292
+msgid "All activity over time returns data on the number of workshops, number of instructors, number of learners, and identifies gaps in data."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:294
+msgid "Workshop issues and Instructor issues identify specific workshops and instructors with gaps in data."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:296
+msgid "Find duplicates identifies persons that may be listed as duplicates due to having the same name or email address, and allows the user to merge them."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:298
+msgid "Roles in AMY"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:299
+msgid "What you are able to edit or view depends on your assigned role in AMY."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:301
+msgid "Instructor login"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:303
+msgid "Instructors can log in to AMY to view and update their own information. To do so, they must have a valid GitHub username in their profile. Instructors should visit the AMY login page and click on Log in with your GitHub account."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:305
+msgid "If an instructor is having trouble logging in, an administrator can verify the following information."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:307
+msgid "Be sure the GitHub user name is accurate."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:308
+msgid "Click on Change permissions and be sure Is active is checked. No other permissions should be checked unless the instructor is also an otherwise authorized user."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:309
+msgid "Logging in allowed should show next to the GitHub name in the profile. If it says Allow logging in with GitHub, click this to allow logging in. This must be done after setting permissions to active above."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:311
+msgid "Admin roles"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:313
+msgid "Admin users will have rights to view and edit many other parts of the AMY database.  The Django admin panel can be accessed from the top right menu, under the user's name, generating a unique URL for the session."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:315
+msgid "An admin user can view their profile as if they were an ordinary user on this dashboard page."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:317
+msgid "Other tasks"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:319
+msgid "Merging duplicate persons or events"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:321
+msgid "If duplicate persons or event records exists, they can be merged.  Select \"Merge persons\" or \"Merge events\" from the \"More\" menu."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:323
+msgid "Choose the two Persons or Events to be merged, and click \"Submit\" to see merge options. Here you can choose to keep the value from Person/Event A, from Person/Event B, or to combine the values."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:325
+msgid "Searching"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:327
+msgid "General search"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:328
+msgid "The quickiest and easiest way to search is using the search box in the top menu bar. This will perform a case insensitive search of any field in AMY, including searching for partial matches. For example:"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:329
+msgid "12-12- will match any workshop slug containing that string (essentially any workshop on December 12 of any year.)"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:330
+msgid "ola tes will match Nikola Tesla and Nolan Bates"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:331
+msgid "stanford will match any one with a stanford email address, with stanford in their name, any workshops with stanford in the slug, the site Stanford University and any records with stanford in the notes."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:333
+msgid "Searching for Qualified Instructors"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:335
+msgid "Under the \"More\" menu, select \"Find Workshop Staff.\"  Here you can filter by the following criteria:"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:337
+msgid "Airport: This returns a list of all Instructors beginning with those who list that airport as their closest airport, and then continues reaching farther out."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:338
+msgid "Country: This returns a list of all Instructors who are in that country.  It does not continue to any proximate countries."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:339
+msgid "Latitude and Longitude: Like the Airport search, this begins with people whose listed airport is closest to that latitude and longitude, and then continues reaching farther out."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:340
+msgid "Badges: Selecting more than one Instructor badge will return a list of Instructors who have any of those badges. If no badge is selected, the search will return unbadged Persons."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:341
+msgid "Was helper at least once before, Was organizer at least once before, Is an in-progress instructor trainee are based on AMY's current records"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:342
+msgid "Languages, Gender, and Lessons come from the Person record for that individual."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:344
+msgid "Searching for Events"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:346
+msgid "Clicking \"Events\" on the top menu bar will take you to a list of all recorded events - past, present, and future, including those that were stalled or cancelled."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:348
+msgid "Events can be searched from the left side options by Assignee, Tags, Host, Administrator, Invoice status (deprecated), Completed, Country, and Status."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:350
+msgid "Searching for Organizations"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:352
+msgid "Clicking \"Organizations\" on the top menu bar will take you to a list of all recorded organizations, regardless of their involvement with The Carpentries."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:354
+msgid "Organizations can be searched by Country and Membership type."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:356
+msgid "Searching for Persons"
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:358
+msgid "Clicking \"Persons\" on the top menu bar will take you to a list of all recorded persons, regardless of their involvement with The Carpentries."
+msgstr ""
+
+#: ../../handbook/topic_folders/workshop_administration/amy_manual.md:360
+msgid "Persons can be searched for by badges and by teaching history.  See the section above to search specifically for qualified instructors."
+msgstr ""
+

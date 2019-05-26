@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:1
+msgid "Email Templates"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:3
+msgid "Inviting new Maintainers"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:4
+msgid "Subject: Invitation to become a Carpentries Maintainer CC: Existing Maintainers for the repo and other new Maintainer applicants for the same repo."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:7
+#: ../../handbook/topic_folders/maintainers/email_templates.md:47
+#: ../../handbook/topic_folders/maintainers/email_templates.md:88
+msgid "Hi all,"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:9
+msgid "Thank you for applying to become a Maintainer for {lesson name and link to repo}. We're excited to have you on the Maintainer team! Your co-Maintainers are cc'd here."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:11
+msgid "As a Maintainer, you’re part of a team that is responsible for ensuring that your lesson materials stay up-to-date, accurate, functional and cohesive. You’ll monitor your lesson repository, make sure that PRs and Issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. {Add a sentence about when the next lesson release is scheduled for.}"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:13
+msgid "The new Maintainers for all of the Carpentries lessons will be meeting a few times before {month} for onboarding and training in the Carpentries maintenance workflow. Please fill out this schedule poll {add link to poll} by {deadline} with your general weekly availability. Our first meeting is tentatively set for the first week in {month} and we will be meeting three times. Don't forget to select your timezone before filling out your availability. We have new Maintainers joining the team from all over the world, so please be as flexible as possible."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:15
+msgid "New Maintainers will be given write access to their lesson repos after completing the onboarding process. In the meantime, please start becoming familiar with your lesson materials, sign up for the Maintainer mailing list, and check out the dates of the next Maintainer general meeting. You're more than welcome to start attending Maintainer meetings before our onboarding. Please let me know if you have any questions. Looking forward to seeing you in March!"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:17
+#: ../../handbook/topic_folders/maintainers/email_templates.md:40
+#: ../../handbook/topic_folders/maintainers/email_templates.md:57
+#: ../../handbook/topic_folders/maintainers/email_templates.md:66
+#: ../../handbook/topic_folders/maintainers/email_templates.md:81
+#: ../../handbook/topic_folders/maintainers/email_templates.md:102
+msgid "Best, {name}"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:20
+msgid "Maintainer onboarding meetings"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:22
+msgid "Subject: Maintainer Onboarding Meetings"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:24
+msgid "Hi everyone,"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:26
+msgid "Thank you for adding your availability to the scheduling poll. Based on everyone's responses, we will be meeting at two different times. You do not need to attend the same meeting each week, and I would actually encourage those who can do so to switch which meeting they attend so that we can all meet one another over the course of the onboarding."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:28
+msgid "We will be meeting for three weeks, starting the week of {date}. You can see the meeting times in your local time zone on our Etherpad. If you know that you will need to miss one of our meetings, please let me know as soon as possible so that we can make alternative arrangements for you to complete the training."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:30
+msgid "Before our first meeting, please:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:32
+msgid "Sign up for the Maintainer mailing list. This is a low-volume channel for communicating about issues relevant to the Maintainer community."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:34
+msgid "Add Maintainer meetings to your schedule. The meeting times are listed on the Maintainer Etherpad and on the Community Calendar. The Maintainer monthly meetings are not mandatory, but are encouraged as a way of getting to know the more experienced Maintainers."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:36
+msgid "If you have any questions, please let me know."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:38
+msgid "Looking forward to meeting all of you next month!"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:43
+msgid "Onboarding reminder"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:45
+msgid "Subject: Reminder - Onboarding starts next week"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:49
+msgid "Just a quick reminder that we'll be starting our onboarding meetings next week. Please sign up for one of the two available sessions on our groups Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:51
+msgid "During our meetings, we'll be test-running a new curriculum for Maintainer Onboarding. Your suggestions and pull requests to this repository are more than welcome! This curriculum will form the basis for onboarding of new groups of Maintainers in the future, so please help to improve it."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:53
+msgid "Before our first meeting, please look at the first lesson in the Maintainer Onboarding curriculum (Social Aspects of Lesson Maintenance) and do your best to work through the exercises marked \"Preparatory Homework\"."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:55
+msgid "Looking forward to seeing you all soon. Let me know if you have any questions."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:60
+msgid "Missed onboarding meeting"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:62
+msgid "Subject: Unable to attend Maintainer Onboarding"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:64
+msgid "Thanks for letting me know. What I'm doing for people who have to miss a session is asking that they send me an email with their responses to the homeworks (including the preparatory homeworks) and discussions. Could you please take a look through the first lesson and send me your thoughts sometime next week?"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:69
+msgid "Welcoming new Maintainers"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:71
+msgid "Subject: Welcome New Maintainers!"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:73
+msgid "Today I'm happy to announce the addition of {number} new Maintainers to our team. Please join me in welcoming:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:75
+msgid "{Table of names and lessons for new Maintainers}"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:77
+msgid "Each of these new Maintainers has gone through a three week onboarding program to help prepare them for the complex role that Maintainers serve in our community. We certainly couldn't cover everything in these three meeting! Please help your new team mates as they run into snags and feel free to reach out to me with any questions or concerns."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:79
+msgid "Looking forward to seeing everyone in action!"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:86
+msgid "Subject: Opportunities to complete The Carpentries Maintainer onboarding"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:90
+msgid "Thank you again for volunteering to act as a Carpentries Maintainer. You're getting this email because you expressed interested in being a Maintainer but were not able to attend the onboarding sessions. If you are still interested in becoming a Maintainer, please choose one of the two following paths:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:92
+msgid "Reading through the three Maintainer Onboarding episodes, writing up your responses to the discussion questions and homeworks, and sending me your responses by {deadline}."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:94
+msgid "or"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:96
+msgid "Joining the next Maintainer Onboarding session, which will be held in {month}."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:98
+msgid "Please let me know as soon as possible which of these two paths you'd like to follow, or if you are no longer interested in joining the Maintainer team."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/email_templates.md:100
+msgid "Looking forward to hearing back from you."
+msgstr ""
+

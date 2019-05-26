@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:2
+msgid "Maintainer Guidelines"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:4
+msgid "The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They monitor their lesson repository, make sure that PRs and Issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:8
+msgid "Maintainers are responsible for:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:9
+msgid "Routinely:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:10
+msgid "Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:11
+msgid "Quickly addressing issues and PRs tagged as “bug”s."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:12
+msgid "Submitting Issues as they arise."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:13
+msgid "Adhering to the Code of Conduct and alerting the Policy Subcommittee to any potential violations."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:14
+msgid "Identifying potential new Maintainers based on their review activity."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:16
+msgid "Every six months:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:17
+msgid "Participating in regular Issue Bonanza and Bug BBQ events, including organizing and tagging issues."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:18
+msgid "Bringing in updates to the lesson template."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:20
+msgid "Maintainers represent The Carpentries community and should strive to embody The Carpentries philosophy, by:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:21
+msgid "Recognizing the importance of communication and being welcoming to all contributors."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:22
+msgid "Giving feedback to contributors using the Carpentries model:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:23
+msgid "Find what’s good. Be specific about improvements needed. Use motivational language."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:24
+msgid "Evaluating lesson contributions in light of Carpentries pedagogical model:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:25
+msgid "Teach what’s most relevant and useful for learners."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:26
+msgid "Avoid getting bogged down in technical details."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:27
+msgid "Keep language motivating."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:28
+msgid "Emphasize the importance of continued learning and improvement."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:30
+msgid "Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Carpentries lesson Maintainers."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:32
+msgid "How to stay in touch"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:34
+msgid "The overall Maintainer community communicates using our mailing list and our Slack channel. If you don't already have a Slack account with the Carpentries, you can create one."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:36
+msgid "The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on our Etherpad and on the community calendar."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:38
+msgid "Each Lesson Team also has their own Slack channel. A link to join your lesson's Slack channel can be found in the README file in your lesson repository."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:41
+msgid "How to handle issues"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:43
+#: ../../handbook/topic_folders/maintainers/maintainers.md:55
+msgid "Information coming soon."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:45
+msgid "How to get help"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:47
+msgid "There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the help wanted or good first issue labels."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:49
+msgid "If an issue affects the overall structure or scope of the lesson, you can refer the issue to your curriculum's Curriculum Advisory Subcommittee by using the status:refer-to-cac label. Remember that the Curriculum Advisors only meet once every six months (in advance of lesson releases) and they will likely not be able to provide a quick response to your question."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:51
+msgid "You can also get help from other Maintainers and interested community members by posting a question to your lesson's Slack channel."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:53
+msgid "How to suggest changes to the styling for all lessons"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:57
+msgid "Maintainer Onboarding"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:59
+msgid "New Maintainers go through an onboarding process. The curriculum for onboarding new Maintainers is available as a Maintainer Onboarding Lesson. This documentation describes how to recruit new Maintainers and take them through the onboarding process."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:65
+msgid "The application to become a Maintainer is a Google form."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:67
+msgid "Advertise for new Maintainers on the blog, mailing lists and Twitter."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:69
+msgid "Once the application period has closed, reviewing applications and send accepted applicants an invitation to become a Maintainer."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:71
+msgid "To set up a scheduling poll to schedule Maintainer Onboarding, use WhenIsGood. Click \"Use Timezones\" and then \"SHOW OPTIONS\". Unselect Sunday and Saturday. Add Duration = 60 minutes. Select \"hide dates\"."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:73
+msgid "Add Maintainers who are going through training to the maintainer-onboarding Google Group. This is where announcements about upcoming meetings should be sent."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:75
+msgid "After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximize attendance. This needs to be done manually from the whenisgood results, as there isn't a \"choose two times\" option."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:77
+msgid "Populate the Maintainer onboarding Etherpad with meeting dates and times. Use timeanddate meeting time announcer links to make it easy for people to convert meeting times to their own time zone."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:79
+msgid "Send out an email to the Google Group letting everyone know about the scheduling."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:81
+msgid "Set up a new event in AMY with the slug YEAR-MO-DA-maintainer-onboarding. Add all maintainer trainees as learners. Add onboarding leader as instructor."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:83
+msgid "One week before the first onboarding meeting, send a reminder email to the Google Group."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:85
+msgid "Run the three weeks of meetings according to the curriculum. Keep record of who participates in the AMY event."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:87
+msgid "If people are not able to make all of the meetings, email them to ask them to write out responses to the discussion questions and homeworks."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:89
+msgid "After the final onboarding meeting, do the following for each of the Maintainers who have completed the onboarding requirements:"
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:90
+msgid "Give them \"write\" access to their lesson repository on GitHub."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:91
+msgid "Add their name to the lesson table on the website."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:92
+msgid "Award them a Maintainer badge in AMY."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:94
+msgid "Send email to the Maintainers email list announcing new Maintainers."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:96
+msgid "Run sendmail_maintainer_certificates.R to send new Maintainers their certificates."
+msgstr ""
+
+#: ../../handbook/topic_folders/maintainers/maintainers.md:98
+msgid "Announce new Maintainers in the next newsletter."
+msgstr ""
+

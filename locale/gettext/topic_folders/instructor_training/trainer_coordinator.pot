@@ -1,0 +1,281 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:1
+msgid "Trainer Coordinator"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:3
+msgid "The Trainer Coordinator plays an essential role in The Carpentries community by ensuring that teaching demonstrations run smoothly and by coordinating meetings for the Trainers group. The duties for this position are estimated to take about two hours per month."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:5
+msgid "Duties"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:7
+msgid "Weekly:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:8
+msgid "Check the teaching demonstration Etherpad to ensure that all events for the next two weeks have Trainers listed."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:9
+msgid "If any events don’t have a Trainer listed, send out a reminder to the Trainer Slack channel and the Trainer mailing list asking Trainers to sign up. See the email templates for suggested language."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:10
+msgid "If one week before the demo is scheduled to take place, there is still no Trainer available, email team@carpentries.org. The Carpentries staff will try to find a staff member to cover the demo."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:11
+msgid "If three business days before the demo, there is still no one available to lead, send an email to the trainees who are signed up. Also, change the status to “Cancelled” on the Etherpad and notify the Trainers group that we had to cancel an event."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:13
+msgid "Bi-monthly:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:14
+msgid "Add teaching demonstration sessions for the next two months to the teaching demonstration Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:15
+msgid "Use the Event Time Announcer to create a new event. Set the event location as “UTC”."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:16
+msgid "Set the month, day, year, hour, minute, and second to reflect the recurring times on the Community Calendar."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:17
+msgid "Click “show result” and verify that the event is displaying in UTC. It will also display in your computer’s system time."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:18
+msgid "Add the link to the teaching demonstration Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:19
+msgid "Make sure that the sessions are also listed on the community calendar."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:20
+msgid "Events are listed on the community calendar as recurring with no end date. They will only need to be modified if there are changes made to the teaching demo schedule."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:21
+msgid "If you do not have edit access to the community calendar, contact team@carpentries.org."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:22
+msgid "Email the Trainers mailing list and post a message to the Trainer Slack channel asking people to sign up for teaching demos for the next two months."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:23
+msgid "Add Trainer Discussion and Business meetings to the Trainers Etherpad using the template at the bottom of the Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:25
+msgid "Bi-weekly:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:26
+msgid "Send out reminders to the Trainers mailing list and Slack channel about upcoming Trainer Discussion and Business meetings."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:28
+msgid "Monthly:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:29
+msgid "Take notes in Trainer Business meetings."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:30
+msgid "If not available to take notes, coordinate a replacement notetaker."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:31
+msgid "Submit notes as a pull request to the Trainers’ GitHub repository."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:32
+msgid "Send email to Trainers mailing list and post to Slack channel after Business meetings with a link to the notes."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:33
+msgid "Note: There is no need to take notes in Trainer Discussion meetings."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:35
+msgid "Email templates (Trainer Coordinator)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:37
+msgid "Teaching demos without hosts"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:39
+msgid "Subject: Need hosts for upcoming teaching demos"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:41
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:75
+msgid "Dear Trainers,"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:43
+msgid "Thanks to everyone for signing up for leading teaching demonstrations in the coming weeks. Please note that we are missing a Trainer to lead a session on [time and date UTC] [time and date link]. If you are available to lead, please add your name to the Etherpad. If we don’t have a host scheduled one week before the event we will need to cancel the demo and ask trainees to reschedule."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:45
+msgid "Here are some additional events in the next month that don’t have a Trainer listed yet. Please sign up on the Etherpad if you’re available."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:47
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:48
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:64
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:65
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:92
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:93
+msgid "[list available sessions by UTC and with time and date links]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:50
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:79
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:95
+msgid "As always, if you haven’t led a teaching demo before, now’s a great time to start! You can get a feel for how they are run by observing someone else’s demo session or watching a recorded teaching demo session. If you’ll be attending someone else’s training, please let the Trainer who is running the session know that you’ll be there."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:52
+msgid "If you have any questions about running a teaching demo, please contact Erin Becker."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:54
+msgid "Thank you![Name]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:57
+msgid "Teaching demo cancelled - trainees"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:58
+msgid "Subject: Teaching demo cancelled - please reschedule"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:60
+msgid "Dear checkout participant,"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:62
+msgid "Thank you for signing up to do your teaching demonstration next week at [time in UTC from Etherpad] [time and date link]. Unfortunately, due to lack of volunteer availability, we need to cancel this session. There are still spots open in the upcoming sessions listed below(for which we do have leaders confirmed!)."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:67
+msgid "Please add your name to one of these or another session. I apologize for any inconvenience this has caused for you and hope that you are able to reschedule your demonstration soon. I'm looking forward to having you in our instructor community."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:69
+msgid "Sincerely,[Name]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:72
+msgid "Teaching demo cancelled - Trainers"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:73
+msgid "Subject: Teaching demo cancelled - no host"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:77
+msgid "This is just a quick notice that we’ve had to cancel a teaching demo for this coming week due to lack of Trainer availability. I’ve already followed up with the trainees who were scheduled to teach during that session and asked them to reschedule. If you haven’t lead a teaching demo in a while, please check out the upcoming sessions on our Etherpad: http://pad.software-carpentry.org/teaching-demos and sign up if you’re available."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:81
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:127
+msgid "Best,[Name]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:84
+msgid "New teaching demos available"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:85
+msgid "Subject: New teaching demos available for [Months]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:87
+msgid "Hi folks, I've updated the teaching demo Etherpad to include dates through the end of [Month]. It would be great if everyone could check out the available time slots and sign up. Please remember that we need each Trainer to run one teaching demo every three months in order to cover all of the events."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:90
+msgid "A few events still need coverage in [Month]. Please sign up on the Etherpad if you can take any of the following:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:97
+msgid "Thanks!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:99
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:108
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:117
+msgid "All the best,[Name]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:102
+msgid "Discussion Meeting reminder"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:103
+msgid "Subject: Trainer Discussion meeting this week"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:105
+msgid "Hi all,Just a quick reminder that we'll be having our Trainer Discussion meeting this week. Please join us to share your recent instructor training experience and get advice about upcoming events. Meeting details are here: http://pad.software-carpentry.org/trainers."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:111
+msgid "Business Meeting reminder"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:112
+msgid "Subject: Trainer Business meeting this week"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:114
+msgid "Hi all,Just a quick reminder that we’ll be having our Trainer Business meeting this week. Please check out the agenda and join here: http://pad.software-carpentry.org/trainers."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:120
+msgid "Business Meeting notes available"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:121
+msgid "Subject: Trainer Business meetings notes"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:123
+msgid "Hi all,"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainer_coordinator.md:125
+msgid "Thank you to all who attended our Business meetings this week. For those who weren’t able to attend, please read through the meeting notes to stay informed about important issues affecting the Trainer community. If you have any questions or comments, contact Erin Becker or send a mail to the Trainers list."
+msgstr ""
+

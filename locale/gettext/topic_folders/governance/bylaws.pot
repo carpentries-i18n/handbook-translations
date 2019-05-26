@@ -1,0 +1,487 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../handbook/topic_folders/governance/bylaws.md:1
+msgid "The Carpentries Bylaws"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:3
+msgid "1. Purpose"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:5
+msgid "Mission: The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:7
+msgid "2. Lesson Program Membership"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:9
+#: ../../handbook/topic_folders/governance/bylaws.md:90
+msgid "Overview"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:10
+msgid "Lesson Programs are collections of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation. The following requirements outline the general expectations associated with Lesson Programs; additional detail can be found in the Lesson Program Policy."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:12
+msgid "Eligibility for Lesson Program Membership"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:13
+msgid "The Executive Council is responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which requires a majority vote. The Executive Director will be responsible for developing and implementing policies related to Lesson Program incubation and assessing the ability of the staff and community to meet obligations associated with new Lesson Programs."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:15
+msgid "Roles and Responsibilities of Lesson Programs"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:16
+msgid "A Lesson Program within The Carpentries should possess the following characteristics:"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:17
+msgid "Intention and purpose for lessons that align with The Carpentries mission and vision"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:18
+msgid "Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:19
+msgid "Service to a particular audience of learners and instructors"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:20
+msgid "Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:22
+msgid "Governance of Lesson Programs"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:23
+msgid "Each Lesson Program will have a Lesson Program Committee to serve as community governance organization and act as a point of contact with The Carpentries Executive Council and staff. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:25
+msgid "Resignation and Termination of Lesson Programs"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:26
+msgid "In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and the Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with the Carpentries. In either case, notice must be given to the other organization to arrange for separation of responsibilities and resources."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:28
+msgid "3. Organizational Membership"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:29
+msgid "Eligibility, Rights, and Termination of Organizational Members"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:30
+msgid "Member Organizations have committed to supporting the maintenance and growth of the Carpentries community according to the specific details outlined in each institution's Membership Agreement. In general, Member Organizations financially support The Carpentries in exchange for priority access to instructor training and guidance in building training capacity at their organization."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:32
+msgid "4. Individual Voting Membership"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:34
+msgid "The Carpentries community includes many opportunities for involvement representing variable levels of commitment. All individuals participating in community activities are required to conform to the Code of Conduct. Individuals may choose to commit to serving in one or more formal roles in the community, such as instructor, trainer, or maintainer, as defined by The Carpentries Handbook."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:36
+msgid "Eligibility, Rights, and Termination for Voting Members"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:37
+msgid "Individuals who satisfy at least one of the following conditions are eligible for Voting Membership, as assessed in a yearly timeframe associated with the dates of the election (Dec 1 to Nov 30):"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:39
+msgid "Every individual who has completed instructor or trainer certification in the past year"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:40
+msgid "Every individual who has completed their instructor certification in the last two years and has taught at least one workshop of The Carpentries"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:41
+msgid "Every individual who is a certified instructor and has taught at least two workshops of The Carpentries in the past two years"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:42
+msgid "Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organization in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:44
+msgid "The Executive Director is not eligible for Voting Membership."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:46
+msgid "All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:48
+msgid "Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries staff for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct committee or Executive Director for non-compliance with The Carpentries policies or violation of the core values of The Carpentries."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:50
+msgid "5. Executive Council"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:52
+msgid "General Powers"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:53
+msgid "As the highest leadership body of the organization, the Executive Council is responsible for:"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:54
+msgid "determining the mission and purposes of the organization"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:55
+msgid "selecting the Executive Director and evaluating their performance"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:56
+msgid "strategic and organizational planning"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:57
+msgid "ensuring strong fiduciary oversight and financial management"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:58
+msgid "identifying revenue streams and resource development"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:59
+msgid "approving and monitoring The Carpentries programs and services"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:60
+msgid "enhancing The Carpentries public image"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:61
+msgid "assessing its own performance as the governing body of The Carpentries"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:63
+msgid "Responsibilities of Executive Council Members"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:64
+msgid "Each Member of the Executive Council is responsible for:"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:65
+msgid "knowing the organization’s mission, policies, programs, and needs"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:66
+msgid "reading and understanding the organization’s financial statements"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:67
+msgid "serving as active advocates and ambassadors for the organization necessary for The Carpentries to advance its mission"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:68
+msgid "leveraging connections, networks, and resources to develop collective action to fully achieve the Carpentries’ mission"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:69
+msgid "helping identify personal connections that can benefit the organization’s fundraising and reputational standing, and can influence public policy"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:70
+msgid "preparing for, attending, and conscientiously participating in Executive Council meetings"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:72
+msgid "Number, Tenure, Requirements, and Qualifications"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:73
+msgid "The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as \"Council-elected Members\"). The other four (4) Members will be elected by the Membership of the organization (\"Community-elected Members\"). No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries staff are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:76
+msgid "Regular Meetings and Quorum"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:77
+msgid "The Executive Council must meet at least ten (10) times per year, either in person or online. Quorum for meetings of the Executive Council is five Members, including at least one Council-elected and one Community-elected Member."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:79
+msgid "Compensation"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:80
+msgid "Members of the Executive Council shall not receive compensation from the Organization for their service, with the exception of administrative support, travel, and accommodation costs related to their duties on the Executive Council."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:82
+msgid "Confidentiality"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:83
+msgid "Members of the Executive Council will sometimes discuss or be made aware of information or activities that may be sensitive to share publicly (e.g. salary information). Executive Council Members are expected to treat such information confidentially and to disclose such information to those outside the Executive Council only when the Executive Council has agreed that such dissemination is appropriate."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:85
+msgid "Removal"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:86
+msgid "If a Member of the Executive Council consistently fails to meet the obligations outlined above, they may be removed by a vote of three-quarters (3/4) of the other Members of the Executive Council. A vote to remove a Member must be announced in writing to the entire Executive Council at least ten (10) days in advance of the vote. A vacated Executive Council seat will be filled following the Between-election vacancies procedure outlined in the Nominations and Elections section."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:88
+msgid "6. Nominations and Elections"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:91
+msgid "Four (4) to five (5) of the nine (9) Members of the Executive Council will be elected each year, either by the community (Community-elected) or by the Executive Council (Council-elected). A general timeline for elections will occur annually as follows:"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:92
+msgid "Mid-October: Executive Council announces election, soliciting self-nominations for Community-elected Members and recommendations for Council-elected Members, and identifying areas of expertise desired by the Council"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:93
+msgid "Late November: Self-nominations and recommendations close and the Executive Council hosts Community Calls to discuss the election and introduce candidates for Community-elected Members"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:94
+msgid "Early December: Voting Members vote for Community-elected Members"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:95
+msgid "Mid-December: Executive Council elects Council-elected Members and announces the Executive Council Members for the following year"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:96
+msgid "February 1: Responsibility for governance is transferred to the new Executive Council"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:98
+msgid "Community-elected Members"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:99
+msgid "Two (2) Community-elected Members will be elected each year by the Voting Members of The Carpentries. Any Voting Member of The Carpentries may stand for election by announcing their candidacy as dictated by the Election Policy; Carpentries staff may not stand for election. If there are fewer than two candidates for the election, the current Community-elected Members will decide amongst them who will remain in office."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:101
+msgid "Elections will take place once every calendar year and no later than 30 days before the new Executive Council becomes active (February 1). Each Voting Member may vote for as many candidates as there are Community-elected Member seats to be filled. The candidates who receive the highest number of votes will be elected into the Executive Council."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:103
+msgid "Council-elected Members"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:104
+msgid "Two (2) or three (3) of the Council-elected Members will be elected each year. The Executive Council must consider at least one more candidate than the number of Council-elected Member seats to be filled. Anyone may recommend candidates for Council-elected positions."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:106
+msgid "Executive Council selects, by anonymous vote, the Council-elected Members from among the recommended candidates. Appointed Members will abstain from voting when they themselves are recommended for reappointment. Each Executive Council Member may vote for as many individuals as there are Council-elected Member seats to be filled. The individuals with the highest number of votes will be appointed. This vote will not take place until after the voting results for Community-elected Members are known and no later than December 15th."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:108
+msgid "Between-election vacancies"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:109
+msgid "If an Executive Council seat of a Community-elected Member becomes vacant after the beginning of the year but before the first of October, the Executive Council will strive to fill the seat with one of the non-elected nominees from the previous year’s election, in the order of the number of votes they received. If this effort fails, the Executive Council may appoint a Voting Member to fill the seat."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:111
+msgid "If an Executive Council seat of a Council-elected Member becomes vacant after the beginning of the year but before the first of October, the Executive Council will strive to fill the seat with another eligible Voting Member."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:113
+msgid "In both of these cases, the vacancy will be filled by the new Executive Council Member for the remainder of the original term only."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:115
+msgid "7. Officers"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:117
+msgid "Responsibilities of each officer of the Executive Council are as follows:"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:119
+msgid "Chair"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:120
+msgid "Oversee regularly scheduled Executive Council meetings and call special meetings as necessary"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:121
+msgid "Work in partnership with the Executive Director to make sure that resolutions are carried out and issues addressed by the Executive Council as needed"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:122
+msgid "Prepare the agenda for Executive Council meetings"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:123
+msgid "Oversee the search for a new Executive Director (when applicable)"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:124
+msgid "Coordinate the Executive Director's annual performance evaluation"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:126
+msgid "Vice-Chair"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:127
+msgid "Understand the responsibilities of the Executive Council Chair and be able to perform these duties in the chair's absence"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:128
+msgid "Participate in leadership of the Executive Council by chairing special committees and carrying out assignments as requested by the Chair"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:129
+msgid "Ensure the circulation of agendas, minutes, and other communications to the Executive Council"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:130
+msgid "Ensure that any Executive Council members who have been given tasks know what it is they have been asked to do"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:131
+msgid "Check that action has been taken following decisions at previous meetings"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:133
+msgid "Secretary"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:134
+msgid "Ensure that someone is assigned to and takes minutes during all official EC meetings"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:135
+msgid "Revise minutes for publication"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:136
+msgid "Report decisions, policy, and action items in formal minutes published publicly (when applicable)"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:137
+msgid "Receive all communication from community to Executive Council and relay as necessary"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:139
+msgid "Treasurer"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:140
+msgid "Assist the Executive Director in preparing financial reports for both the Executive Council and community at large"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:141
+msgid "Assist the Executive Director in preparing the annual budget and presenting the budget to the Executive Council for approval"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:142
+msgid "Answer Executive Council Members’ questions about the budget and finances"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:144
+msgid "Election of Officers"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:145
+msgid "All officers must be members of the Executive Council. Officers will be selected via majority voting of the Executive Council at the first regular meeting of the year."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:147
+msgid "Removal of Officers"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:148
+msgid "If an officer steps down, is removed from the Executive Council, or is otherwise unable to meet their obligations as determined by the Chair and/or Vice Chair, a new officer will be elected from the remaining Executive Council Members."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:150
+msgid "8. Committees"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:152
+msgid "Committee Formation"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:153
+msgid "Committees are organized by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Task forces are similar in that they perform specific tasks, but on a short-term basis (e.g., a year or less) and may be organized by staff. Both committees and task forces are overseen by staff, although the Executive Council may request quarterly reports on each group’s activities."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:155
+msgid "9. Staff"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:157
+msgid "Executive Director"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:158
+msgid "The Executive Director acts as the Chief Executive Officer of The Carpentries in accordance with its vision and mission as overseen by the Executive Council. The Executive Director provides oversight and overall management, planning, vision and leadership for all aspects of The Carpentries including programs, finances, resource development, human resources, member services, communications, and Executive Council development. The Executive Director assumes a leadership role in partnering with collaborating organizations, businesses, universities, foundations, government agencies, other nonprofits and supporters. The Executive Director works with the Executive Council to establish vision, policies, strategic focus, priorities, and general scope of programs The Carpentries will deliver, and communicates on progress towards these goals via an annual report."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:160
+msgid "The Executive Council is responsible for advertising and interviewing for the position of Executive Director. A majority vote of the Executive Council is required to hire or remove the Executive Director from their position."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:162
+msgid "10. Amendments"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:164
+msgid "Bylaws"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:165
+msgid "Any changes to these bylaws require a majority vote of the Executive Council. The Executive Council must re-approve these rules or an amended version every two years."
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:169
+msgid "Update log:"
+msgstr ""
+
+#: ../../handbook/topic_folders/governance/bylaws.md:170
+msgid "Approved 2018-11-01 by the Executive Council"
+msgstr ""
+
