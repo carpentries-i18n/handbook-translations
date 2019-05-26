@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/communications/commons.md:1
+msgid "Carpentries Commons"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/commons.md:3
+msgid ""
+"The Carpentries Commons GitHub repository is a place for open sharing of "
+"reusable material, such as text for grants, wording for job or tenure "
+"applications, slide decks for conferences, workshop descriptions, "
+"promotional copy, and so on."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/commons.md:5
+msgid ""
+"Carpentries staff will have write access to add, edit and upload material"
+" here. Other members of our community will need to fork the repository "
+"and submit pull requests."
+msgstr ""
+

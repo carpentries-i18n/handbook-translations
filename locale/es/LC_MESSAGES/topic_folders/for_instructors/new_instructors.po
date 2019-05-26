@@ -1,0 +1,239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:1
+msgid "Become a Carpentries Instructor"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:3
+msgid "We are always glad to welcome new Instructors to our community!"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:5
+msgid ""
+"A Carpentries Instructor is a person who has completed our two-day "
+"Instructor training course workshop, and has performed the required "
+"follow-up tasks to complete the checkout process to become a certified "
+"(or ‘badged’) Instructor. Our Instructor training has the following "
+"overall goals:"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:11
+msgid "Introduce participants to evidence-based teaching practices."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:12
+msgid ""
+"Teach participants how to create a positive environment for learners at "
+"workshops."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:13
+msgid ""
+"Provide opportunities for participants to practise and build teaching "
+"skills."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:14
+msgid "Help participants become integrated into The Carpentries community."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:15
+msgid ""
+"Prepare participants to use these skills in teaching Carpentries "
+"workshops."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:17
+msgid "Who are the Instructors?"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:19
+msgid ""
+"Our Instructor community includes researchers, librarians, data "
+"scientists, and many others from a wide range of backgrounds, "
+"disciplines, career stages, and countries. Many of our Instructors are "
+"people who have attended a Carpentries workshop, and who have been "
+"inspired to go on and train as Instructors to share the skills they "
+"learned and now use in their work."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:24
+msgid "What knowledge is needed?"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:26
+msgid ""
+"Some would-be Instructors worry about how knowledgeable one has to be "
+"about the material we teach in order to become an Instructor. While our "
+"Instructors have experience in one or more of our content areas, such as "
+"shell, git, SQL, Python, R, OpenRefine or spreadsheet software, some are "
+"relatively new to the skills."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:30
+msgid ""
+"Some people might be surprised to hear that feeling like a content "
+"‘expert’ is not a necessary qualification to becoming an Instructor! We "
+"encourage newer learners to become Instructors. This is because:"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:33
+msgid ""
+"a) often the best people to teach a novice level curriculum are not "
+"experts, but rather people who have recently been novices themselves "
+"(we'll discuss why this is so in the training!) b) teaching is actually "
+"an excellent way to become more familiar with the material."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:37
+msgid ""
+"And because Carpentries Instructors never teach alone, you will always "
+"have help around if you get stuck!"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:39
+msgid ""
+"Many Instructors add to the number of lessons they feel comfortable "
+"teaching only gradually. Not knowing the material well should not hold "
+"you back from applying to become an Instructor. However, if you do want "
+"to apply, it would be useful to have attended a Carpentries workshop "
+"either as a learner or helper and have some familiarly with at least one "
+"of the topics. That way, you will know more about what being an "
+"Instructor involves, and you can assess whether the workshop style and "
+"teaching method are for you. Having already participated in a workshop "
+"will be a plus on our scoring rubric if you decide to apply."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:42
+msgid "Motivation for people to train as Instructors"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:44
+msgid "People train as Instructors for many reasons:"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:46
+msgid ""
+"To make their own lives better. By teaching their peers how to build and "
+"share better software, our Instructors are indirectly helping to create "
+"things that they themselves can use."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:47
+msgid ""
+"To build a reputation. Teaching a workshop is a great way for people to "
+"introduce themselves to places they would eventually like to work, and a "
+"great way to make contact with potential collaborators."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:48
+msgid ""
+"To get practice teaching. We are training more Instructors every year, "
+"and giving them opportunities to teach, which is useful for people with "
+"academic careers in mind."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:49
+msgid ""
+"To help get people of diverse backgrounds into the pipeline. Some of our "
+"Instructors are involved in part because they want computational science "
+"to include people from a broader range of backgrounds."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:50
+msgid ""
+"Teaching forces you to learn new things, or learn old things in more "
+"detail than you already know. See this paper: Graduate Students' Teaching"
+" Experiences Improve Their Methodological Research Skills\"."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:51
+msgid "To make the world a better place."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:52
+msgid ""
+"To acquire useful skills for careers. Instructors can expect to develop "
+"this skill set. You can re-use and re-purpose this wording for use in "
+"grant and job applications and for your CV."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:53
+msgid ""
+"To join a community of people who care about inclusive teaching of "
+"computational skills."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:54
+msgid "Because it's fun. It really is !"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:56
+msgid ""
+"Read more about Instructor motivations in Dr. Beth Duckles's report, "
+"Value of Software Carpentry to Instructors."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:58
+msgid "Steps to becoming an Instructor"
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:60
+msgid ""
+"Anyone who supports the aims of The Carpentries is welcome to apply for "
+"Instructor training. However, we are not able to guarantee training to "
+"all applicants. While we would like to help everyone, we do need to "
+"prioritise people at our member organisations, who have provided funding "
+"to us to ensure that they can develop Instructor capacity in-house."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:64
+msgid ""
+"Therefore, if you are at an institution that is not affiliated to The "
+"Carpentries, there may be a substantial wait to become trained as an "
+"instructor."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:67
+msgid ""
+"We periodically review and score applications that have been submitted. "
+"When training places go unclaimed by member institutions, we invite "
+"applicants in order of scoring to fill any training seats unclaimed by a "
+"member institution."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:70
+msgid "How do we score applicants? See our scoring rubric."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:72
+msgid "To request training as an Instructor, please fill out this form."
+msgstr ""
+
+#: ../../handbook/topic_folders/for_instructors/new_instructors.md:74
+msgid ""
+"Occasionally, open training events offered to the general public may be "
+"announced in our mailing list, newsletter, Carpentry Clippings, or "
+"through our Twitter feed. For all other events, applicants from our "
+"waiting lists are personally invited to attend as seats become available."
+msgstr ""
+

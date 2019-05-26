@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:1
+msgid "Becoming a Trainer"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:2
+msgid ""
+"The Trainers group periodically accepts new members via application. New "
+"Trainers undergo an eight-week training program outlined below and agree "
+"to the Trainer Agreement."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:4
+msgid "Trainers Training Program"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:6
+msgid ""
+"This outline represents the time commitment required for being an "
+"instructor Trainer with the Carpentries. Please read through and check to"
+" see that you are able to commit to the responsibilities outlined below."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:8
+msgid ""
+"Instructor Trainers agree to abide by the Code of Conduct in all "
+"communications and interactions with The Carpentries community."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:10
+msgid ""
+"Read How Learning Works by Susan Ambrose and discuss in book club format "
+"with Trainers-in-training. Preliminary reading schedule."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:11
+msgid ""
+"Time commitment: 1 hour per week for 8 weeks meetings; can miss one "
+"meeting; ~10 hours reading"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:12
+msgid "Join Trainer meetings"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:13
+msgid "Time commitment: 1 hour per month; can miss one meeting"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:14
+msgid "Shadow a teaching demonstration session"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:15
+msgid "Time commitment: 1 hour one time"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:16
+msgid "Shadow at least half a day of an online instructor training event"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:17
+msgid "Time commitment: 4 hours one time"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:18
+msgid ""
+"Teach once either online or in person with experienced Trainer (after "
+"finishing book club)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:19
+msgid "Time commitment: 2 days one time plus prep"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:20
+msgid "Agree to the Trainer Agreement."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:22
+msgid ""
+"Total time commitment for continuing Trainers: 4 days per year + 2.5 hrs "
+"per month"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:25
+msgid ""
+"Total time commitment for new Trainers: 3 days + ~30 hours over 3 month "
+"period, including reading and prep time"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:28
+msgid "Trainers Training Reading Schedule"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:30
+msgid ""
+"For the most recent Trainer Training schedule and discussion questions, "
+"see the Trainer Training Curriculum"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:32
+msgid "Reviewing New Trainer Applications"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:34
+msgid ""
+"Director of Instructor Training and Carpentries staff will decide on "
+"goals for Trainer recruitment."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:35
+msgid "Trainer Application will be modified to reflect these goals."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:36
+msgid ""
+"Open application period will be announced via Carpentries platforms "
+"including Twitter, Facebook, the Discuss email list, and blogs. Ask "
+"relevant community members to promote within their networks as well.  "
+"Personal invitations can be sent with this email template."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:37
+msgid "Ensure communication emphasizes overall goals."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:38
+msgid ""
+"Ask 2-3 existing Trainers to help review applications in line with "
+"defined goals. There is no rubric for this.  Reviewers should leave notes"
+" supporting their rankings."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:39
+msgid ""
+"Consolidate rankings, adding discretionary points for gaps in "
+"representation by characteristics like gender, race, geography, and "
+"experience."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:40
+msgid "Notify accepted applicants using this email template."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:41
+msgid "Schedule Book Club meetings across time zones."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:42
+msgid "Inform the Communications Lead so he/she can promote this."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:43
+msgid "Update the Trainer training Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:44
+msgid "Update the Reading Guides as needed."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:45
+msgid "Take attendance at all Book Club meetings. At most one absence is allowed."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:46
+msgid "After Book Club is over, remind Trainers to complete follow up tasks."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:47
+msgid "Send out Trainer certificates."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/trainers_training.md:48
+msgid "Inform the Communications Lead so he/she can promote the new cohort."
+msgstr ""
+

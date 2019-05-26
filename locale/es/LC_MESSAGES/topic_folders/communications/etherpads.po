@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/communications/etherpads.md:1
+msgid "Etherpads"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:3
+msgid "General Usage"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:5
+msgid ""
+"The Carpentries offers the use of our etherpads as collaborative note "
+"taking tool during workshops, training events, and other Carpentries "
+"related events."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:7
+msgid ""
+"A new etherpad can be created by appending a descriptive name to the url "
+"https://pad.carpentries.org/, such as "
+"https://pad.carpentries.org/committeename."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:9
+msgid ""
+"Pads are synchronized as you type, so that everyone viewing this page "
+"sees the same text. This allows everyone to collaborate seamlessly on "
+"documents."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:11
+msgid ""
+"Use of this service is restricted to members of The Carpentries "
+"community; this is not for general purpose use (for that, try "
+"etherpad.wikimedia.org)."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:13
+msgid ""
+"Users are expected to follow our code of conduct.  All content is "
+"publicly available under the Creative Commons Attribution License."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:15
+msgid ""
+"A list of all commonly used Etherpads can be found on our pad of pads. "
+"This list is manually created and typically only includes pads of "
+"interest to the general community.  It will not include pads specific to "
+"single events or groups."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:17
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:19
+msgid ""
+"While etherpads are generally reliable, you may find an etherpad not "
+"loading as expected.  In this case, you can try appending /export/html to"
+" an etherpad's url.  For example, if "
+"https://pad.carpentries.org/committeename is not loading, it may be "
+"possible to recover its text by going to "
+"https://pad.carpentries.org/committeename/export/html. This text content "
+"can then be copied and pasted to a new etherpad. Note this will not "
+"preserve the etherpad's history.  The chat will often still be active in "
+"the broken etherpad, so it is recommended that you link to the new "
+"etherpad in the broken etherpad's chat."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/etherpads.md:21
+msgid ""
+"If other etherpad issues arise, please contact us at team@carpentries.org"
+" and a team member will help you troubleshoot."
+msgstr ""
+

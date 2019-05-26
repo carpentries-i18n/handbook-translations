@@ -15,3 +15,9 @@ sphinx-build -M gettext . locale -a
 ```
 That creates a `gettext` folder under `locale` filled with the `pot` files.
 
+2. Generate the `po` files for a set of languages:
+```bash
+sphinx-intl update -p locale/gettext -l es -l fr
+```
+This generates the basic translation files for `es` and `fr` under `locale/<lang>`. These configuration is taken from the local `conf.py` file.
+

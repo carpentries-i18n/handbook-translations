@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/communications/logos.md:1
+msgid "Logos"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:3
+msgid ""
+"The names “The Carpentries”, “Software Carpentry”, “Library Carpentry”, "
+"and “Data Carpentry”, and their associated logos are all trademarked."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:5
+msgid ""
+"You do not require approval to use these trademarks in some cases. "
+"Stating accurately that a workshop is a Carpentries workshop, or that a "
+"workshop is based on Carpentries material, is always allowed. It is "
+"acceptable to use the trademark in acknowledging or crediting The "
+"Carpentries in journal articles, conference presentations and keynotes, "
+"grant applications, and the like. In those cases, you may use the term "
+"“The Carpentries” or the unaltered logos to indicate this, without our "
+"prior approval."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:7
+msgid ""
+"If you have any doubts about your intended use of the trademarks, please "
+"write to us at team@carpentries.org and one of our team members will "
+"advise."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:9
+msgid "Links to logo files"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:11
+msgid "The Carpentries"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:12
+msgid "Data Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:13
+msgid "Library Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/logos.md:14
+msgid "Software Carpentry"
+msgstr ""
+

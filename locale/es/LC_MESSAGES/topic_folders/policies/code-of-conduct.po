@@ -1,0 +1,318 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:1
+msgid "The Carpentries Code of Conduct"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:3
+msgid "Code of Conduct (Summary View)"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:5
+msgid ""
+"Below is a summary of The Carpentries Code of Conduct. Continue reading "
+"for a more detailed description of the CoC."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:7
+msgid "For more information please review our:"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:8
+msgid "Incident Response Guidelines"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:9
+msgid "Incident Reporting Guidelines"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:10
+msgid "Incident Response Procedure"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:11
+msgid "Termed Suspension Guidelines"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:13
+msgid ""
+"We are dedicated to providing a welcoming and supportive environment for "
+"all people, regardless of background or identity. By participating in "
+"this community, participants accept to abide by The Carpentries' Code of "
+"Conduct and accept the procedures by which any Code of Conduct incidents "
+"are resolved. Any form or behaviour to exclude, intimidate, or cause "
+"discomfort is a violation of the Code of Conduct. In order to foster a "
+"positive and professional learning environment we encourage the following"
+" kinds of behaviours in all platforms and events:"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:15
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:44
+msgid "Use welcoming and inclusive language"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:16
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:45
+msgid "Be respectful of different viewpoints and experiences"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:17
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:46
+msgid "Gracefully accept constructive criticism"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:18
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:47
+msgid "Focus on what is best for the community"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:19
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:48
+msgid "Show courtesy and respect towards other community members"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:21
+msgid ""
+"If you believe someone is violating the Code of Conduct, we ask that you "
+"report it to the Carpentries Code of Conduct Committee completing this "
+"form, who will take the appropriate action to address the situation."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:23
+msgid "Code of Conduct (Detailed View)"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:25
+msgid "Part 1. Introduction"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:27
+msgid ""
+"The Carpentries is a community-led project. We value the involvement of "
+"everyone in the community. We are committed to creating a friendly and "
+"respectful place for learning, teaching and contributing. All "
+"participants in our events and communications are expected to show "
+"respect and courtesy to others."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:29
+msgid ""
+"To make clear what is expected, everyone participating in The Carpentries"
+" activities is required to conform to the Code of Conduct. This Code of "
+"Conduct applies to all spaces managed by The Carpentries including, but "
+"not limited to, workshops, email lists, and online forums such as GitHub,"
+" Slack and Twitter. Workshop hosts are expected to assist with the "
+"enforcement of the Code of Conduct."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:31
+msgid ""
+"The Carpentries Code of Conduct Committee is responsible for enforcing "
+"the Code of Conduct. It can be contacted by emailing coc@carpentries.org."
+" All reports will be reviewed by the Code of Conduct Committee and will "
+"be kept confidential."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:34
+msgid "Part 2. The Carpentries Code of Conduct"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:36
+msgid ""
+"The Carpentries is dedicated to providing a welcoming and supportive "
+"environment for all people, regardless of background or identity. As "
+"such, we do not tolerate behaviour that is disrespectful to our teachers "
+"or learners or that excludes, intimidates, or causes discomfort to "
+"others. We do not tolerate discrimination or harassment based on "
+"characteristics that include, but are not limited to, gender identity and"
+" expression, sexual orientation, disability, physical appearance, body "
+"size, citizenship, nationality, ethnic or social origin, pregnancy, "
+"familial status, veteran status, genetic information, religion or belief "
+"(or lack thereof), membership of a national minority, property, age, "
+"education, socio-economic status, technical choices, and experience "
+"level."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:38
+msgid ""
+"Everyone who participates in Carpentries activities is required to "
+"conform to this Code of Conduct. It applies to all spaces managed by The "
+"Carpentries including, but not limited to, workshops, email lists, and "
+"online forums such as GitHub, Slack and Twitter. Workshop hosts are "
+"expected to assist with the enforcement of the Code of Conduct. By "
+"participating, participants indicate their acceptance of the procedures "
+"by which the Carpentries resolves any Code of Conduct incidents, which "
+"may include storage and processing of their personal information."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:40
+msgid "Part 2.1 Expected behaviour"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:42
+msgid ""
+"All participants in our events and communications are expected to show "
+"respect and courtesy to others. All interactions should be professional "
+"regardless of platform: either online or in-person. In order to foster a "
+"positive and professional learning environment we encourage the following"
+" kinds of behaviours in all Carpentries events and platforms:"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:50
+msgid "Note: See the four social rules for further recommendations."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:52
+msgid "Part 2.2 Unacceptable behaviour"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:54
+msgid ""
+"Examples of unacceptable behaviour by participants at any Carpentries "
+"event/platform include:"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:56
+msgid ""
+"written or verbal comments which have the effect of excluding people on "
+"the basis of membership of any specific group"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:57
+msgid ""
+"causing someone to fear for their safety, such as through stalking, "
+"following, or intimidation"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:58
+msgid "violent threats or language directed against another person"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:59
+msgid "the display of sexual or violent images"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:60
+msgid "unwelcome sexual attention"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:61
+msgid "nonconsensual or unwelcome physical contact"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:62
+msgid "sustained disruption of talks, events or communications"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:63
+msgid "insults or put downs"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:64
+msgid "sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:65
+msgid "excessive swearing"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:66
+msgid "incitement to violence, suicide, or self-harm"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:67
+msgid ""
+"continuing to initiate interaction (including photography or recording) "
+"with someone after being asked to stop"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:68
+msgid "publication of private communication without consent"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:70
+msgid "Part 2.3 Consequences of Unacceptable behaviour"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:72
+msgid ""
+"Participants who are asked to stop any inappropriate behaviour are "
+"expected to comply immediately. This applies to any Carpentries events "
+"and platforms, either online or in-person. If a participant engages in "
+"behaviour that violates this code of conduct, the organizers may warn the"
+" offender, ask them to leave the event or platform (without refund), or "
+"engage the Carpentries Code of Conduct Committee to investigate the Code "
+"of Conduct violation and impose appropriate sanctions."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:74
+msgid "Update Logs"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:76
+msgid ""
+"2019-02-28 Added appeal process, procedure for following up with a "
+"reportee, terminology, CoC incident response procedure, termed supsension"
+" checklist, and expanded clauses for conflicts of interest."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:78
+msgid ""
+"2018-09-11 Code of Conduct revised to provide straightforward examples of"
+" both beneficial and unwanted behaviour. Also includes changes regarding "
+"evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin "
+"Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:80
+msgid ""
+"2018-09-11 Reporting guidelines revised to include alternate contact "
+"points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika"
+" Sharan, Samantha Ahern, and Simon Waldman."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:82
+msgid ""
+"2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual "
+"released. Documents were adapted from guidelines written by the Django "
+"Project, which was itself based on the Ada Initiative template and the "
+"PyCon 2013 Procedure for Handling Harassment Incidents. Contributors: "
+"Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, "
+"Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, "
+"Simon Waldman, Tracy Teal."
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:84
+msgid "About this document"
+msgstr ""
+
+#: ../../handbook/topic_folders/policies/code-of-conduct.md:86
+msgid ""
+"This document is adapted from guidelines written by the Django Project, "
+"which was itself based on the Ada Initiative template and the PyCon 2013 "
+"Procedure for Handling Harassment Incidents. Contributors to this "
+"document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin "
+"Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila "
+"Miguez, Simon Waldman, Tracy Teal. Additional language was added by Otter"
+" Tech from the PyCon U.S. 2018 Code of Conduct (licensed CC BY 3.0)"
+msgstr ""
+

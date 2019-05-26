@@ -1,0 +1,227 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:1
+msgid "Tracking Trainee Checkout Progress"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:3
+msgid "Accepting Trainee Applications"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:5
+msgid ""
+"All trainees will be reminded before and during the training event to "
+"complete the instructor application."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:6
+msgid ""
+"Carpentries Staff will assign all applications to the relevant training "
+"event in AMY."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:8
+msgid "Tracking Training Event Attendance"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:10
+msgid ""
+"After a training event, trainers will email a list of trainees who "
+"completed and did not complete the event to checkout@carpentries.org."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:11
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:21
+msgid ""
+"Carpentries Staff will go to this person's record in AMY and mark this "
+"step complete."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:13
+msgid "Tracking Discussion Attendance"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:15
+msgid ""
+"After Community discussion sessions hosts will fill out the host "
+"questionarre."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:16
+msgid ""
+"Carpentries Staff will use this information to update trainee's records "
+"in AMY and mark this step complete."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:18
+msgid "Tracking Teaching Demos"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:20
+msgid ""
+"Discussion session hosts will email a list of trainees who participated "
+"in a teaching demo to checkout@carpentries.org, noting whether each "
+"participant passed or failed."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:23
+msgid "Tracking Lesson Contributions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:25
+msgid ""
+"Trainees should email the link to their contribution to "
+"checkout@carpentries.org."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:26
+msgid ""
+"Carpentries Staff will go to this person's record in AMY and mark this "
+"step as complete, including a link to their contribution."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:28
+msgid "Recording Extensions to Complete Checkout"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:30
+msgid ""
+"A trainee may ask for an extension on their three months to complete "
+"their checkout."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:31
+msgid ""
+"Carpentries staff will go to this person's record in AMY and make a "
+"comment in the notes field that an extension has been granted for three "
+"months from when requested."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:32
+msgid "The note should read: Extension granted through [DATE] - [STAFF INITIALS]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:34
+msgid "Awarding badges"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:36
+msgid "Search in AMY for all persons not badged but eligible for a badge."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:37
+msgid "Open that person's record and add SWC or DC instructor badge."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:39
+msgid "Trainee no-shows and cancellations"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:41
+msgid "Cancellations"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:43
+msgid ""
+"Cancellations with less than one week's notice are treated as no-shows. "
+"See below. If a trainee gives at least one week's notice that they will "
+"not be attending the event:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:45
+msgid "Cancellations (member seat):"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:46
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:51
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:60
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:65
+msgid ""
+"In the Trainee's record in AMY, go to Edit --> Tasks.  Click the red X "
+"next to the task for the training they missed."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:47
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:61
+msgid ""
+"In Eventbrite, cancel this person's registration.  This ensures the "
+"member registration code can be used again."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:48
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:62
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:66
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:70
+msgid "Send Trainee and member contact this template email."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:50
+msgid "Cancellations (open seat):"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:52
+msgid "In Eventbrite, cancel this person's registration."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:53
+msgid "Send trainnee this template email."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:55
+msgid "No-shows"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:57
+msgid ""
+"If a trainee does not attend the training and does not give notice at "
+"least one week in advance:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:59
+msgid "Emergency situations, as determined by Carpentries staff (member seat):"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:64
+msgid "Emergency situations, as determined by Carpentries staff (open seat):"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:68
+msgid "Non-Emergency situations (member seat):"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:69
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:73
+msgid ""
+"In the trainee’s person record in AMY in the “Instructor Training "
+"Progress” section, add “Training” = FAILED."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:72
+msgid "Non-Emergency situations (open seat):"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_training/tracking_checkout.md:74
+msgid ""
+"No notification is sent. If the trainee contacts us, respond with "
+"template email."
+msgstr ""
+

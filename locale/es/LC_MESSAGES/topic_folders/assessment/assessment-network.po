@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/assessment/assessment-network.md:1
+msgid "Assessment Network"
+msgstr ""
+
+#: ../../handbook/topic_folders/assessment/assessment-network.md:3
+msgid "About"
+msgstr ""
+
+#: ../../handbook/topic_folders/assessment/assessment-network.md:4
+msgid ""
+"The Assessment Network was established in October 2016 as a space for "
+"those working on assessment within the open source/research computing "
+"space to collaborate and share resources."
+msgstr ""
+
+#: ../../handbook/topic_folders/assessment/assessment-network.md:6
+msgid "What We Do"
+msgstr ""
+
+#: ../../handbook/topic_folders/assessment/assessment-network.md:7
+msgid ""
+"The Assessment Network meets quarterly to discuss best-practices and "
+"projects around assessing outcomes in scientific computing. For past "
+"meeting information, check out the minutes in the Assessment Network "
+"repo."
+msgstr ""
+
+#: ../../handbook/topic_folders/assessment/assessment-network.md:9
+msgid "Get Involved"
+msgstr ""
+
+#: ../../handbook/topic_folders/assessment/assessment-network.md:10
+msgid ""
+"To join the Assessment Network, email Kari Jordan at "
+"kariljordan@carpentries.org."
+msgstr ""
+

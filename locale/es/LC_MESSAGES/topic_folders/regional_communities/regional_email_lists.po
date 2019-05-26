@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:1
+msgid "Regional Mailing Lists"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:3
+msgid ""
+"All mailing lists for The Carpentries are hosted on Topicbox.  This "
+"includes a number of mailing lists specific to local or regional "
+"communities."
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:5
+msgid "Current local/regional mailing lists"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:7
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:8
+msgid "Africa"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:10
+msgid "Asia"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:11
+msgid "India"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:13
+msgid "Australia/New Zealand"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:14
+msgid "Australia and New Zealand"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:16
+msgid "Canada"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:17
+msgid "Vancouver"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:19
+msgid "Europe"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:20
+msgid "Germany"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:22
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:23
+msgid "Latin America"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:24
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:26
+msgid "United States"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:27
+msgid "Bay Area"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:28
+msgid "Colorado"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:29
+msgid "Davis, CA"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:30
+msgid "Merced, CA"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:31
+msgid "Seattle, WA"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:32
+msgid "Lansing, MI"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:33
+msgid "Southern California"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:34
+msgid "Southwest United States"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:35
+msgid "University of California"
+msgstr ""
+
+#: ../../handbook/topic_folders/regional_communities/regional_email_lists.md:36
+msgid "Southeast US Library Carpentry"
+msgstr ""
+

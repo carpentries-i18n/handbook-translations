@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/index.rst:14
+msgid "General Resources"
+msgstr ""
+
+#: ../../handbook/index.rst:32
+msgid "About"
+msgstr ""
+
+#: ../../handbook/index.rst:2
+msgid "The Carpentries Handbook"
+msgstr ""
+
+#: ../../handbook/index.rst:4
+msgid ""
+"`The Carpentries <https://carpentries.org/>`_ teaches foundational "
+"coding, and data science skills to researchers worldwide. `Software "
+"Carpentry <https://software-carpentry.org/>`_, `Data Carpentry "
+"<https://datacarpentry.org/>`_, and `Library Carpentry "
+"<https://librarycarpentry.org/>`_ workshops are based on our lessons. "
+"Workshop hosts, Instructors, and learners must be prepared to follow our "
+"`Code of Conduct <https://docs.carpentries.org/topic_folders/policies"
+"/code-of-conduct.html>`_."
+msgstr ""
+
+#: ../../handbook/index.rst:12
+msgid ""
+"Below are general resources of use to various segments of The Carpentries"
+" community."
+msgstr ""
+

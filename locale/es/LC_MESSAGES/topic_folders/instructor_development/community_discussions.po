@@ -1,0 +1,770 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:1
+msgid "Community Discussions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:3
+msgid ""
+"The Instructor Development Committee leads and organizes Community "
+"Discussions. This document describes how community discussions are "
+"organized and conducted.  Checklists for the Hosts and Discussion Session"
+" Coordinator are here."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:5
+msgid ""
+"The Carpentries Community Discussions are designed for everyone in The "
+"Carpentries community interested in learning, educating and advocating "
+"for teaching foundational coding and data science skills globally. "
+"Discussion topics range anywhere from teaching workshops and developing "
+"curricula to building local communities and assessing the impact of our "
+"workshops globally. There are three types of Community Discussions:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:7
+msgid ""
+"Pre- and Post-Workshop Discussions These discussions are designed for "
+"those getting ready to teach or having recently taught to come discuss "
+"their workshop with the community."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:9
+msgid ""
+"Themed Discussion Sessions These discussions are centered around a "
+"particular topic ranging anywhere from teaching your first workshop to "
+"community building strategies."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:11
+msgid ""
+"Carpentries Conversations These Conversations are hosted by one of our "
+"Committees or Task Forces to provide the community with the opportunity "
+"to learn about and discuss new developments and programs in our "
+"organisation. Our committees and task forces include:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:13
+msgid "African Task Force"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:14
+msgid "Carpentries en Latinoamérica"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:15
+msgid "CarpentryCon Task Force"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:16
+msgid "Code of Conduct Committee"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:17
+msgid "Instructor Development Committee"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:18
+msgid "Lesson Infrastructure Committee"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:19
+msgid "The Carpentries Executive Council"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:21
+msgid "Terminology"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:23
+msgid ""
+"Community Discussion: an online meeting where instructors share "
+"experiences from teaching and obtain information while preparing to "
+"teach."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:24
+msgid ""
+"Discussion Session Host: member of the Carpentries community who "
+"facilitates a community discussion."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:25
+msgid ""
+"Discussion Session Coordinator: a volunteer from the Instructor "
+"Development Committee whose responsibilities include updating the "
+"scheduling Etherpad and emailing invitations to instructors. For more "
+"information about this role, see the role description."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:27
+msgid "Motivation"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:29
+msgid ""
+"The Carpentries is a community based project and the community needs "
+"opportunity to interact."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:31
+msgid ""
+"The Carpentries believes in jugyokenkyu, or \"lesson study\", and "
+"evidence-based education so instructors need opportunity to share "
+"experiences."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:33
+msgid ""
+"The Carpentries is continuing to increase the number of instructors and "
+"develop new lessons. New instructors would like to hear from experienced "
+"teachers who have recently taught to help prepare for upcoming workshops."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:35
+msgid "Who Can Host?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:37
+msgid ""
+"Hosting community discussions is a great way to meet more people in the "
+"Carpentries community, to get to know the organisation better, to learn "
+"from the experiences of others and to share your own knowledge and "
+"experience with an even greater number of people."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:39
+msgid ""
+"Any instructor with experience of organising/teaching workshops and a "
+"good knowledge of the Carpentries as an organisation is welcome to host a"
+" discussion session. Sessions are coordinated by the Instructor "
+"Development Committee and hosts are encouraged to join the meetings of "
+"this committee. Committee meetings include an update on community "
+"discussions and an opportunity to discuss the format, to ask questions "
+"about hosting a session, and to get to know other hosts. To receive "
+"messages relating to discussion sessions and hosting, make sure that "
+"you're subscribed to the discussion hosts mailing list."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:41
+msgid ""
+"A great way to get into hosting these sessions is to first attend as an "
+"observer or co-host. An experienced host will be happy to talk you "
+"through it, and may return the favour when you host for the first time, "
+"so that you don't have to \"fly solo\" in your first session."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:43
+msgid "Signing up to Host or co-Host a Community Dicussion"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:45
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:52
+msgid "If you'd like to host a pre/post-workshop session:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:46
+msgid ""
+"Identify a session you’d like to host OR co-host on the Community "
+"Discussions etherpad: http://pad.carpentries.org/community-discussions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:47
+msgid ""
+"Type your name in the “Host” or “Co-host/notetaker” slot for the session "
+"you’ve chosen (email next to your name optional, however, if you provide "
+"your e-mail it may help facilitate communication before and after the "
+"discussion)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:48
+msgid ""
+"Add the time/date details of the discussion session you’re going to be a "
+"“Host” or \"Co-host/notetaker\" for on your calendar"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:49
+msgid "Copying the etherpad link in your calendar event is a good idea, too!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:50
+msgid "Make sure that you're subscribed to the discussion-hosts mailing list."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:53
+msgid "Complete this form."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:55
+msgid "Host Expectations"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:57
+msgid ""
+"Primary role is to facilitate the community discussion using the agenda "
+"at the bottom of the Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:58
+msgid ""
+"While it’s the co-hosts main responsibility to take notes, please take "
+"notes in the Etherpad when the co-host/notetaker is speaking."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:59
+msgid ""
+"Maintaining focus on the main goal of the session, which is to share "
+"ideas, support each other, and keep instructors excited about teaching."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:60
+msgid ""
+"Ensuring instructors teaching in the near future have urgent questions or"
+" concerns addressed."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:61
+msgid "Collecting feedback from instructors who have recently taught."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:62
+msgid ""
+"Engaging newly trained instructors and evaluating their participation "
+"using a subset of questions described in the checkout procedure here: "
+"http://carpentries.github.io/instructor-training/checkout/."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:63
+msgid ""
+"Encouraging attendees to create issues or pull requests to correct "
+"problems."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:65
+msgid "Co-Host Expectations"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:67
+msgid ""
+"Primary role is to assist with note-taking while the Host leads the "
+"discussion"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:68
+msgid "Take accurate notes of discussion on the Etherpad"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:69
+msgid "At the beginning of the callI, introduce yourself as the co-host/notetaker"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:70
+msgid "Co-hosts/notetakers do not have to be the very active in the conversation"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:71
+msgid "If a co-host/notetaker does want to chime in, it is welcome!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:72
+msgid ""
+"NOTE: if the session is mostly instructor checkouts, it is highly "
+"recommended that you, as the co-host, contribute to the discussion with "
+"your experience helping out with workshops."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:74
+msgid "Checklists - Community Discussions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:76
+msgid "Community discussions are organised and conducted through this Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:78
+msgid "Discussion Session Coordinator"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:80
+msgid "Before the Discussion Session"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:82
+msgid ""
+"The Instructor Development Committee is responsible for organizing the "
+"community discussions so that"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:84
+msgid "each month has at least eight discussion sessions, and"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:85
+msgid ""
+"each session has at least one host (preferably two) to conduct the "
+"discussion."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:87
+msgid ""
+"The Discussion Session Coordinator is responsible for scheduling the "
+"events and inviting instructors who are about to teach and who have "
+"recently taught."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:89
+msgid "Meeting scheduling will be coordinated via this Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:91
+msgid ""
+"The dates of community discussions are also listed in the Carpentries "
+"community calendar."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:93
+msgid ""
+"Invitations for checkout participants are tracked through two "
+"spreadsheets - one for instructors doing a post-workshop debriefs, sent "
+"weekly, and one for instructors doing a pre-workshop discussion session, "
+"sent every other week."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:95
+msgid ""
+"Use the email templates for the respective discussion invitation. Replace"
+" the variables in brackets with the appropriate information for that "
+"session."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:97
+msgid ""
+"Log in to AMY.  Go to the reporting section to the \"List of instructors "
+"by time period\" section. Filter for instructors in the relevant time "
+"period. Download this list as CSV to easily read each instructor's email "
+"address."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:99
+msgid ""
+"Send the templated email to all participants as bcc, and copy the "
+"Instructor Development Committee Co-Chairs as well as "
+"team@carpentries.org."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:101
+msgid ""
+"Email team@carpentries.org with any instructors with missing or invalid "
+"emails."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:103
+msgid "Host and Co-Host"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:104
+msgid "Leading the Discussion Session"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:106
+msgid ""
+"Meetings will be hosted on a Zoom videoconference, linked via the "
+"community discussions Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:108
+msgid ""
+"Each session must have at least one host (although two hosts are "
+"preferred). Any experienced instructor is welcome to host, but hosts are "
+"encouraged to join the Instructor Development Committee."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:110
+msgid "Sign on as close to the start time as you can."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:111
+msgid ""
+"Confirm that your fellow host is present (if there is one) and who will "
+"be leading/taking notes"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:112
+msgid ""
+"(Optional) If a group is very large and you have a co-host, you can split"
+" the group in two, using the Breakout Rooms feature in Zoom."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:113
+msgid ""
+"Copy the agenda from the bottom of the etherpad to the space under your "
+"time slot"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:114
+msgid "Lead the discussion"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:115
+msgid ""
+"We recommend following the main points of the agenda, but feel free to "
+"let discussion go where people want.  Not all the questions need to be "
+"answered by everyone."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:116
+msgid ""
+"Don't feel like you have to answer all the questions as the host - draw "
+"on the other discussion participants to answer each other's questions."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:118
+msgid ""
+"If someone is attending as part of their training checkout, prompt them "
+"to ask a question."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:119
+msgid "Try to leave enough time at the end for the final agenda item."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:121
+msgid "The agenda should be similar to the following:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:123
+msgid ""
+"Welcome, introductions, and reminder of Code of Conduct (5-10 minutes "
+"depending on number of participants)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:124
+msgid ""
+"Code of Conduct Link: https://docs.carpentries.org/topic_folders/policies"
+"/code-of-conduct.html"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:125
+msgid "Host introduction"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:126
+msgid "Co-host/notetaker introduction"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:127
+msgid "Attendee introductions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:128
+msgid "Name, affiliation/position, purpose for attending"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:129
+msgid ""
+"Report from previous workshops (10-25 minutes: 2-3 minutes per workshop "
+"plus about 5-10 minutes for questions)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:130
+msgid "Share some significant accomplishments and obstacles."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:131
+msgid "Any changes or additions to lesson material?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:132
+msgid "Preparing for upcoming workshops (10 minutes)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:133
+msgid "Specific questions about teaching and/or lessons?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:134
+msgid ""
+"How are instructors sharing roles/responsibilities?  Is there a "
+"designated \"lead instructor\" or will you act as co-instructors?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:135
+msgid ""
+"Discussion Questions [Use Zoom Breakout Rooms for large groups] (15 "
+"minutes)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:136
+msgid "Hosts: Choose 1-3 of these questions, or add your own."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:137
+msgid ""
+"What additional resources would be useful to you in teaching or preparing"
+" for a workshop?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:138
+msgid ""
+"Do you find the instructor notes helpful? How do you use them? How could "
+"they be more useful?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:139
+msgid "What are you most excited about for teaching with The Carpentries?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:140
+msgid "Preparing for instructor training checkout (2 minutes)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:141
+msgid "Questions about checkout procedure, lessons, or workshop organization?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:142
+msgid "Have you asked a question here yet?"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:143
+msgid "Closing (Main Room) (3 minutes)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:144
+msgid "Reports from breakout rooms"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:145
+msgid "Q&A"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:146
+msgid "Reminders to discussion session participants"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:147
+msgid ""
+"Export the etherpad (button at top right) if you'd like to save notes "
+"from our session. Notes will be removed (but available in the archives) "
+"soon after the discussion ends!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:148
+msgid "For small typos in lessons, submit pull request to appropriate lesson"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:150
+msgid ""
+"(A copy of this agenda is kept at the bottom of the instructor discussion"
+" Etherpad.)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:152
+msgid ""
+"Based on discussion among the Instructor Development Committee, temporary"
+" questions may be added to the agenda for a month of sessions, in order "
+"to collect data on specific issues."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:154
+msgid "Take notes"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:156
+msgid ""
+"If there are more than 5 workshops represented by attendees, the "
+"discussion session should be split into two groups, to make sure everyone"
+" has enough time to share.  When dividing attendees into two groups, try "
+"to balance the number of people who are de-briefing, who are there for "
+"pre-workshop help, and who are instructor trainees.  If there are exactly"
+" 5 workshops represented, it is at the discretion of the host whether to "
+"split the group."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:158
+msgid "After the Discussion Session"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:159
+msgid "Archive the Etherpad by clicking on the star in the top right corner."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:160
+msgid "Fill out the host questionnaire"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:161
+msgid ""
+"Note: Please copy the list of attendees (including all attendees but "
+"removing no-shows) and paste it into question 7 of the questionnaire."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:162
+msgid ""
+"This questionnaire will automatically send an email to the Instructor "
+"Development Committee Co-Chairs and to checkout@carpentries.org."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:163
+msgid ""
+"Clear the information from your session (date/time, attendees, notes) "
+"from the Etherpad."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:164
+msgid ""
+"(Optional) write a blog post about interesting points that came up in "
+"discussion."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:166
+msgid "Email Templates"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:168
+msgid "Pre-workshop Discussion"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:170
+msgid "Subject: Carpentries Pre-Workshop Discussions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:172
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:192
+msgid "Dear instructors,"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:174
+msgid ""
+"If you are receiving this message, you are scheduled to teach a "
+"Carpentries workshop over the next several weeks."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:176
+msgid ""
+"The Carpentries Instructor Development Committee hosts community "
+"discussions every week to share ideas and experiences among instructors."
+"  If you have any questions or concerns about your upcoming workshop, or "
+"are interested in chatting with other instructors about your or their own"
+" experiences teaching, we encourage you to attend!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:178
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:198
+msgid ""
+"Upcoming discussions will occur on [Date 1], [Date 2] and [Date 3].  Each"
+" date has two time slots to accommodate time zones.  You can sign up for "
+"the most convenient time on this Etherpad:"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:182
+msgid "We hope to see you in the next few weeks!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:184
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:206
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:226
+msgid "Cheers, [Your name] Carpentries Instructor Development Committee"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:188
+msgid "Post-workshop Debriefing"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:190
+msgid "Subject: Carpentries Workshop Debriefing"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:194
+msgid ""
+"If you are receiving this message, you have recently instructed at a "
+"Carpentries workshop."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:196
+msgid ""
+"The Carpentries Instructor Development Committee hosts community "
+"discussions every week in order to hear how workshops have gone, and we "
+"invite you to attend a discussion in the next few weeks to share about "
+"your recent workshop. Even if you have attended a debriefing discussion "
+"before, we would appreciate feedback on any workshops you have done since"
+" then - we value hearing about your experiences."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:202
+msgid ""
+"In addition to participating in the general discussion, we also welcome "
+"past instructors to co-host future discussions. Co-hosting a community "
+"discussion is a great way to share your expertise with both new and "
+"experienced instructors and is a lot of fun!  To co-host a future "
+"discussion, just sign up on the same Etherpad above, or complete this "
+"form if you'd like to host a themed discussion session."
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:204
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:224
+msgid "We hope to see you soon!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:210
+msgid "Call for Instructors (to Instructor Development Committee)"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:212
+msgid "Subject: Call for Hosts - Carpentries Community Discussions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:214
+msgid "Hello,"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:216
+msgid ""
+"The Discussion Host Coordinator has posted new community discussion dates"
+" on the Community Discussions Etherpad: http://pad.carpentries.org"
+"/community-discussions"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:218
+msgid "The following discussion sessions are in need of discussion hosts!"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:219
+msgid "[Date 1, UTC time, time zones - example below]"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:220
+msgid ""
+"Tuesday, May 1, UTC 21:00 UTC (Wed 7am AEDT, 5pm NYC, 2pm LA) -  Aus/S. "
+"America/N. America"
+msgstr ""
+
+#: ../../handbook/topic_folders/instructor_development/community_discussions.md:222
+msgid ""
+"Please feel free to browse other community discussion sessions to see if "
+"there is a date/time that works for you to sign on as a host! If you have"
+" questions about hosting, please visit the Instructor Development "
+"Committee onboarding document's section about host expectations: "
+"https://docs.carpentries.org/topic_folders/mentoring/mentoring-"
+"subcommittee-roles.html#discussion-hosts"
+msgstr ""
+

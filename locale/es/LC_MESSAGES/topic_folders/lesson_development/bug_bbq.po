@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:1
+msgid "Bug BBQs"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:3
+msgid ""
+"A Bug BBQ is a day-long community-wide lesson development event. The goal"
+" of a Bug BBQ is to prepare lessons for publication."
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:6
+msgid "Scheduling a Bug BBQ"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:8
+msgid "Information about how to schedule a Bug BBQ - coming soon!"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:10
+msgid "Communicating about a Bug BBQ"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:12
+msgid "Creating a Bug BBQ Website"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:14
+msgid "Information about how to create a Bug BBQ website - coming soon!"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:16
+msgid "Announcing a Bug BBQ (Blog post template)"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:18
+msgid ""
+"The Carpentries is preparing to publish {{ lesson list }} on Zenodo in {{"
+" month(s) }}. This will be the first publication for our new {{ new "
+"lesson list }} lessons. We regularly publish our lessons to provide "
+"stable identifiers for polished versions of the lessons. This enables "
+"referenced discussions of the lesson materials and gives contributors a "
+"verifiable product to cite on their CVs or resumes."
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:20
+msgid ""
+"This release will include the following lessons:  {{ bulleted list of "
+"lessons, for Data Carpentry lessons, link to the workshop home page "
+"instead of individual repos }}."
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:22
+msgid ""
+"If you’ve made a contribution to one of these lessons, you’re already an "
+"author. Help make sure the final product is polished and complete by "
+"getting involved in the lesson release."
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:24
+msgid ""
+"Here’s a run-down of the lesson release process and our timetable for "
+"this release."
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:25
+msgid "Resolve existing PRs. {{ dates }}"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:26
+msgid "Freeze lessons to new significant changes. {{ dates }}"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:27
+msgid "Bug BBQ to clean up lessons. {{ dates }}"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:28
+msgid "Publish! {{ dates }}"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:30
+msgid "{{ day, month, time UTC - day, month, time UTC }}"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:32
+msgid ""
+"Click [this link]({{ FIXME "
+"https://www.timeanddate.com/worldclock/fixedform.html }}) to see the "
+"event in your local time."
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:34
+msgid ""
+"Join with the community in a hacky-day to submit Issues and PRs to "
+"identify and fix problems and get us ready to publish. We’ll provide "
+"communication channels for you to work with other community members and "
+"guidelines for how to get started. Keep an eye open for more information "
+"about the Bug BBQ!"
+msgstr ""
+
+#: ../../handbook/topic_folders/lesson_development/bug_bbq.md:36
+msgid ""
+"We’re excited to work with the community to release {{ lessons }}. Put "
+"these dates on your calendar, and we’ll send out reminders and updates "
+"too. These lessons belong to the community - help keep them great!"
+msgstr ""
+

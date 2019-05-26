@@ -1,0 +1,294 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2019, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:1
+msgid "Submitting blog posts"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:3
+msgid ""
+"The Carpentries welcomes blog posts from our community members including "
+"workshop host sites, instructors, learners, and more."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:5
+msgid "How to Contribute a Blog Post to The Carpentries blog"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:7
+msgid ""
+"If you wish to contribute a blog post, please work in "
+"https://github.com/carpentries/carpentries.org, which can be viewed at "
+"https://carpentries.org/blog/."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:11
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:69
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:130
+msgid "Posts go in the _posts folder."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:13
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:71
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:132
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:188
+msgid ""
+"Posts need to be created in Markdown and named according to this "
+"convention:"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:16
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:74
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:135
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:190
+msgid "YYYY-MM-DD-filename.md"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:18
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:76
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:137
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:192
+msgid "e.g."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:20
+msgid "2018-04-29-book-review-teaching.md"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:22
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:80
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:141
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:196
+msgid ""
+"In order to render correctly, posts need to have a header block, which "
+"should be created like this example, e.g."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:36
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:98
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:155
+msgid "Separate the header block from the post text by inserting a new line."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:38
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:157
+msgid ""
+"All fields should be filled in. If there is more than one author, "
+"separate the author names like this: [\"Name 1\", \"Name 2\"]."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:40
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:102
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:159
+msgid ""
+"Images should be uploaded to the images folder. Images should be linked "
+"using Markdown, and paths to the image should be relative."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:42
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:48
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:104
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:110
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:161
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:167
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:216
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:224
+msgid "Example:"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:46
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:108
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:165
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:222
+msgid ""
+"A web link should be used for images hosted elsewhere. Please be sure you"
+" have rights to use this image before including it."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:53
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:115
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:172
+msgid ""
+"If you are not sure how to add images in Markdown format, look at an "
+"existing post with a locally hosted image and copy the formatting from "
+"there."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:55
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:117
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:174
+msgid ""
+"Once you have previewed your file, commit the Markdown file to your fork "
+"and start a Pull Request. We automatically run tests using TravisCI on "
+"your Pull Requests. Please review your pull request a few minutes after "
+"you've submitted it to make sure those tests have passed. These tests "
+"look for valid YAML headers and make sure that the post will build "
+"properly. Once tests have passed, Carpentries staff will review and merge"
+" your Pull Request or reach out to you with more questions."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:57
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:119
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:176
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:234
+msgid "Alternative Ways to Post"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:59
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:120
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:178
+msgid ""
+"If you are new to GitHub and want to submit a blog post without using "
+"this workflow, you can submit it through this form and we will post it to"
+" the blog for you."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:61
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:122
+msgid ""
+"If you wish to submit a blog post about a favourite tool or research "
+"workflow, you can submit the post through this form and we will post it "
+"on the blog for you."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:63
+msgid "How to Contribute a Blog Post to Data Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:65
+msgid ""
+"If you wish to contribute a blog post, please work in "
+"https://github.com/datacarpentry/datacarpentry.github.io, which can be "
+"viewed at http://www.datacarpentry.org/blog/."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:78
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:194
+msgid "2017-07-10-assess_report.md"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:100
+msgid ""
+"Subheadline is an optional field, as is teaser, but the other fields "
+"should be filled in. If there is more than one author, separate the "
+"author names like this: [\"Name 1\", \"Name 2\"]."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:124
+msgid "How to Contribute a Blog Post to Library Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:126
+msgid ""
+"If you wish to contribute a blog post, please work in "
+"https://github.com/LibraryCarpentry/librarycarpentry.github.io, which can"
+" be viewed at https://librarycarpentry.org."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:139
+msgid "2018-09-12-data-in-the-desert.md"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:180
+msgid "How to Contribute a Blog Post to Software Carpentry"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:182
+msgid ""
+"If you wish to contribute a blog post, please work in "
+"https://github.com/swcarpentry/website, which can be viewed at https"
+"://software-carpentry.org/blog."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:186
+msgid ""
+"Posts go in the _posts folder, which is divided up first by year,  e.g. "
+"2017, and then by month, e.g. 07. Be sure to start creating your file in "
+"the correct folder."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:210
+msgid "Separate the header block from the post proper by a new line."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:212
+msgid ""
+"Subheadline is an optional field, as is time, but the other fields should"
+" be filled in. If there is more than one author, separate the author "
+"names like this: [\"Name 1\", \"Name 2\"]. Separate any categories the "
+"same way."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:214
+msgid ""
+"Images should be uploaded to the appropriate year in the "
+"files/<year>/<month> folder. Images should be linked using Markdown, and "
+"paths to the image should be relative."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:230
+msgid ""
+"If you are not sure how to add images in Markdown format, look at an "
+"existing post with a locally hosted image or one with a web link and copy"
+" the formatting from there."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:232
+msgid ""
+"Once you have previewed your file, commit the Markdown file to your fork "
+"and start a Pull Request. We automatically run tests using TravisCI on "
+"your Pull Requests. Please review your pull request a few minutes after "
+"you've submitted it to make sure those tests have passed. These tests "
+"look for valid YAML headers and make sure that the post will build "
+"properly."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:235
+msgid ""
+"If you are new to GitHub and want to submit a general blog post without "
+"using this workflow, you can submit it through this form and we will post"
+" it to the blog for you."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:237
+msgid ""
+"If you wish to submit a blog post specifically about a favourite tool or "
+"research workflow, you can submit the post through this form and we will "
+"post it on the blog for you."
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:239
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../../handbook/topic_folders/communications/submit_blog_post.md:241
+msgid ""
+"The most likely reason posts fail to build is because of 'rogue' "
+"characters in the YAML header. Rogue characters generally occur because "
+"material has been pasted in directly from programs like Word or Google "
+"documents. The most common rogue characters that cause issues are smart "
+"quotes (curly quote marks as opposed to plain ones), but others might be "
+"em or en dashes, mathematical or other symbols, or other characters that "
+"cannot be rendered in plain text by typing on a keyboard. Replace smart "
+"quotes with plain quote marks and smart em or en dashes with plain "
+"hyphens to avert any problems."
+msgstr ""
+
