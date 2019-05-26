@@ -1,0 +1,835 @@
+[main]
+host = https://www.transifex.com
+
+[handbook-translations.locale_gettext_LICENSE]
+file_filter = locale/<lang>/LC_MESSAGES/LICENSE.po
+source_file = locale/gettext/LICENSE.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_readme]
+file_filter = locale/<lang>/LC_MESSAGES/readme.po
+source_file = locale/gettext/readme.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_index]
+file_filter = locale/<lang>/LC_MESSAGES/index.po
+source_file = locale/gettext/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_privacy]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/privacy.po
+source_file = locale/gettext/topic_folders/policies/privacy.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_index_coc]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/index_coc.po
+source_file = locale/gettext/topic_folders/policies/index_coc.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_enforcement-guidelines]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/enforcement-guidelines.po
+source_file = locale/gettext/topic_folders/policies/enforcement-guidelines.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_incident-response]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/incident-response.po
+source_file = locale/gettext/topic_folders/policies/incident-response.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_termed-suspension]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/termed-suspension.po
+source_file = locale/gettext/topic_folders/policies/termed-suspension.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_incident-reporting]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/incident-reporting.po
+source_file = locale/gettext/topic_folders/policies/incident-reporting.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_reimbursement-policy]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/reimbursement-policy.po
+source_file = locale/gettext/topic_folders/policies/reimbursement-policy.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_code-of-conduct]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/code-of-conduct.po
+source_file = locale/gettext/topic_folders/policies/code-of-conduct.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_instructor-no-show-policy]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/instructor-no-show-policy.po
+source_file = locale/gettext/topic_folders/policies/instructor-no-show-policy.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/index.po
+source_file = locale/gettext/topic_folders/policies/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_policies_staff_professional-development-policy]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/policies/staff/professional-development-policy.po
+source_file = locale/gettext/topic_folders/policies/staff/professional-development-policy.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_lesson_development_lesson_release]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/lesson_development/lesson_release.po
+source_file = locale/gettext/topic_folders/lesson_development/lesson_release.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_lesson_development_bug_bbq]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/lesson_development/bug_bbq.po
+source_file = locale/gettext/topic_folders/lesson_development/bug_bbq.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_lesson_development_lesson_development_roles]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/lesson_development/lesson_development_roles.po
+source_file = locale/gettext/topic_folders/lesson_development/lesson_development_roles.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_lesson_development_email_templates]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/lesson_development/email_templates.po
+source_file = locale/gettext/topic_folders/lesson_development/email_templates.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_lesson_development_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/lesson_development/index.po
+source_file = locale/gettext/topic_folders/lesson_development/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_assessment_assessment]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/assessment/assessment.po
+source_file = locale/gettext/topic_folders/assessment/assessment.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_assessment_assessment-network]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/assessment/assessment-network.po
+source_file = locale/gettext/topic_folders/assessment/assessment-network.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_assessment_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/assessment/index.po
+source_file = locale/gettext/topic_folders/assessment/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_maintainers_github_labels]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/maintainers/github_labels.po
+source_file = locale/gettext/topic_folders/maintainers/github_labels.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_maintainers_maintainers]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/maintainers/maintainers.po
+source_file = locale/gettext/topic_folders/maintainers/maintainers.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_maintainers_email_templates]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/maintainers/email_templates.po
+source_file = locale/gettext/topic_folders/maintainers/email_templates.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_maintainers_contributing]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/maintainers/contributing.po
+source_file = locale/gettext/topic_folders/maintainers/contributing.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_maintainers_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/maintainers/index.po
+source_file = locale/gettext/topic_folders/maintainers/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_logos]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/logos.po
+source_file = locale/gettext/topic_folders/communications/logos.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_submit-news-item]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/submit-news-item.po
+source_file = locale/gettext/topic_folders/communications/submit-news-item.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_style-guide]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/style-guide.po
+source_file = locale/gettext/topic_folders/communications/style-guide.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_slack-and-email]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/slack-and-email.po
+source_file = locale/gettext/topic_folders/communications/slack-and-email.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_newsletter]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/newsletter.po
+source_file = locale/gettext/topic_folders/communications/newsletter.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_zoom_rooms]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/zoom_rooms.po
+source_file = locale/gettext/topic_folders/communications/zoom_rooms.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_presentations]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/presentations.po
+source_file = locale/gettext/topic_folders/communications/presentations.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_commons]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/commons.po
+source_file = locale/gettext/topic_folders/communications/commons.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_submit_blog_post]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/submit_blog_post.po
+source_file = locale/gettext/topic_folders/communications/submit_blog_post.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/index.po
+source_file = locale/gettext/topic_folders/communications/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_communications_etherpads]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/communications/etherpads.po
+source_file = locale/gettext/topic_folders/communications/etherpads.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_hosts_instructors_hosts_instructors_checklist]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/hosts_instructors/hosts_instructors_checklist.po
+source_file = locale/gettext/topic_folders/hosts_instructors/hosts_instructors_checklist.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_hosts_instructors_instructor_tips]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/hosts_instructors/instructor_tips.po
+source_file = locale/gettext/topic_folders/hosts_instructors/instructor_tips.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_hosts_instructors_unofficial_workshops]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/hosts_instructors/unofficial_workshops.po
+source_file = locale/gettext/topic_folders/hosts_instructors/unofficial_workshops.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_hosts_instructors_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/hosts_instructors/index.po
+source_file = locale/gettext/topic_folders/hosts_instructors/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_hosts_instructors_workshop_needs]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/hosts_instructors/workshop_needs.po
+source_file = locale/gettext/topic_folders/hosts_instructors/workshop_needs.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_for_instructors_new_instructors]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/for_instructors/new_instructors.po
+source_file = locale/gettext/topic_folders/for_instructors/new_instructors.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_for_instructors_current_instructors]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/for_instructors/current_instructors.po
+source_file = locale/gettext/topic_folders/for_instructors/current_instructors.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_for_instructors_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/for_instructors/index.po
+source_file = locale/gettext/topic_folders/for_instructors/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_regional_communities_carpentries_en_latinoamerica]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/regional_communities/carpentries_en_latinoamerica.po
+source_file = locale/gettext/topic_folders/regional_communities/carpentries_en_latinoamerica.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_regional_communities_african_task_force]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/regional_communities/african_task_force.po
+source_file = locale/gettext/topic_folders/regional_communities/african_task_force.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_regional_communities_regional_email_lists]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/regional_communities/regional_email_lists.po
+source_file = locale/gettext/topic_folders/regional_communities/regional_email_lists.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_regional_communities_regional_coordinators]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/regional_communities/regional_coordinators.po
+source_file = locale/gettext/topic_folders/regional_communities/regional_coordinators.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_regional_communities_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/regional_communities/index.po
+source_file = locale/gettext/topic_folders/regional_communities/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_governance_bylaws]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/governance/bylaws.po
+source_file = locale/gettext/topic_folders/governance/bylaws.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_governance_lesson-program-policy]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/governance/lesson-program-policy.po
+source_file = locale/gettext/topic_folders/governance/lesson-program-policy.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_governance_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/governance/index.po
+source_file = locale/gettext/topic_folders/governance/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_development_mentoring_groups_workflow]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_development/mentoring_groups_workflow.po
+source_file = locale/gettext/topic_folders/instructor_development/mentoring_groups_workflow.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_development_community_discussions]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_development/community_discussions.po
+source_file = locale/gettext/topic_folders/instructor_development/community_discussions.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_development_mentoring_groups]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_development/mentoring_groups.po
+source_file = locale/gettext/topic_folders/instructor_development/mentoring_groups.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_development_instructor_development_committee]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_development/instructor_development_committee.po
+source_file = locale/gettext/topic_folders/instructor_development/instructor_development_committee.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_development_community_discussions_workflow]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_development/community_discussions_workflow.po
+source_file = locale/gettext/topic_folders/instructor_development/community_discussions_workflow.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_development_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_development/index.po
+source_file = locale/gettext/topic_folders/instructor_development/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_workshop_administration_expectations]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/workshop_administration/expectations.po
+source_file = locale/gettext/topic_folders/workshop_administration/expectations.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_workshop_administration_amy_manual]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/workshop_administration/amy_manual.po
+source_file = locale/gettext/topic_folders/workshop_administration/amy_manual.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_workshop_administration_eventbrite]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/workshop_administration/eventbrite.po
+source_file = locale/gettext/topic_folders/workshop_administration/eventbrite.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_workshop_administration_email_templates]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/workshop_administration/email_templates.po
+source_file = locale/gettext/topic_folders/workshop_administration/email_templates.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_workshop_administration_survey_monkey]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/workshop_administration/survey_monkey.po
+source_file = locale/gettext/topic_folders/workshop_administration/survey_monkey.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_workshop_administration_workshop_admin_workflow]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/workshop_administration/workshop_admin_workflow.po
+source_file = locale/gettext/topic_folders/workshop_administration/workshop_admin_workflow.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_workshop_administration_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/workshop_administration/index.po
+source_file = locale/gettext/topic_folders/workshop_administration/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_trainers_training]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/trainers_training.po
+source_file = locale/gettext/topic_folders/instructor_training/trainers_training.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_members_join]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/members_join.po
+source_file = locale/gettext/topic_folders/instructor_training/members_join.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_duties_agreement]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/duties_agreement.po
+source_file = locale/gettext/topic_folders/instructor_training/duties_agreement.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_tracking_checkout]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/tracking_checkout.po
+source_file = locale/gettext/topic_folders/instructor_training/tracking_checkout.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_scheduling_training_events]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/scheduling_training_events.po
+source_file = locale/gettext/topic_folders/instructor_training/scheduling_training_events.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_trainers_guide]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/trainers_guide.po
+source_file = locale/gettext/topic_folders/instructor_training/trainers_guide.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_email_templates_admin]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/email_templates_admin.po
+source_file = locale/gettext/topic_folders/instructor_training/email_templates_admin.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_email_templates_trainers]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/email_templates_trainers.po
+source_file = locale/gettext/topic_folders/instructor_training/email_templates_trainers.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_trainer_coordinator]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/trainer_coordinator.po
+source_file = locale/gettext/topic_folders/instructor_training/trainer_coordinator.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_gettext_topic_folders_instructor_training_index]
+file_filter = locale/<lang>/LC_MESSAGES/topic_folders/instructor_training/index.po
+source_file = locale/gettext/topic_folders/instructor_training/index.pot
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_index]
+file_filter = translations/handbook-translations.locale_pot_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_LICENSE]
+file_filter = translations/handbook-translations.locale_pot_LICENSE/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_readme]
+file_filter = translations/handbook-translations.locale_pot_readme/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_assessment_assessment]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_assessment_assessment/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_assessment_assessment-network]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_assessment_assessment-network/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_assessment_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_assessment_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_commons]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_commons/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_etherpads]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_etherpads/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_logos]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_logos/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_newsletter]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_newsletter/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_presentations]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_presentations/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_slack-and-email]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_slack-and-email/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_style-guide]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_style-guide/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_submit_blog_post]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_submit_blog_post/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_submit-news-item]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_submit-news-item/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_communications_zoom_rooms]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_communications_zoom_rooms/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_for_instructors_current_instructors]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_for_instructors_current_instructors/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_for_instructors_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_for_instructors_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_for_instructors_new_instructors]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_for_instructors_new_instructors/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_governance_bylaws]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_governance_bylaws/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_governance_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_governance_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_governance_lesson-program-policy]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_governance_lesson-program-policy/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_hosts_instructors_hosts_instructors_checklist]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_hosts_instructors_hosts_instructors_checklist/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_hosts_instructors_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_hosts_instructors_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_hosts_instructors_instructor_tips]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_hosts_instructors_instructor_tips/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_hosts_instructors_unofficial_workshops]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_hosts_instructors_unofficial_workshops/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_hosts_instructors_workshop_needs]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_hosts_instructors_workshop_needs/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_development_community_discussions]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_development_community_discussions/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_development_community_discussions_workflow]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_development_community_discussions_workflow/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_development_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_development_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_development_instructor_development_committee]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_development_instructor_development_committee/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_development_mentoring_groups]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_development_mentoring_groups/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_development_mentoring_groups_workflow]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_development_mentoring_groups_workflow/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_duties_agreement]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_duties_agreement/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_email_templates_admin]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_email_templates_admin/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_email_templates_trainers]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_email_templates_trainers/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_members_join]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_members_join/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_scheduling_training_events]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_scheduling_training_events/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_tracking_checkout]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_tracking_checkout/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_trainer_coordinator]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_trainer_coordinator/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_trainers_guide]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_trainers_guide/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_instructor_training_trainers_training]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_instructor_training_trainers_training/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_lesson_development_bug_bbq]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_lesson_development_bug_bbq/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_lesson_development_email_templates]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_lesson_development_email_templates/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_lesson_development_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_lesson_development_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_lesson_development_lesson_development_roles]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_lesson_development_lesson_development_roles/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_lesson_development_lesson_release]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_lesson_development_lesson_release/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_maintainers_email_templates]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_maintainers_email_templates/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_maintainers_github_labels]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_maintainers_github_labels/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_maintainers_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_maintainers_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_maintainers_maintainers]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_maintainers_maintainers/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_code-of-conduct]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_code-of-conduct/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_enforcement-guidelines]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_enforcement-guidelines/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_incident-reporting]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_incident-reporting/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_incident-response]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_incident-response/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_index_coc]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_index_coc/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_instructor-no-show-policy]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_instructor-no-show-policy/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_privacy]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_privacy/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_reimbursement-policy]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_reimbursement-policy/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_staff_professional-development-policy]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_staff_professional-development-policy/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_policies_termed-suspension]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_policies_termed-suspension/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_regional_communities_african_task_force]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_regional_communities_african_task_force/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_regional_communities_carpentries_en_latinoamerica]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_regional_communities_carpentries_en_latinoamerica/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_regional_communities_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_regional_communities_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_workshop_administration_amy_manual]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_workshop_administration_amy_manual/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_workshop_administration_email_templates]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_workshop_administration_email_templates/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_workshop_administration_eventbrite]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_workshop_administration_eventbrite/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_workshop_administration_expectations]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_workshop_administration_expectations/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_workshop_administration_index]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_workshop_administration_index/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_workshop_administration_survey_monkey]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_workshop_administration_survey_monkey/<lang>.po
+source_lang = en
+type = PO
+
+[handbook-translations.locale_pot_topic_folders_workshop_administration_workshop_admin_workflow]
+file_filter = translations/handbook-translations.locale_pot_topic_folders_workshop_administration_workshop_admin_workflow/<lang>.po
+source_lang = en
+type = PO
+
