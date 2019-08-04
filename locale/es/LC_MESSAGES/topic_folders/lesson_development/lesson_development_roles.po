@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:1
 msgid "Lesson Development Roles"
@@ -29,10 +27,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:5
 msgid ""
-"Curriculum Advisors are part of a team that provides the oversight, "
-"vision, and leadership for a particular set of lessons. Advisors "
-"represent The Carpentries community and should strive to embody The "
-"Carpentries philosophy by:"
+"Curriculum Advisors are part of a team that provides the oversight, vision, "
+"and leadership for a particular set of lessons. Advisors represent The "
+"Carpentries community and should strive to embody The Carpentries philosophy"
+" by:"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:6
@@ -47,8 +45,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:8
 msgid ""
-"Find what’s good. Be specific about improvements needed. Use motivational"
-" language."
+"Find what’s good. Be specific about improvements needed. Use motivational "
+"language."
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:9
@@ -123,8 +121,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:27
 msgid ""
-"Review individual lessons to make sure curriculum-level learning "
-"objectives are being met by the set of lessons."
+"Review individual lessons to make sure curriculum-level learning objectives "
+"are being met by the set of lessons."
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:28
@@ -135,8 +133,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:30
 msgid ""
-"Curriculum Advisors commit to serving a one year term, but are welcome to"
-" continue for additional years."
+"Curriculum Advisors commit to serving a one year term, but are welcome to "
+"continue for additional years."
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:32
@@ -153,9 +151,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_development_roles.md:37
 msgid ""
-"Members of the Lesson Infrastructure Subcommittee serve as Maintainers "
-"for The Carpentries lesson template and its documentation, as well as for"
-" the Carpentry workshop template. As Maintainers, they also follow the "
-"Maintainer Guidelines."
+"Members of the Lesson Infrastructure Subcommittee serve as Maintainers for "
+"The Carpentries lesson template and its documentation, as well as for the "
+"Carpentry workshop template. As Maintainers, they also follow the Maintainer"
+" Guidelines."
 msgstr ""
-

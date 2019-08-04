@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:1
 msgid "Role and Expectations"
@@ -26,12 +24,12 @@ msgstr ""
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:3
 msgid ""
 "The role of the Regional Coordinators is to be the front face of the "
-"Carpentries, promoting our work and our culture in their geographical "
-"area.  The Regional Coordniators will manage workshop logistics, "
-"communicate with hosts and instructors, and respond to general inquiries."
-"  As a team, all administrators will work together to support each other "
-"and ensure communities can thrive locally while maintaining quality and "
-"consistency globally."
+"Carpentries, promoting our work and our culture in their geographical area."
+"  The Regional Coordniators will manage workshop logistics, communicate with"
+" hosts and instructors, and respond to general inquiries.  As a team, all "
+"administrators will work together to support each other and ensure "
+"communities can thrive locally while maintaining quality and consistency "
+"globally."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:5
@@ -41,16 +39,16 @@ msgstr ""
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:7
 msgid ""
 "Attend monthly admin team meetings.  Time zones will be taken into "
-"consideration when scheduling these meetings.  Attending other "
-"Carpentries community meetings is also highly recommended."
+"consideration when scheduling these meetings.  Attending other Carpentries "
+"community meetings is also highly recommended."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:8
 msgid ""
 "Read emails sent to the admin group. Stay up to date on all Carpentries "
 "operations as outlined in the Carpentries handbook. Respond to workshop "
-"requests from host sites in your region within two business days. This "
-"may include, but is not limited to:"
+"requests from host sites in your region within two business days. This may "
+"include, but is not limited to:"
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:11
@@ -75,15 +73,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:16
 msgid ""
-"Follow up on all completed workshops to collect attendance data and other"
-" feedback, and record this in Carpentries’ systems."
+"Follow up on all completed workshops to collect attendance data and other "
+"feedback, and record this in Carpentries’ systems."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:17
 msgid ""
-"Serve as the “front face” of the Carpentries in their region by "
-"responding to general public inquiries and supporting our larger "
-"communication efforts and other initiatives."
+"Serve as the “front face” of the Carpentries in their region by responding "
+"to general public inquiries and supporting our larger communication efforts "
+"and other initiatives."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:18
@@ -94,18 +92,17 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:19
 msgid ""
-"Communicate successes and challenges with Carpentries Workshop and "
-"Logistics Manager and other Regional Coordinators."
+"Communicate successes and challenges with Carpentries Workshop and Logistics"
+" Manager and other Regional Coordinators."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:20
 msgid ""
 "Promote the Carpentries culture of an inclusive and supportive learning "
-"environment informed by best practices in pedagogical research. Follow "
-"the Carpentries Code of Conduct and report any violations."
+"environment informed by best practices in pedagogical research. Follow the "
+"Carpentries Code of Conduct and report any violations."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/expectations.md:21
 msgid "Elevate questions and issues to Carpentries staff as needed."
 msgstr ""
-

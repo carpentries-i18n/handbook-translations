@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:1
 msgid "Setting up surveys using Survey Monkey"
@@ -34,9 +32,9 @@ msgstr ""
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:7
 msgid ""
 "The Workshop Administration Team will have log in credentials from the "
-"Carpentries to set up surveys.  They will share links to view survey "
-"results with workshop hosts and instructors. Hosts and instructors do not"
-" need log in credentials."
+"Carpentries to set up surveys.  They will share links to view survey results"
+" with workshop hosts and instructors. Hosts and instructors do not need log "
+"in credentials."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:9
@@ -49,24 +47,24 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:13
 msgid ""
-"If a learner accesses the survey from that workshop's website (in the "
-"format username.github.io/YYYY-MM-DD-sitename), the survey links will be "
-"appended with the workshop slug (so "
+"If a learner accesses the survey from that workshop's website (in the format"
+" username.github.io/YYYY-MM-DD-sitename), the survey links will be appended "
+"with the workshop slug (so "
 "https://www.surveymonkey.com/r/swc_pre_workshop_v1 becomes "
-"https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=YYYY-MM-"
-"DD-sitename)."
+"https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=YYYY-MM-DD-"
+"sitename)."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:15
 msgid ""
-"The \"naked\" link will take them to the exact same survey, but will make"
-" it slightly more difficult for us to share survey results."
+"The \"naked\" link will take them to the exact same survey, but will make it"
+" slightly more difficult for us to share survey results."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:17
 msgid ""
-"The survey has already been designed, and we will not customize any of "
-"the questions for specific workshops or sites."
+"The survey has already been designed, and we will not customize any of the "
+"questions for specific workshops or sites."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:19
@@ -77,9 +75,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:23
 msgid ""
-"Learners are prompted to fill in their workshop ID or the workshop date "
-"and location if the ID is not known. Having this information accurate and"
-" complete is crucial to being able to share survey results."
+"Learners are prompted to fill in their workshop ID or the workshop date and "
+"location if the ID is not known. Having this information accurate and "
+"complete is crucial to being able to share survey results."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:25
@@ -106,15 +104,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:41
 msgid ""
-"In the next box, enter the workshop ID that you want to get results for."
-"  Select Exact phrase to get that workshop ID exactly."
+"In the next box, enter the workshop ID that you want to get results for.  "
+"Select Exact phrase to get that workshop ID exactly."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:45
 msgid ""
-"This will take you to an internal view of the survey results for that "
-"event. To create a public view, click the green Save as button at the top"
-" right, and select Shared data link."
+"This will take you to an internal view of the survey results for that event."
+" To create a public view, click the green Save as button at the top right, "
+"and select Shared data link."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:49
@@ -127,16 +125,16 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:53
 msgid ""
-"Access: Private. This means anyone with the link can view the results. "
-"You can make this password protected by selecting \"Restricted.\" You can"
-" then share passwords with hosts, instructors, and anyone else who may "
-"need access."
+"Access: Private. This means anyone with the link can view the results. You "
+"can make this password protected by selecting \"Restricted.\" You can then "
+"share passwords with hosts, instructors, and anyone else who may need "
+"access."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:54
 msgid ""
-"Page Title: This will prepopulate with a default value. You can change "
-"this as you wish."
+"Page Title: This will prepopulate with a default value. You can change this "
+"as you wish."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:55
@@ -169,15 +167,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:69
 msgid ""
-"This link will also be included in the Shared Data List, at the bottom of"
-" the left side of the screen."
+"This link will also be included in the Shared Data List, at the bottom of "
+"the left side of the screen."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:73
 msgid ""
-"It will be given a sequential number. Click on the ... to rename it to "
-"the workshop ID.  This list is monitored regularly, and anything with the"
-" sequential number will be deleted."
+"It will be given a sequential number. Click on the ... to rename it to the "
+"workshop ID.  This list is monitored regularly, and anything with the "
+"sequential number will be deleted."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:75
@@ -192,15 +190,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:79
 msgid ""
-"From the internal view of the survey results click the green Save as "
-"button at the top right. This time, click Export file."
+"From the internal view of the survey results click the green Save as button "
+"at the top right. This time, click Export file."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:83
 msgid ""
-"From here you will have various options about what data to export and "
-"what format to export it in. Make your selections and name the filename "
-"with the workshop ID."
+"From here you will have various options about what data to export and what "
+"format to export it in. Make your selections and name the filename with the "
+"workshop ID."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:85
@@ -216,10 +214,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:91
 msgid ""
-"Survey data can be modified once a user has submitted their response.  To"
-" protect the integrity of our data, this should be done only if it is "
-"known that a respondent filled in an incorrect or incorrectly formatted "
-"workshop id."
+"Survey data can be modified once a user has submitted their response.  To "
+"protect the integrity of our data, this should be done only if it is known "
+"that a respondent filled in an incorrect or incorrectly formatted workshop "
+"id."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:93
@@ -242,8 +240,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:105
 msgid ""
-"The survey will open in a new window.  Navigate to the workshop id "
-"question without editing any other responses."
+"The survey will open in a new window.  Navigate to the workshop id question "
+"without editing any other responses."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:109
@@ -252,8 +250,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:113
 msgid ""
-"Close this window so no other responses are affected. This should now "
-"show up modified and correct in the Survey Monkey responses."
+"Close this window so no other responses are affected. This should now show "
+"up modified and correct in the Survey Monkey responses."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:115
@@ -261,6 +259,6 @@ msgid "Continue this for any incorrect response."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/survey_monkey.md:117
-msgid "Running a report as described above should now give you correct responses."
+msgid ""
+"Running a report as described above should now give you correct responses."
 msgstr ""
-

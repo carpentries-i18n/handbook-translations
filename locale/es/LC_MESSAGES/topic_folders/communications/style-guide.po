@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/communications/style-guide.md:1
 msgid "The Carpentries Style Guide"
@@ -25,19 +23,18 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:3
 msgid ""
-"This guide aims to provide a standard reference point when questions "
-"arise about style for The Carpentries - how we would prefer people to "
-"reference us, how best to render dates and times for a global community, "
-"when to use what capitalisation, and other questions of style."
+"This guide aims to provide a standard reference point when questions arise "
+"about style for The Carpentries - how we would prefer people to reference "
+"us, how best to render dates and times for a global community, when to use "
+"what capitalisation, and other questions of style."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:5
 msgid ""
-"We will adhere to a similar style  on our website and in other material "
-"we make widely available such as blog posts, but not necessarily in "
-"lessons. To ensure that the style guide is as widely applicable as "
-"possible, UK English spellings and usage will be used in favour of "
-"American spelling."
+"We will adhere to a similar style  on our website and in other material we "
+"make widely available such as blog posts, but not necessarily in lessons. To"
+" ensure that the style guide is as widely applicable as possible, UK English"
+" spellings and usage will be used in favour of American spelling."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:7
@@ -49,11 +46,10 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:9
 msgid ""
 "Please note, as outlined in section C: The Carpentries, while sounding "
-"plural, is a singular entity. Therefore, when referring to The "
-"Carpentries, verbs should also be singular, e.g., ‘The Carpentries is …’."
-" The full and correct title for the merged organization is The "
-"Carpentries. However, terminology such as ‘A Carpentries workshop …’ is "
-"acceptable."
+"plural, is a singular entity. Therefore, when referring to The Carpentries, "
+"verbs should also be singular, e.g., ‘The Carpentries is …’. The full and "
+"correct title for the merged organization is The Carpentries. However, "
+"terminology such as ‘A Carpentries workshop …’ is acceptable."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:13
@@ -67,18 +63,18 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:16
 msgid ""
 "Generally use all capitals for initialisms, e.g., NSF, CEO, BIDS. When "
-"writing about an organisation or event within text, provide the acronym "
-"in brackets on first use, and use the acronym to refer to the "
-"organisation or event from then on. For example, ‘She was the chair of "
-"the National Science Foundation (NSF) ... The NSF … ’"
+"writing about an organisation or event within text, provide the acronym in "
+"brackets on first use, and use the acronym to refer to the organisation or "
+"event from then on. For example, ‘She was the chair of the National Science "
+"Foundation (NSF) ... The NSF … ’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:18
 msgid ""
-"If an organisation is mentioned only once within a piece of text, say, in"
-" a blog post, it is not necessary to provide its acronym. Do not use "
-"acronyms without spelling these out first as country-specific acronym may"
-" be unfamiliar to members of our community."
+"If an organisation is mentioned only once within a piece of text, say, in a "
+"blog post, it is not necessary to provide its acronym. Do not use acronyms "
+"without spelling these out first as country-specific acronym may be "
+"unfamiliar to members of our community."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:20
@@ -87,9 +83,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:22
 msgid ""
-"Use on non-English words when known. People’s names, in whatever "
-"language, should also be given appropriate accents where known, e.g., "
-"‘Arsène Lupin was a jewel thief who never got to Bogotá or Angoulême.’"
+"Use on non-English words when known. People’s names, in whatever language, "
+"should also be given appropriate accents where known, e.g., ‘Arsène Lupin "
+"was a jewel thief who never got to Bogotá or Angoulême.’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:24
@@ -110,8 +106,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:30
 msgid ""
-"In text and blog posts, use the ampersand in organisations’ names when "
-"the organisation does so, e.g., P&O, AT&T."
+"In text and blog posts, use the ampersand in organisations’ names when the "
+"organisation does so, e.g., P&O, AT&T."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:32
@@ -123,8 +119,8 @@ msgid ""
 "Indicates either a missing letter or letters (can’t, we’d, hadn’t) or a "
 "possessive (Siobhan’s script). The correct use of the apostrophe is "
 "important, as a misplacement or omission can alter a sentence’s meaning. "
-"Apostrophes are not needed in dates. Preferred form is 1990s, not 1990’s;"
-" the 70s, not the 70’s."
+"Apostrophes are not needed in dates. Preferred form is 1990s, not 1990’s; "
+"the 70s, not the 70’s."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:38
@@ -137,8 +133,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:42
 msgid ""
-"Should ideally include a full stop after each one if it is not just a "
-"list of terms, i.e: <br>"
+"Should ideally include a full stop after each one if it is not just a list "
+"of terms, i.e: <br>"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:43
@@ -187,40 +183,40 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:61
 msgid ""
 "government departments initial capitals, e.g., Department of Industry, "
-"Department of Health. Use lower case when not referring to a department "
-"by its proper name, e.g., ‘Senator Carr first led the Department of "
-"Industry. The department is now led by … ’"
+"Department of Health. Use lower case when not referring to a department by "
+"its proper name, e.g., ‘Senator Carr first led the Department of Industry. "
+"The department is now led by … ’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:64
 msgid ""
-"government agencies, public bodies, quangos <br> Render these with "
-"initial capitals, e.g., District Attorney’s Office, Human Rights "
-"Commission, the University of Florida. Use lower case when not referring "
-"to an organisation by its proper name, e.g., ‘She worked for the National"
-" Society of Coders. The society was founded … ’"
+"government agencies, public bodies, quangos <br> Render these with initial "
+"capitals, e.g., District Attorney’s Office, Human Rights Commission, the "
+"University of Florida. Use lower case when not referring to an organisation "
+"by its proper name, e.g., ‘She worked for the National Society of Coders. "
+"The society was founded … ’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:67
 msgid ""
 "lesson titles and episode names <br> Lesson titles and episodes within "
-"lessons should be rendered in Title case, i.e. all major words "
-"capitalised, e.g., Introduction to Data; Project Organization and "
-"Management for Genomics."
+"lessons should be rendered in Title case, i.e. all major words capitalised, "
+"e.g., Introduction to Data; Project Organization and Management for "
+"Genomics."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:70
 msgid ""
-"names of institutions <br> Render these with initial capitals, e.g., "
-"Gordon and Betty Moore Foundation, Smithsonian Institute, the United "
-"Nations, the European Union."
+"names of institutions <br> Render these with initial capitals, e.g., Gordon "
+"and Betty Moore Foundation, Smithsonian Institute, the United Nations, the "
+"European Union."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:73
 msgid ""
-"roles <br> Roles within The Carpentries are always capitalised. Therefore"
-" we use Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. "
-"Helper and host are not capitalised as these are not official roles."
+"roles <br> Roles within The Carpentries are always capitalised. Therefore we"
+" use Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper"
+" and host are not capitalised as these are not official roles."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:78
@@ -230,10 +226,10 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:80
 msgid ""
 "The Carpentries, while sounding plural, is a singular entity. Therefore, "
-"when referring to The Carpentries, verbs should also be singular, e.g., "
-"‘The Carpentries is …’. The full and correct title for the merged "
-"organization is The Carpentries. However, terminology such as ‘A "
-"Carpentries workshop …’ is acceptable."
+"when referring to The Carpentries, verbs should also be singular, e.g., ‘The"
+" Carpentries is …’. The full and correct title for the merged organization "
+"is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ "
+"is acceptable."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:82
@@ -243,31 +239,31 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:83
 msgid ""
 "Use commas to separate clauses in long sentences. ‘If the judges truly "
-"reflected on their decisions regarding the non-award of prizes in 2010, "
-"they would not find it hard to see why people objected to their choices.’"
+"reflected on their decisions regarding the non-award of prizes in 2010, they"
+" would not find it hard to see why people objected to their choices.’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:85
 msgid ""
 "Commas can be used definitively. For example, in this sentence: ‘The "
-"developer, Sue Miller, is a keen coder,’ the use of commas indicates that"
-" there is only one developer."
+"developer, Sue Miller, is a keen coder,’ the use of commas indicates that "
+"there is only one developer."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:87
 msgid ""
-"Where no such definition is needed, e.g., ‘PyCon speaker Mary Clough won "
-"the award,’ no commas are needed since there are many speakers at PyCon, "
-"not just one."
+"Where no such definition is needed, e.g., ‘PyCon speaker Mary Clough won the"
+" award,’ no commas are needed since there are many speakers at PyCon, not "
+"just one."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:89
 msgid ""
-"A comma is also crucial to avoid ambiguity in examples such as this: ‘The"
-" report criticises the judges who have been accused of favouritism.’ A "
-"comma after ‘judges’ would have made it clear that all judges have been "
-"accused of favouritism. Without the comma, the sentence implies that only"
-" some judges have been criticised."
+"A comma is also crucial to avoid ambiguity in examples such as this: ‘The "
+"report criticises the judges who have been accused of favouritism.’ A comma "
+"after ‘judges’ would have made it clear that all judges have been accused of"
+" favouritism. Without the comma, the sentence implies that only some judges "
+"have been criticised."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:91
@@ -302,9 +298,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:106
 msgid ""
-"Use figures for decades, e.g., the 1990s, the radical 60s, etc. Do not "
-"add an apostrophe to decades, i.e. 1990s, not 1990’s; the 70s, not the "
-"70’s."
+"Use figures for decades, e.g., the 1990s, the radical 60s, etc. Do not add "
+"an apostrophe to decades, i.e. 1990s, not 1990’s; the 70s, not the 70’s."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:108
@@ -321,8 +316,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:116
 msgid ""
-"include full stops, and always follow with a comma, whether you are using"
-" the abbreviated form, e.g., or the written-out version, for example."
+"include full stops, and always follow with a comma, whether you are using "
+"the abbreviated form, e.g., or the written-out version, for example."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:118
@@ -344,12 +339,12 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:126
 #: ../../handbook/topic_folders/communications/style-guide.md:175
 msgid ""
-"Always spell out in writing the numbers from one to nine. Use numerals "
-"for numbers 10 to 999,999, and thereafter go back to writing numbers out "
-"in full, e.g., one million readers, eight billion people, but when the "
-"first number is above nine, you can go back to figures for that first "
-"part, e.g., 20 million lines. Spell out ordinals from the first to the "
-"ninth, e.g., third, fifth, and thereafter use 10th, 31st, etc."
+"Always spell out in writing the numbers from one to nine. Use numerals for "
+"numbers 10 to 999,999, and thereafter go back to writing numbers out in "
+"full, e.g., one million readers, eight billion people, but when the first "
+"number is above nine, you can go back to figures for that first part, e.g., "
+"20 million lines. Spell out ordinals from the first to the ninth, e.g., "
+"third, fifth, and thereafter use 10th, 31st, etc."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:128
@@ -360,15 +355,14 @@ msgstr ""
 msgid ""
 "These terms to be used in preference to the term ‘Christian name’, which "
 "might offend non-Christians. Use first names the first time someone is "
-"mentioned, but not subsequently, e.g., ‘Mary Brown came late to "
-"programming ... Brown later went on to develop several well-known "
-"programs.’"
+"mentioned, but not subsequently, e.g., ‘Mary Brown came late to programming "
+"... Brown later went on to develop several well-known programs.’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:131
 msgid ""
-"Avoid using initials rather than a name, unless that is how a person is "
-"best known, e.g., J. K. Galbraith."
+"Avoid using initials rather than a name, unless that is how a person is best"
+" known, e.g., J. K. Galbraith."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:133
@@ -378,8 +372,8 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:134
 msgid ""
 "If possible, use the correct accents on people’s names in any language, "
-"e.g., Sven-Göran Eriksson (Swedish), Béla Bartók (Hungarian), Phượng "
-"Nguyễn (Vietnamese)."
+"e.g., Sven-Göran Eriksson (Swedish), Béla Bartók (Hungarian), Phượng Nguyễn "
+"(Vietnamese)."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:136
@@ -388,10 +382,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:137
 msgid ""
-"The French (or French origin) de, d’, des, la, les or le and the Dutch "
-"van are normally lowercase when the name is fully written out, e.g., "
-"Marianne d’Alpuget, Erik van der Walden, but capitalised when written "
-"without forenames, e.g., D’Alpuget, Van der Walden."
+"The French (or French origin) de, d’, des, la, les or le and the Dutch van "
+"are normally lowercase when the name is fully written out, e.g., Marianne "
+"d’Alpuget, Erik van der Walden, but capitalised when written without "
+"forenames, e.g., D’Alpuget, Van der Walden."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:139
@@ -400,9 +394,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:140
 msgid ""
-"Italicise these and provide accents where applicable, e.g., bête noire. "
-"In the case of frequently used foreign terms in accepted English usage, "
-"e.g., avant garde, vis a vis, vice versa, you do not need to italicise."
+"Italicise these and provide accents where applicable, e.g., bête noire. In "
+"the case of frequently used foreign terms in accepted English usage, e.g., "
+"avant garde, vis a vis, vice versa, you do not need to italicise."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:142
@@ -425,10 +419,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:151
 msgid ""
-"Honorifics which denote occupations, e.g., Doctor, Professor, can "
-"initially be used within text or in blog posts. Drop honorifics and first"
-" names after the first mention and use surname only from then on, e.g., "
-"‘Professor Gillian Kramer teaches … Kramer has spent a lot of time...’"
+"Honorifics which denote occupations, e.g., Doctor, Professor, can initially "
+"be used within text or in blog posts. Drop honorifics and first names after "
+"the first mention and use surname only from then on, e.g., ‘Professor "
+"Gillian Kramer teaches … Kramer has spent a lot of time...’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:153
@@ -445,8 +439,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:157
 msgid ""
-"Separate initials in names from each other with spaces and full stops, "
-"e.g., J. K. Galbraith."
+"Separate initials in names from each other with spaces and full stops, e.g.,"
+" J. K. Galbraith."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:159
@@ -473,8 +467,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:166
 msgid ""
-"Foreign words and phrases, and scientific names, e.g., Macropus rufus, "
-"Bufo marinus."
+"Foreign words and phrases, and scientific names, e.g., Macropus rufus, Bufo "
+"marinus."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:168
@@ -487,8 +481,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:171
 msgid ""
-"Do not use the terms Christian name, first name, or forename. Instead use"
-" given name or personal name. We will defer to people's chosen spelling, "
+"Do not use the terms Christian name, first name, or forename. Instead use "
+"given name or personal name. We will defer to people's chosen spelling, "
 "choice of given name, punctuation, capitalisation, and name order (when "
 "known or obtainable).<br> See also foreign names."
 msgstr ""
@@ -499,9 +493,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:177
 msgid ""
-"When starting a sentence with any number, the number should be written "
-"out as words, e.g., ‘Twenty-five people attended the workshop.’ "
-"‘Nineteen-ninety-five was not a leap year.’"
+"When starting a sentence with any number, the number should be written out "
+"as words, e.g., ‘Twenty-five people attended the workshop.’ ‘Nineteen-"
+"ninety-five was not a leap year.’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:179
@@ -515,23 +509,22 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:182
 msgid ""
 "A comma before the final ‘and’ in lists. Straightforward lists (he wrote "
-"books, short stories and poetry) do not need the extra comma, but "
-"sometimes it can help the reader to know which bits go together, e.g., "
-"‘she wrote in these genres – horror, mystery, cloak and dagger, and "
-"fantasy’, and sometimes it is essential for clarity and meaning, e.g.,"
+"books, short stories and poetry) do not need the extra comma, but sometimes "
+"it can help the reader to know which bits go together, e.g., ‘she wrote in "
+"these genres – horror, mystery, cloak and dagger, and fantasy’, and "
+"sometimes it is essential for clarity and meaning, e.g.,"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:184
 msgid ""
-"I spoke to my sisters, Olga Petrova, and Susanne De Vries (means I spoke "
-"to my sisters AND to Olga Petrova and Susanne De Vries)"
+"I spoke to my sisters, Olga Petrova, and Susanne De Vries (means I spoke to "
+"my sisters AND to Olga Petrova and Susanne De Vries)"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:186
 msgid ""
 "I spoke to my sisters, Olga Petrova and Susanne De Vries (this wrongly "
-"implies that Olga Petrova and Susanne De Vries are the sisters in "
-"question.)"
+"implies that Olga Petrova and Susanne De Vries are the sisters in question.)"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:188
@@ -548,8 +541,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:192
 msgid ""
-"Please spell this out in text, e.g., not as %, and write as two words, "
-"not one."
+"Please spell this out in text, e.g., not as %, and write as two words, not "
+"one."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:194
@@ -564,21 +557,20 @@ msgstr ""
 msgid ""
 "Use single quotes at the start and end of a quoted section, with double "
 "quotes for quoted words within that section. Place full stops and commas "
-"inside the quotes for a complete quoted sentence; otherwise the full stop"
-" comes outside, e.g.,"
+"inside the quotes for a complete quoted sentence; otherwise the full stop "
+"comes outside, e.g.,"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:200
 msgid ""
-"‘Anna said: “Your style guide needs updating,” and I said: “I agree.”’ "
-"‘Anna said updating the guide was “a difficult and time-consuming task”.’"
+"‘Anna said: “Your style guide needs updating,” and I said: “I agree.”’ ‘Anna"
+" said updating the guide was “a difficult and time-consuming task”.’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:203
 msgid ""
-"For parentheses inside direct quotes, use square brackets, e.g., The "
-"judges said, ‘We very much liked the work of Goran [Kovacs] from "
-"Croatia’."
+"For parentheses inside direct quotes, use square brackets, e.g., The judges "
+"said, ‘We very much liked the work of Goran [Kovacs] from Croatia’."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:205
@@ -589,14 +581,14 @@ msgstr ""
 msgid ""
 "Colons, rather than commas, should be used to introduce quotations from "
 "speeches or writings that run longer than a single sentence, e.g., Brown "
-"said: ‘Winning the Nobel Prize was a highlight. It will change my life. I"
-" can’t believe my luck.’"
+"said: ‘Winning the Nobel Prize was a highlight. It will change my life. I "
+"can’t believe my luck.’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:208
 msgid ""
-"To introduce phrases or single sentence quotations, a comma is "
-"preferable, e.g., Brown said, ‘Winning the Nobel Prize was a highlight.’"
+"To introduce phrases or single sentence quotations, a comma is preferable, "
+"e.g., Brown said, ‘Winning the Nobel Prize was a highlight.’"
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:210
@@ -610,8 +602,8 @@ msgstr ""
 #: ../../handbook/topic_folders/communications/style-guide.md:213
 msgid ""
 "Roles within The Carpentries are always capitalised. Therefore we use "
-"Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper "
-"and host are not capitalised as these are not official roles."
+"Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper and "
+"host are not capitalised as these are not official roles."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:215
@@ -624,10 +616,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:218
 msgid ""
-"Render these in italics, with the first name, which denotes genus, having"
-" an initial capital, with the second, which denotes species, written in "
-"lower case, e.g., Aedes aegypti (yellow fever mosquito), Crocodylus "
-"porosus (Saltwater crocodile), Macropus rufus (Red kangaroo)."
+"Render these in italics, with the first name, which denotes genus, having an"
+" initial capital, with the second, which denotes species, written in lower "
+"case, e.g., Aedes aegypti (yellow fever mosquito), Crocodylus porosus "
+"(Saltwater crocodile), Macropus rufus (Red kangaroo)."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:220
@@ -636,11 +628,11 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:221
 msgid ""
-"Avoid using seasons when discussing or announcing events, as seasons vary"
-" from hemisphere to hemisphere. What is Fall in the USA is spring in "
-"Australia. Use a month range instead, e.g., January to March, or use "
-"halves or quarters, e.g., ‘This happened in the first quarter of 2018’, "
-"‘This is planned for the second half of the year.’<br> See also dates."
+"Avoid using seasons when discussing or announcing events, as seasons vary "
+"from hemisphere to hemisphere. What is Fall in the USA is spring in "
+"Australia. Use a month range instead, e.g., January to March, or use halves "
+"or quarters, e.g., ‘This happened in the first quarter of 2018’, ‘This is "
+"planned for the second half of the year.’<br> See also dates."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:224
@@ -649,9 +641,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:225
 msgid ""
-"Corporate entities take the singular: e.g., ‘The NSF has announced … ’ In"
-" subsequent references, use a singular pronoun: ‘It will cover the "
-"Olympics.’ The Carpentries is always singular."
+"Corporate entities take the singular: e.g., ‘The NSF has announced … ’ In "
+"subsequent references, use a singular pronoun: ‘It will cover the Olympics.’"
+" The Carpentries is always singular."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:227
@@ -675,12 +667,11 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/style-guide.md:233
 msgid ""
-"Times should be rendered in UTC in a 24-hour format, e.g., 12:00 UTC, "
-"17:30 UTC, 09:00 UTC. Do not use local zones, e.g., PDT, AEST. If you "
-"want to make times meaningful for people in a range of time zones, use "
-"the Event Time Announcer (using your UTC time and date as the basis to "
-"create the event) to create a linkable time that will render locally for "
-"each person who uses it, e.g., 20 August, 2018 22:00 UTC: "
+"Times should be rendered in UTC in a 24-hour format, e.g., 12:00 UTC, 17:30 "
+"UTC, 09:00 UTC. Do not use local zones, e.g., PDT, AEST. If you want to make"
+" times meaningful for people in a range of time zones, use the Event Time "
+"Announcer (using your UTC time and date as the basis to create the event) to"
+" create a linkable time that will render locally for each person who uses "
+"it, e.g., 20 August, 2018 22:00 UTC: "
 "https://www.timeanddate.com/worldclock/fixedtime.html?msg=Carpentries+Mentoring+Committee+Meeting+2&iso=20180820T22&p1=%3A&ah=1"
 msgstr ""
-

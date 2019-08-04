@@ -1,32 +1,31 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-# David Pérez-Suárez <dps.helio@gmail.com>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# David PS <dps.helio@gmail.com>, 2019
+# 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-26 19:54+0100\n"
-"PO-Revision-Date: 2019-05-26 19:58+0100\n"
-"Last-Translator: David Pérez-Suárez <dps.helio@gmail.com>\n"
-"Language: es_ES\n"
-"Language-Team: Spanish - Spain <carpentries-es@carpentries.com>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2019-05-26 18:55+0100\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Last-Translator: David PS <dps.helio@gmail.com>, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
-"X-Generator: Gtranslator 3.32.1\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../handbook/index.rst:14
+#: ../../handbook/index.rst:14 ../../handbook/index.rst:14
 msgid "General Resources"
 msgstr "Recursos generales"
 
-#: ../../handbook/index.rst:32
+#: ../../handbook/index.rst:32 ../../handbook/index.rst:32
 msgid "About"
 msgstr "Acerca de"
 
@@ -37,19 +36,20 @@ msgstr "Manual de las Carpentries"
 #: ../../handbook/index.rst:4
 msgid ""
 "`The Carpentries <https://carpentries.org/>`_ teaches foundational coding, "
-"and data science skills to researchers worldwide. `Software Carpentry "
-"<https://software-carpentry.org/>`_, `Data Carpentry <https://datacarpentry."
-"org/>`_, and `Library Carpentry <https://librarycarpentry.org/>`_ workshops "
-"are based on our lessons. Workshop hosts, Instructors, and learners must be "
-"prepared to follow our `Code of Conduct <https://docs.carpentries.org/"
-"topic_folders/policies/code-of-conduct.html>`_."
+"and data science skills to researchers worldwide. `Software Carpentry <https"
+"://software-carpentry.org/>`_, `Data Carpentry "
+"<https://datacarpentry.org/>`_, and `Library Carpentry "
+"<https://librarycarpentry.org/>`_ workshops are based on our lessons. "
+"Workshop hosts, Instructors, and learners must be prepared to follow our "
+"`Code of Conduct <https://docs.carpentries.org/topic_folders/policies/code-"
+"of-conduct.html>`_."
 msgstr ""
 "`Las Carpentries <https://carpentries.org/>`_ enseña habilidades básicas en "
 "programación y análisis de datos a investigadores de todo el mundo. Los "
 "talleres de Software Carpentry, Data Carpentry, y Library Carpentry están "
 "basados en nuestras lecciones. Organizadores, instructores y aprendices en "
-"dichos talleres deben de seguir nuestro `Código de conducta </es/"
-"topic_folders/policies/code-of-conduct.html>`_."
+"dichos talleres deben de seguir nuestro `Código de conducta "
+"</es/topic_folders/policies/code-of-conduct.html>`_."
 
 #: ../../handbook/index.rst:12
 msgid ""

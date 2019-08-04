@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:1
 msgid "Trainer Duties and Agreement"
@@ -27,8 +25,8 @@ msgstr ""
 msgid ""
 "As of May 2017, the Trainers group adopted a Trainer Agreement outlining "
 "Trainer duties. Only active Trainers are voting members of the Trainer "
-"community. An inactive Trainer may re-activate their Trainer status at "
-"any time by resuming Trainer activities."
+"community. An inactive Trainer may re-activate their Trainer status at any "
+"time by resuming Trainer activities."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:5
@@ -64,15 +62,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:13
 msgid ""
-"Connect the principles used in The Carpentries workshops with other "
-"teaching contexts"
+"Connect the principles used in The Carpentries workshops with other teaching"
+" contexts"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:15
 msgid ""
-"I understand that it is important to keep up to date and in touch with "
-"the Trainer community so that my teaching will reflect current practices "
-"and curriculum. Therefore, to be an active Trainer, I agree to:"
+"I understand that it is important to keep up to date and in touch with the "
+"Trainer community so that my teaching will reflect current practices and "
+"curriculum. Therefore, to be an active Trainer, I agree to:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:16
@@ -111,11 +109,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:24
 msgid ""
-"I understand that The Carpentries staff need an accurate understanding of"
-" Trainer availability in order to plan instructor training events. If at "
-"any point I am no longer able to serve as a Trainer, I will let The "
-"Carpentries staff know. I understand that only active Trainers are voting"
-" members of the Trainer community, but that I will be able to re-activate"
-" my Trainer status at any time by resuming Trainer activities."
+"I understand that The Carpentries staff need an accurate understanding of "
+"Trainer availability in order to plan instructor training events. If at any "
+"point I am no longer able to serve as a Trainer, I will let The Carpentries "
+"staff know. I understand that only active Trainers are voting members of the"
+" Trainer community, but that I will be able to re-activate my Trainer status"
+" at any time by resuming Trainer activities."
 msgstr ""
-

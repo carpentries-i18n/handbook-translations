@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:1
 msgid "Instructor Development Committee"
@@ -41,7 +39,8 @@ msgid "Responsibilities"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:9
-msgid "The Co-Chairs of the Instructor Development Committee are responsible for:"
+msgid ""
+"The Co-Chairs of the Instructor Development Committee are responsible for:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:11
@@ -56,12 +55,13 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:13
 msgid ""
-"Working with fellow co-chair to plan and share the monthly meeting agenda"
-" in advance (i.e. 1 or 2 weeks ahead of time)."
+"Working with fellow co-chair to plan and share the monthly meeting agenda in"
+" advance (i.e. 1 or 2 weeks ahead of time)."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:14
-msgid "Leading one of the monthly committee meetings (or delegate when absent)."
+msgid ""
+"Leading one of the monthly committee meetings (or delegate when absent)."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:15
@@ -75,13 +75,14 @@ msgid ""
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:17
-msgid "Following up with other committee members regarding their duties/concerns."
+msgid ""
+"Following up with other committee members regarding their duties/concerns."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:18
 msgid ""
-"Gathering feedback from community and other committee members about "
-"desired instructor development efforts and/or outcomes."
+"Gathering feedback from community and other committee members about desired "
+"instructor development efforts and/or outcomes."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:19
@@ -140,13 +141,13 @@ msgid "Secretary"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:35
-msgid "The Secretary of the Instructor Development Committee is responsible for:"
+msgid ""
+"The Secretary of the Instructor Development Committee is responsible for:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:37
 msgid ""
-"Recording notes and attendance at IDC Leadership Meetings and IDC "
-"Meetings."
+"Recording notes and attendance at IDC Leadership Meetings and IDC Meetings."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:38
@@ -157,8 +158,7 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:39
 msgid ""
-"Emailing a summary of notes to the instructor-development list on "
-"TopicBox."
+"Emailing a summary of notes to the instructor-development list on TopicBox."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:40
@@ -188,8 +188,8 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:59
 msgid ""
 "Actively recruiting participants to join IDC meetings and projects by "
-"sending out communications via Slack, Topicbox, Twitter (with the help of"
-" the Community Engagement Lead) and the Carpentries Blog."
+"sending out communications via Slack, Topicbox, Twitter (with the help of "
+"the Community Engagement Lead) and the Carpentries Blog."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:60
@@ -202,14 +202,14 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:75
 msgid ""
-"The Mentoring Chair of the Instructor Development Committee is "
-"responsible for:"
+"The Mentoring Chair of the Instructor Development Committee is responsible "
+"for:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:77
 msgid ""
-"Using the Mentoring Groups Workflow to recruit mentors/mentees and "
-"managing the Carpentries Mentoring Groups."
+"Using the Mentoring Groups Workflow to recruit mentors/mentees and managing "
+"the Carpentries Mentoring Groups."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:78
@@ -221,8 +221,7 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:79
 msgid ""
-"Maintaining the Carpentries Mentors' Etherpad and Mentoring Groups' "
-"Etherpad"
+"Maintaining the Carpentries Mentors' Etherpad and Mentoring Groups' Etherpad"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:80
@@ -244,7 +243,8 @@ msgid "Discussion Session Coordinator"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:97
-msgid "The primary responsibilities of the Discussion Session Coordinator are:"
+msgid ""
+"The primary responsibilities of the Discussion Session Coordinator are:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:99
@@ -304,4 +304,3 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/instructor_development_committee.md:123
 msgid "Supporting any of the other Chairs/Leaders in their roles as needed."
 msgstr ""
-

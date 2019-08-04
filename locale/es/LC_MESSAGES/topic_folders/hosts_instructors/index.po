@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/hosts_instructors/index.rst:2
 msgid "TEACHING AND HOSTING"
@@ -25,26 +23,26 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/index.rst:4
 msgid ""
-"Opportunities for certified instructors to teach Carpentries workshops "
-"are listed `here "
+"Opportunities for certified instructors to teach Carpentries workshops are "
+"listed `here "
 "<https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=0>`_."
 "  Join the `instructors mailing list "
-"<http://carpentries.topicbox.com/groups/instructors>`_ to be notified "
-"when new opportunities are posted."
+"<http://carpentries.topicbox.com/groups/instructors>`_ to be notified when "
+"new opportunities are posted."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/index.rst:6
 msgid ""
-"For centrally organized workshops, the Regional Coordinator will guide "
-"the host and instructor on following through on all these steps."
+"For centrally organized workshops, the Regional Coordinator will guide the "
+"host and instructor on following through on all these steps."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/index.rst:8
 msgid ""
-"Certified instructors are also encouraged to run self organized "
-"workshops.  For self organized workshops, the host and instructor are "
-"directly responsible for ensuring all the steps below are followed "
-"without support from the Regional Coordinator."
+"Certified instructors are also encouraged to run self organized workshops.  "
+"For self organized workshops, the host and instructor are directly "
+"responsible for ensuring all the steps below are followed without support "
+"from the Regional Coordinator."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/index.rst:10
@@ -54,4 +52,3 @@ msgid ""
 "<https://carpentries.org/regionalcoordinators/>`_ about who they are and "
 "what they do."
 msgstr ""
-

@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/communications/submit-news-item.md:1
 msgid "Getting your news out there"
@@ -35,21 +33,20 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/submit-news-item.md:6
 msgid ""
-"Our Facebook page, which community members are welcome to follow and "
-"comment on."
+"Our Facebook page, which community members are welcome to follow and comment"
+" on."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/submit-news-item.md:7
 msgid ""
-"Twitter feeds for The Carpentries, Software Carpentry, Data Carpentry, "
-"and Library Carpentry."
+"Twitter feeds for The Carpentries, Software Carpentry, Data Carpentry, and "
+"Library Carpentry."
 msgstr ""
 
 #: ../../handbook/topic_folders/communications/submit-news-item.md:9
 msgid ""
-"If you would like us to post an event, a job vacancy or a new publication"
-" of interest to the community in our newsletter, on Twitter, or on "
-"Facebook, email team@carpentries.org with For Newsletter, For Twitter, or"
-" For Facebook as the subject line."
+"If you would like us to post an event, a job vacancy or a new publication of"
+" interest to the community in our newsletter, on Twitter, or on Facebook, "
+"email team@carpentries.org with For Newsletter, For Twitter, or For Facebook"
+" as the subject line."
 msgstr ""
-
