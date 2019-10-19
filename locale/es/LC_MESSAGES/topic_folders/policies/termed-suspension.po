@@ -5,6 +5,8 @@
 # 
 # Translators:
 # Monica Alonso <monicalonso2000@yahoo.com.ar>, 2019
+# Carlos Agüero Barquero <dev.aguero@gmail.com>, 2019
+# Leonardo Spairani <leospairani@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,8 +15,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
 "PO-Revision-Date: 2019-05-26 19:52+0000\n"
-"Last-Translator: Monica Alonso <monicalonso2000@yahoo.com.ar>, 2019\n"
-"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
+"Last-Translator: Leonardo Spairani <leospairani@gmail.com>, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +29,7 @@ msgstr "Código de Conducta Guía para la  Suspensión Temporal"
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:3
 msgid "The Carpentries Termed Suspension Checklist"
-msgstr "Lista de Verificación para la Suspensión Temporal de Carpentries"
+msgstr "Lista de Verificación para la Suspensión Temporal de The Carpentries"
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:5
 msgid ""
@@ -66,10 +68,10 @@ msgid ""
 "CoC committee may enact an immediate short-term Termed Suspension while an "
 "incident is under review."
 msgstr ""
-"En la mayoria de los casos, una Suspensión Temporal sólo será promulgada "
+"En la mayoría de los casos, una Suspensión Temporal sólo será promulgada "
 "después de ser revisado por el comité CoC y alcanzado una resolución.  Sin "
 "embargo, en situaciones severas, en particular donde hay acoso activo, el "
-"comité Coc puede aprobar una inmediata Suspensión Temporal  de corto plazo, "
+"comité CoC puede aprobar una inmediata Suspensión Temporal  de corto plazo, "
 "mientras el incidente esté bajo revisión."
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:11
@@ -81,8 +83,8 @@ msgid ""
 msgstr ""
 "Si existe una decisión para una Suspensión Temporal, la siguiente lista de "
 "verificación es seguida por el personal apropiado, para aprobar la "
-"Suspensión Temporal. En concordancia con la guía de confidencialidad de Coc,"
-" sólo el personal necesario se involucrará en la implementación de estas "
+"Suspensión Temporal. En concordancia con la guía de confidencialidad de CoC "
+"sólo el personal necesario se involucrará en la implementación de estas "
 "acciones."
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:13
@@ -125,7 +127,7 @@ msgstr "Twitter:"
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:22
 msgid "@datacarpentry"
-msgstr "datacarpentry"
+msgstr "@datacarpentry"
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:23
 msgid "@swcarpentry"
@@ -202,7 +204,7 @@ msgstr "El miembro suspendido, por el tiempo de su suspensión:"
 #: ../../handbook/topic_folders/policies/termed-suspension.md:41
 msgid "Be asked not to sign up for workshops on the Instructor Spreadsheet."
 msgstr ""
-"se le solicitará no registrarse en talleres de la Planilla de Instructores."
+"Se le solicitará no registrarse en talleres de la Planilla de Instructores."
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:42
 msgid "Not be able to participate as a helper at any workshops."
@@ -210,7 +212,7 @@ msgstr "No podrá participar como ayudante en ningún taller."
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:43
 msgid "Be removed from Eventbrite login access."
-msgstr "sera removido del acceso para ingresar a Eventbrite"
+msgstr "Sera removido del acceso para ingresar a Eventbrite"
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:44
 msgid "Not be allowed to plan self-organized workshops."
@@ -286,7 +288,7 @@ msgid ""
 "from the “Our Trainers” web page. Additionally, the suspended member will "
 "not be allowed to:"
 msgstr ""
-"El miembro suspendido será removido, por la duración de la suspensiónm de la"
+"El miembro suspendido será removido, por la duración de la suspensión, de la"
 " página web \"Nuestros Entrenadores\". Además, el miembro suspendido no "
 "podrá:"
 
@@ -320,7 +322,7 @@ msgid ""
 "removed for the duration of the suspension."
 msgstr ""
 "Publicar solicitudes de integración (PRs), problemas, o comentarios en el "
-"repositorio GitHub  de Entrenamiento de Instructores. Será eliminada la "
+"repositorio GitHub de Entrenamiento de Instructores. Será eliminada la "
 "posibilidad de Grabar o administrar acceso a repositorios por el período de "
 "suspensión"
 
@@ -401,12 +403,12 @@ msgid ""
 "repositories in these organisations will be removed for the duration of the "
 "suspension."
 msgstr ""
-"El miembro suspendido no podrá publicar PRs, problemas o comentarios en  "
-"ningún repositorio de Carpentries,  incluyendo pero no limitado a "
+"El miembro suspendido no podrá publicar PRs, problemas o comentarios en "
+"ningún repositorio de Carpentries, incluyendo pero no limitado a "
 "organizaciones de datacarpentry, swcarpentry, library carpentry, data-"
 "lessons, y de carpentrieslab. Serán eliminados los privilegios de "
-"administrar o grabar a repositorios de estas organizaciones  por el tiempo "
-"que  dure la suspensión."
+"administrar o grabar a repositorios de estas organizaciones por el tiempo "
+"que dure la suspensión."
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:80
 msgid ""
@@ -415,8 +417,8 @@ msgid ""
 "duration of their suspension."
 msgstr ""
 "Si el miembro suspendido en un mantenedor, el nombre será removido de las "
-"páginas d lecciones y no aparecerán los en la página de Mantenedores por la "
-"duración de la suspención."
+"páginas de lecciones y no aparecerán en la página de Mantenedores por la "
+"duración de la suspensión."
 
 #: ../../handbook/topic_folders/policies/termed-suspension.md:82
 msgid "Executive Council"

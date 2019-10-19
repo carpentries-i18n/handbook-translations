@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the The Carpentries Handbook package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# nicoguaro <nicoguarin@gmail.com>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,7 +13,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
 "PO-Revision-Date: 2019-05-26 19:52+0000\n"
-"Language-Team: Spanish (https://www.transifex.com/carpentries-es/teams/98915/es/)\n"
+"Last-Translator: nicoguaro <nicoguarin@gmail.com>, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../handbook/topic_folders/assessment/assessment.md:1
 msgid "Learner Assessment"
-msgstr ""
+msgstr "Evaluación del estudiante"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:3
 msgid ""
@@ -32,6 +36,16 @@ msgid ""
 "assessment targets and using information collected from assessment to "
 "improve how we teach data skills and build learning communities."
 msgstr ""
+"La evaluación desempeña un papel clave para garantizar el éxito, la "
+"longevidad y la evolución de los talleres de The Carpentries. El objetivo "
+"principal de nuestros esfuerzos de evaluación es evaluar el impacto que "
+"estamos teniendo enseñando habilidades de datos en toda nuestra comunidad "
+"global. Nuestros esfuerzos de evaluación están destinados a guiar el "
+"desarrollo, implementación e instrucción de nuestros talleres. Estamos "
+"comprometidos a proporcionar realimentación dirigida a nuestra comunidad con"
+" respecto a nuestros objetivos de evaluación y usar la información "
+"recopilada de la evaluación para mejorar la forma en que enseñamos "
+"habilidades de datos y construimos comunidades de aprendizaje."
 
 #: ../../handbook/topic_folders/assessment/assessment.md:5
 msgid ""
@@ -50,6 +64,10 @@ msgid ""
 "our community of practice. We also encourage them to understand, reflect "
 "upon, and monitor their own learning."
 msgstr ""
+"Estamos comprometidos a apoyar a nuestros estudiantes, acomodar sus "
+"diferencias y alentarlos a crecer individualmente y convertirse en parte de "
+"nuestra comunidad de práctica. También los alentamos a comprender, "
+"reflexionar y controlar su propio aprendizaje."
 
 #: ../../handbook/topic_folders/assessment/assessment.md:9
 msgid ""
@@ -78,31 +96,31 @@ msgstr ""
 
 #: ../../handbook/topic_folders/assessment/assessment.md:16
 msgid "Software Carpentry pre-workshop survey"
-msgstr ""
+msgstr "Encuesta previa al taller de Software Carpentry"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:17
 msgid "Software Carpentry post-workshop survey"
-msgstr ""
+msgstr "Encuesta posterior al taller de Software Carpentry"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:18
 msgid "Data Carpentry pre-workshop survey"
-msgstr ""
+msgstr "Encuesta previa al taller de Data Carpentry"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:19
 msgid "Data Carpentry post-workshop survey"
-msgstr ""
+msgstr "Encuesta posterior al taller de Data Carpentry"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:20
 msgid "Library Carpentry pre-workshop survey"
-msgstr ""
+msgstr "Encuesta previa al taller de Library Carpentry"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:21
 msgid "Library Carpentry post-workshop survey"
-msgstr ""
+msgstr "Encuesta posterior al taller de Library Carpentry"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:22
 msgid "Carpentries Long Term Impact Survey"
-msgstr ""
+msgstr "Encuesta de impacto a largo plazo de las Carpentries"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:24
 msgid "Programmatic Assessment"
