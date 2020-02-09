@@ -78,6 +78,49 @@ tx push -t -l es
 
 # Update translations
 
+## Download translations from transifex
+
+To download all the translations, first we change to the `<lang>` branch (we are keeping them separated because Read The Docs is pulling from branches)
+
+```bash
+tx pull -l <lang>
+```
+(If that fails to download the translations, then use the `-f` flag to force the downloading)
+
+To download only reviewed translations then you can use:
+
+```bash
+tx pull -a -l es --mode reviewed
+```
+
+## Build the documentation locally
+
+Still on the same branch, run:
+
+```bash
+make -e SPHINXOPTS="-D language='es'" html
+cd _build/html
+python -m http.server
+```
+
+and open the given url (e.g., http://0.0.0.0:8000) in your browser.
+
+## Build the documentation on Read The Docs
+
+For the moment, these "un-official" docs are being built on [Read the Docs](https://carpentrieshandbook.readthedocs.io/).
+They are built by pulling from the `<lang>` branch. Only the Spanish translations (`es`) have been set-up at the moment.
+To update the translations after pulling them from transifex as explained above, we need to push that branch to github.
+
+```bash
+git add locale/<lang>/*
+git commit -m "Translations done in Sanish up to <month> <day>"
+git push origin <lang>
+```
+
+After a few seconds the latest update should be available on the website. The status of the builds can be found at [the Read the Docs' dashboard](https://readthedocs.org/projects/carpentrieshandbook-es/builds/)
+
+## Update translation files when sources has changed (TODO)
+
 1. Update the pot files from the original source.
 ```bash
 sphinx-build -M gettext . locale -a
