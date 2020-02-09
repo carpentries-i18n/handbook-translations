@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:1
 msgid "Workshop Administration workflow"
@@ -45,8 +43,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:10
 msgid ""
-"Workshop & Logistics Manager or the Regional Coordinators for that region"
-" responds to request by email or phone/video call."
+"Workshop & Logistics Manager or the Regional Coordinators for that region "
+"responds to request by email or phone/video call."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:11
@@ -87,8 +85,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:20
 msgid ""
-"Remind them to consider their own schedule and other events that may "
-"affect things like room availability"
+"Remind them to consider their own schedule and other events that may affect "
+"things like room availability"
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:21
@@ -97,16 +95,16 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:22
 msgid ""
-"US$2500 standard fee due to our fiscal sponsor (for non-member "
-"university, government, or non-profit sites only)"
+"US$2500 standard fee due to our fiscal sponsor (for non-member university, "
+"government, or non-profit sites only)"
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:23
 msgid ""
 "Costs for instructor travel (airfare, ground travel, hotel, and "
 "meals/incidentals) are managed entirely between host and instructors. We "
-"will look for local instructors but can not guarantee it. Member sites "
-"are still responsible for travel costs."
+"will look for local instructors but can not guarantee it. Member sites are "
+"still responsible for travel costs."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:24
@@ -115,81 +113,81 @@ msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:25
 msgid ""
-"Workshop & Logistics Manager or the Regional Coordinators records request"
-" form in AMY."
+"Workshop & Logistics Manager or the Regional Coordinators records request "
+"form in AMY."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:27
 msgid ""
-"For non-member sites, Regional Coordinator asks host for invoicing "
-"contact, and introduces them to the Administrative Support Specialist to "
-"begin the invoicing process."
+"For non-member sites, Regional Coordinator asks host for invoicing contact, "
+"and introduces them to the Administrative Support Specialist to begin the "
+"invoicing process."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:29
 msgid ""
-"Regional Coordinator adds workshop to appropriate tab (by geography) on "
-"call for instructors sign up sheet and sends email to instructors list "
-"notifying them of upcoming opportunities."
+"Regional Coordinator adds workshop to appropriate tab (by geography) on call"
+" for instructors sign up sheet and sends email to instructors list notifying"
+" them of upcoming opportunities."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:31
 msgid ""
-"Regional Coordinator reviews list of instructors signed up as interested "
-"in upcoming workshops and tentatively places them based on experience, "
-"geography, and skill set. See blog post for details.  Selection "
-"guidelines include:"
+"Regional Coordinator reviews list of instructors signed up as interested in "
+"upcoming workshops and tentatively places them based on experience, "
+"geography, and skill set. See blog post for details.  Selection guidelines "
+"include:"
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:33
 msgid ""
-"Other workshops has that person signed up for in that time period  If "
-"they have volunteered to teach three workshops over the next few months, "
-"we likely won’t place them at all of them. However, we will take "
-"advantage of their flexibility to get them in on at least one."
+"Other workshops has that person signed up for in that time period  If they "
+"have volunteered to teach three workshops over the next few months, we "
+"likely won’t place them at all of them. However, we will take advantage of "
+"their flexibility to get them in on at least one."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:34
 msgid ""
-"Each person's experience with The Carpentries We want to be sure to match"
-" up experienced instructors with new instructors, so new instructors are "
+"Each person's experience with The Carpentries We want to be sure to match up"
+" experienced instructors with new instructors, so new instructors are "
 "supported by experienced instructors."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:35
 msgid ""
-"Each person's skill set with Carpentries material  We want to make sure "
-"each instructor is comfortable teaching the workshop content, and "
-"understands the other instructor's skills."
+"Each person's skill set with Carpentries material  We want to make sure each"
+" instructor is comfortable teaching the workshop content, and understands "
+"the other instructor's skills."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:36
 msgid ""
 "Each person's acadmic or professional domain It can be helpful, but not "
 "required, to match the instructors' domain with the workshop audience. "
-"Instructors get opportunities to network in their fields, and learners "
-"get to hear from people working in those same fields."
+"Instructors get opportunities to network in their fields, and learners get "
+"to hear from people working in those same fields."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:37
 msgid ""
-"Geography While we do not guarantee local instructors at workshops, we do"
-" take this in consideration to keep the host site's cost down and to help"
-" build local communities."
+"Geography While we do not guarantee local instructors at workshops, we do "
+"take this in consideration to keep the host site's cost down and to help "
+"build local communities."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:39
 msgid ""
-"Regional Coordinator emails these instructors to confirm their "
-"availability, and returns back to the other instructors on the list if a "
-"conflict has since come up."
+"Regional Coordinator emails these instructors to confirm their availability,"
+" and returns back to the other instructors on the list if a conflict has "
+"since come up."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:41
 msgid ""
 "Regional Coordinator sends email to workshop instructors and hosts with "
-"introductory information.  This includes links to guides for roles of "
-"host, instructor, and helper."
+"introductory information.  This includes links to guides for roles of host, "
+"instructor, and helper."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:43
@@ -202,8 +200,8 @@ msgstr ""
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:45
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:65
 msgid ""
-"Regional Coordinator reminds instructors to set up a workshop website "
-"using the workshop template."
+"Regional Coordinator reminds instructors to set up a workshop website using "
+"the workshop template."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:48
@@ -219,28 +217,27 @@ msgstr ""
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:51
 msgid ""
 "If there is a registration fee,Regional Coordinator informs Business "
-"Administrator that this will need to be refunded or applied to the "
-"workshop invoice."
+"Administrator that this will need to be refunded or applied to the workshop "
+"invoice."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:53
 msgid ""
-"In weeks leading up to workshop, Regional Coordinator sends check in "
-"emails to be sure planning is progressing smoothly."
+"In weeks leading up to workshop, Regional Coordinator sends check in emails "
+"to be sure planning is progressing smoothly."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:55
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:74
 msgid ""
-"After workshop is over Regional Coordinator sends email asking how things"
-" went and collecting attendance data."
+"After workshop is over Regional Coordinator sends email asking how things "
+"went and collecting attendance data."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:57
 msgid ""
-"Regional Coordinator records workshop attendance in AMY, and if "
-"additional information is provided, in the Workshop Documents GitHub "
-"repo."
+"Regional Coordinator records workshop attendance in AMY, and if additional "
+"information is provided, in the Workshop Documents GitHub repo."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:59
@@ -257,8 +254,8 @@ msgstr ""
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:63
 msgid ""
 "Regional Coordinator reminds them that as a self organized workshop they "
-"will have access to our surveys but will not receive any other support in"
-" coordinating this workshop."
+"will have access to our surveys but will not receive any other support in "
+"coordinating this workshop."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:68
@@ -268,20 +265,19 @@ msgstr ""
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:70
 msgid ""
 "Regional Coordinator sets up surveys in Survey Monkey and emails results "
-"links to hosts and instructors. Explain to the hosts and instructors that"
-" this link should not be shared. Regional Coordinator informs hosts and "
+"links to hosts and instructors. Explain to the hosts and instructors that "
+"this link should not be shared. Regional Coordinator informs hosts and "
 "instructors where to find the pre and post survey links to distribute to "
 "learners."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:72
 msgid ""
-"In weeks leading up to workshop, Regional Coordinator sends check in "
-"emails to be sure planning is progressing smoothly. This is optional as "
-"instructors and hosts should not be expecting direct support from us."
+"In weeks leading up to workshop, Regional Coordinator sends check in emails "
+"to be sure planning is progressing smoothly. This is optional as instructors"
+" and hosts should not be expecting direct support from us."
 msgstr ""
 
 #: ../../handbook/topic_folders/workshop_administration/workshop_admin_workflow.md:76
 msgid "Regional Coordinator records workshop attendance in AMY."
 msgstr ""
-

@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:1
 msgid "Tips For Instructors"
@@ -33,12 +31,11 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:7
 msgid ""
-"Installing software on laptops has gotten a lot better over the years, "
-"but it can still be a huge challenge at the start of a workshop.  Here "
-"are some suggestions for making the process go as smoothly as "
-"possible.Software installation can be frustrating, but in the end, it "
-"almost always gets done.  Be positive, and when it finally works, you can"
-" feel proud."
+"Installing software on laptops has gotten a lot better over the years, but "
+"it can still be a huge challenge at the start of a workshop.  Here are some "
+"suggestions for making the process go as smoothly as possible.Software "
+"installation can be frustrating, but in the end, it almost always gets done."
+"  Be positive, and when it finally works, you can feel proud."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:10
@@ -47,15 +44,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:12
 msgid ""
-"Plan for installation help at the start of both workshop days.  Put it on"
-" the schedule and make sure it's clear that people can and should show up"
-" during that time."
+"Plan for installation help at the start of both workshop days.  Put it on "
+"the schedule and make sure it's clear that people can and should show up "
+"during that time."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:13
 msgid ""
-"Email the participants a week in advance and the day before to remind "
-"them to install the needed software before the workshops."
+"Email the participants a week in advance and the day before to remind them "
+"to install the needed software before the workshops."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:14
@@ -72,24 +69,23 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:16
 msgid ""
-"If you anticipate issues (or want to be extra prepared), have some of the"
-" emergency options listed below ready to go."
+"If you anticipate issues (or want to be extra prepared), have some of the "
+"emergency options listed below ready to go."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:17
 msgid ""
-"If you're teaching for an organization where participants are bringing "
-"work laptops where they don't have administrative access (common in "
-"government organizations) -- ask about it.  Try to plan ahead either with"
-" their central IT organization or with the \"emergency exits\" listed "
-"below."
+"If you're teaching for an organization where participants are bringing work "
+"laptops where they don't have administrative access (common in government "
+"organizations) -- ask about it.  Try to plan ahead either with their central"
+" IT organization or with the \"emergency exits\" listed below."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:18
 msgid ""
-"Will you have decent Wi-Fi?  A bunch of people installing software at "
-"once can kill a poor internet connection.  If this is the case, prep a "
-"few flash drives with the relevant installers."
+"Will you have decent Wi-Fi?  A bunch of people installing software at once "
+"can kill a poor internet connection.  If this is the case, prep a few flash "
+"drives with the relevant installers."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:20
@@ -102,17 +98,16 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:23
 msgid ""
-"If someone has come in early and the software still can't be installed by"
-" the time the workshop starts, try one of the \"emergency exits\" below "
-"or keep working with them one-on-one until they're able to start."
+"If someone has come in early and the software still can't be installed by "
+"the time the workshop starts, try one of the \"emergency exits\" below or "
+"keep working with them one-on-one until they're able to start."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:24
 msgid ""
-"If someone comes in late or is having such trouble with installation that"
-" they can't start, have them watch (and maybe work with a neighbor) until"
-" the first coffee break, when you can keep working on installation "
-"issues."
+"If someone comes in late or is having such trouble with installation that "
+"they can't start, have them watch (and maybe work with a neighbor) until the"
+" first coffee break, when you can keep working on installation issues."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:26
@@ -131,16 +126,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:31
 msgid ""
-"Microsoft Azure gives you a cloud based Jupyter notebook with many "
-"languages and platforms installed.  It also includes a shell terminal "
-"with git."
+"Microsoft Azure gives you a cloud based Jupyter notebook with many languages"
+" and platforms installed.  It also includes a shell terminal with git."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:32
 msgid ""
-"If your institution's library does laptop rentals, rent 1-2 laptops and "
-"set them up with the software before the workshop and keep them on hand "
-"as loaners during the workshop."
+"If your institution's library does laptop rentals, rent 1-2 laptops and set "
+"them up with the software before the workshop and keep them on hand as "
+"loaners during the workshop."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:34
@@ -149,21 +143,21 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:36
 msgid ""
-"The Carpentries Code of Conduct is a key tool for fostering and upholding"
-" an inclusive, respectful learning environment.  But for people who are "
-"new to the idea of a Code of Conduct, it can be a little awkward to talk "
-"about.  Here's a sample of how you might introduce the Code of Conduct --"
-" please don't use this verbatim, but adapt it to your own audience and "
-"style of introduction:"
+"The Carpentries Code of Conduct is a key tool for fostering and upholding an"
+" inclusive, respectful learning environment.  But for people who are new to "
+"the idea of a Code of Conduct, it can be a little awkward to talk about.  "
+"Here's a sample of how you might introduce the Code of Conduct -- please "
+"don't use this verbatim, but adapt it to your own audience and style of "
+"introduction:"
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:38
 msgid ""
 "The Carpentries is a community-led project. We value the involvement of "
 "everyone in the community. We are committed to creating a friendly and "
-"respectful place for learning, teaching and contributing. All "
-"participants in our events and communications are expected to show "
-"respect and courtesy to others."
+"respectful place for learning, teaching and contributing. All participants "
+"in our events and communications are expected to show respect and courtesy "
+"to others."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:40
@@ -173,9 +167,9 @@ msgstr ""
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:42
 msgid ""
 "All interactions should be professional regardless of platform: either "
-"online or in-person. In order to foster a positive and professional "
-"learning environment we encourage the following kinds of behaviours in "
-"all Carpentries events and platforms:"
+"online or in-person. In order to foster a positive and professional learning"
+" environment we encourage the following kinds of behaviours in all "
+"Carpentries events and platforms:"
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:44
@@ -201,10 +195,10 @@ msgstr ""
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:50
 msgid ""
 "Examples of unacceptable behavior by participants at any Carpentries "
-"event/platform can be found in the Code of Conduct. We Instructors take "
-"the Code of Conduct very seriously, and we have a process for dealing "
-"with violations and complaints. Read the Reporting Guidelines section for"
-" the  details on how to handle Code of Conduct violations."
+"event/platform can be found in the Code of Conduct. We Instructors take the "
+"Code of Conduct very seriously, and we have a process for dealing with "
+"violations and complaints. Read the Reporting Guidelines section for the  "
+"details on how to handle Code of Conduct violations."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:52
@@ -213,16 +207,16 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:54
 msgid ""
-"When teaching a lesson, it's a very good idea to go through the lesson in"
-" advance and choose which exercises you want participants to try."
+"When teaching a lesson, it's a very good idea to go through the lesson in "
+"advance and choose which exercises you want participants to try."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:56
 msgid ""
-"Once you've selected exercises, there are several ways to actually "
-"display them to the participants during the workshop.  Any of these "
-"options may be the best choice depending on the tool you're using or the "
-"kind of exercises you want to use."
+"Once you've selected exercises, there are several ways to actually display "
+"them to the participants during the workshop.  Any of these options may be "
+"the best choice depending on the tool you're using or the kind of exercises "
+"you want to use."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:58
@@ -231,8 +225,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:59
 msgid ""
-"This is the least effort, but requires having the right lesson page open "
-"+ finding the right exercise"
+"This is the least effort, but requires having the right lesson page open + "
+"finding the right exercise"
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:60
@@ -261,8 +255,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:66
 msgid ""
-"Can also use this with any of the other strategies so people can find the"
-" exercise in two places."
+"Can also use this with any of the other strategies so people can find the "
+"exercise in two places."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:67
@@ -271,18 +265,18 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:68
 msgid ""
-"Requires time to set up, but is great for multiple choice and T/F "
-"questions and promotes participation"
+"Requires time to set up, but is great for multiple choice and T/F questions "
+"and promotes participation"
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:70
 msgid ""
-"In all of these examples, you'll have to switch from the tool you're "
-"using for live coding to however you're showing the exercises.  For "
-"something like R or Python, one way to reduce the amount of switching is "
-"to put all the exercises in an R script / Python notebook and have that "
-"open alongside your main working script/notebook so that it's relatively "
-"easy to switch back and forth."
+"In all of these examples, you'll have to switch from the tool you're using "
+"for live coding to however you're showing the exercises.  For something like"
+" R or Python, one way to reduce the amount of switching is to put all the "
+"exercises in an R script / Python notebook and have that open alongside your"
+" main working script/notebook so that it's relatively easy to switch back "
+"and forth."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:72
@@ -295,9 +289,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:76
 msgid ""
-"The introduction is one of the most important pieces of the workshop!  It"
-" sets the tone for the day.  See the instructor training material for "
-"some suggestions of how to build a good workshop introduction."
+"The introduction is one of the most important pieces of the workshop!  It "
+"sets the tone for the day.  See the instructor training material for some "
+"suggestions of how to build a good workshop introduction."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:78
@@ -316,8 +310,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:84
 msgid ""
-"If your room has a mic, use it, and have a helper stand in the back of "
-"the room as you start to confirm that you can be heard."
+"If your room has a mic, use it, and have a helper stand in the back of the "
+"room as you start to confirm that you can be heard."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:94
@@ -327,9 +321,9 @@ msgstr ""
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:96
 msgid ""
 "Carpentries workshops frequently include many people with widely varying "
-"skills and experiences.  See the end of the Carpentries Instructor "
-"Training on Carpentries teaching practices for some strategies to deal "
-"with a diverse classroom."
+"skills and experiences.  See the end of the Carpentries Instructor Training "
+"on Carpentries teaching practices for some strategies to deal with a diverse"
+" classroom."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:98
@@ -349,11 +343,11 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:104
 msgid ""
-"Most Carpentries lessons include a guide for instructors. These are great"
-" for novices preparing to teach a lesson for the first time. As an "
-"example, see the instructor notes for the Software Carpentry Unix Shell "
-"lesson. Find instructor notes for other lessons through the Extras menu "
-"on each lesson's home page."
+"Most Carpentries lessons include a guide for instructors. These are great "
+"for novices preparing to teach a lesson for the first time. As an example, "
+"see the instructor notes for the Software Carpentry Unix Shell lesson. Find "
+"instructor notes for other lessons through the Extras menu on each lesson's "
+"home page."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:106
@@ -363,20 +357,20 @@ msgstr ""
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:108
 msgid ""
 "Most of the lessons have more exercises than you will want to use.  Go "
-"through the lesson and pick the ones that you think will be most helpful "
-"for your audience.  If you anticipate mostly novices, look for easier or "
-"more scaffolded exercises.  For a more advanced audience, a more general "
-"exercise might be better.  If you'll have both, have an option for each!"
+"through the lesson and pick the ones that you think will be most helpful for"
+" your audience.  If you anticipate mostly novices, look for easier or more "
+"scaffolded exercises.  For a more advanced audience, a more general exercise"
+" might be better.  If you'll have both, have an option for each!"
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:110
 msgid ""
-"You won't want to use all the exercises, but make sure that in this "
-"process, you commit to actually doing exercises.  Exercises are time-"
-"consuming and it can be tempting (in the moment) to talk instead of "
-"taking the time to do an exercise.  However, doing exercises is a huge "
-"part of the hands-on Carpentries model and also gives people a chance to "
-"chat with their neighbors, so it should be prioritized."
+"You won't want to use all the exercises, but make sure that in this process,"
+" you commit to actually doing exercises.  Exercises are time-consuming and "
+"it can be tempting (in the moment) to talk instead of taking the time to do "
+"an exercise.  However, doing exercises is a huge part of the hands-on "
+"Carpentries model and also gives people a chance to chat with their "
+"neighbors, so it should be prioritized."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:112
@@ -389,25 +383,25 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:116
 msgid ""
-"All of The Carpentries lessons have more material than you can easily "
-"cover in the time alloted, especially with a novice group.  The Data "
-"Carpentry materials are closer to realistic workshop time estimates, but "
-"can still run slowly depending on the group."
+"All of The Carpentries lessons have more material than you can easily cover "
+"in the time alloted, especially with a novice group.  The Data Carpentry "
+"materials are closer to realistic workshop time estimates, but can still run"
+" slowly depending on the group."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:118
 msgid ""
-"So no matter what, go through the lesson in advance and decide what is "
-"most important to cover and what you would feel okay skipping (either "
-"skipping outright, or dropping it if you don't have time)."
+"So no matter what, go through the lesson in advance and decide what is most "
+"important to cover and what you would feel okay skipping (either skipping "
+"outright, or dropping it if you don't have time)."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:120
 msgid ""
-"As an example: the shell lesson has 7 sections -- the first three are "
-"about basic file system navigation and file operations and the last four "
-"are about ways to use simple shell tools in more powerful ways.  Often a "
-"workshop will cover the first three and then three out of the last four."
+"As an example: the shell lesson has 7 sections -- the first three are about "
+"basic file system navigation and file operations and the last four are about"
+" ways to use simple shell tools in more powerful ways.  Often a workshop "
+"will cover the first three and then three out of the last four."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:122
@@ -416,8 +410,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:124
 msgid ""
-"At the very least, do a dry run of all the commands you will be running /"
-" code you'll be writing so that you know they work on your computer."
+"At the very least, do a dry run of all the commands you will be running / "
+"code you'll be writing so that you know they work on your computer."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:125
@@ -428,23 +422,23 @@ msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:126
 msgid ""
-"Rstudio: Rstudio can be particularly challenging because of all the "
-"panes.  Reducing the size of the two right panes is usually needed to "
-"have enough space in the script/console panes."
+"Rstudio: Rstudio can be particularly challenging because of all the panes.  "
+"Reducing the size of the two right panes is usually needed to have enough "
+"space in the script/console panes."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:127
 msgid ""
-"Jupyter notebooks: you can toggle the headers/toolbar off so that you "
-"have more scripting space"
+"Jupyter notebooks: you can toggle the headers/toolbar off so that you have "
+"more scripting space"
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:128
 msgid ""
-"If you have the time, doing a full run-through where you actually "
-"practice what you're going to say can be extremely valuable.  Words are "
-"hard when you're also trying to type and manage a classroom, so having "
-"said them once in practice gives you one less new thing to think about."
+"If you have the time, doing a full run-through where you actually practice "
+"what you're going to say can be extremely valuable.  Words are hard when "
+"you're also trying to type and manage a classroom, so having said them once "
+"in practice gives you one less new thing to think about."
 msgstr ""
 
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:130
@@ -454,7 +448,6 @@ msgstr ""
 #: ../../handbook/topic_folders/hosts_instructors/instructor_tips.md:132
 msgid ""
 "Joining a community discussion before your workshop is a great way to "
-"ask/resolve your questions about your coming workshop and also learn from"
-" the experience of other instructors!"
+"ask/resolve your questions about your coming workshop and also learn from "
+"the experience of other instructors!"
 msgstr ""
-

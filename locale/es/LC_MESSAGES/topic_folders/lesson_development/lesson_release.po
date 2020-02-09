@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:1
 msgid "Release Process and Schedule"
@@ -25,8 +23,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:3
 msgid ""
-"Lessons are released on a 6-month release cycle. Lesson releases are "
-"named by the year and month they happen, e.g., 2016.05."
+"Lessons are released on a 6-month release cycle. Lesson releases are named "
+"by the year and month they happen, e.g., 2016.05."
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:6
@@ -35,21 +33,21 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:7
 msgid ""
-"When a release is made, the lesson Maintainer(s) create a branch named "
-"after the release, e.g., 2016.05."
+"When a release is made, the lesson Maintainer(s) create a branch named after"
+" the release, e.g., 2016.05."
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:10
 msgid ""
-"A Release Maintainer generates HTML pages for that release and adds them "
-"to the branch."
+"A Release Maintainer generates HTML pages for that release and adds them to "
+"the branch."
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:11
 msgid ""
 "If there isn't already a directory for that release in the swc-releases "
-"repository, the Release Maintainer creates one and adds an index.html "
-"page to it."
+"repository, the Release Maintainer creates one and adds an index.html page "
+"to it."
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:14
@@ -81,13 +79,14 @@ msgid "Checklist of tasks to complete before release:"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:29
-msgid "[ ] check that the learning objectives reflect the content of the lessons"
+msgid ""
+"[ ] check that the learning objectives reflect the content of the lessons"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:30
 msgid ""
-"[ ] check that learning objectives are phrased as statements using action"
-" words"
+"[ ] check that learning objectives are phrased as statements using action "
+"words"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:31
@@ -100,8 +99,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:33
 msgid ""
-"[ ] if example code generates warnings, explain in narrative and "
-"instructor notes"
+"[ ] if example code generates warnings, explain in narrative and instructor "
+"notes"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:34
@@ -114,20 +113,20 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:36
 msgid ""
-"[ ] check that the setup instructions are up to date (e.g., update "
-"version numbers)"
+"[ ] check that the setup instructions are up to date (e.g., update version "
+"numbers)"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:37
 msgid ""
-"[ ] check that data is available and mentions of the data in the lessons "
-"are accurate"
+"[ ] check that data is available and mentions of the data in the lessons are"
+" accurate"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:38
 msgid ""
-"[ ] check that the instructor guide is up to date with the content of the"
-" lessons"
+"[ ] check that the instructor guide is up to date with the content of the "
+"lessons"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:39
@@ -138,8 +137,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:40
 msgid ""
-"[ ] check that the cheat sheets included in lessons are up to date (e.g.,"
-" RStudio updates them regularly)"
+"[ ] check that the cheat sheets included in lessons are up to date (e.g., "
+"RStudio updates them regularly)"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:41
@@ -162,8 +161,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:45
 msgid ""
-"[ ] fill out “overview” for each module - minutes needed for teaching and"
-" exercises, questions and learning objectives"
+"[ ] fill out “overview” for each module - minutes needed for teaching and "
+"exercises, questions and learning objectives"
 msgstr ""
 
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:46
@@ -191,4 +190,3 @@ msgstr ""
 #: ../../handbook/topic_folders/lesson_development/lesson_release.md:53
 msgid "Information about upcoming lesson releases - coming soon!"
 msgstr ""
-

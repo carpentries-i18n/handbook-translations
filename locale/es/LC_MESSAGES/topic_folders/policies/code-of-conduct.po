@@ -1,318 +1,425 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Florencia D'Andrea <florencia.dandrea@gmail.com>, 2019
+# Patricia Loto <patricialoto@hotmail.com>, 2019
+# Juan Jose Garcia Mesa <juanjosegarciamesa@gmail.com>, 2019
+# Leonardo Spairani <leospairani@gmail.com>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Last-Translator: Leonardo Spairani <leospairani@gmail.com>, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:1
 msgid "The Carpentries Code of Conduct"
-msgstr ""
+msgstr "The Carpentries: Código de conducta "
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:3
 msgid "Code of Conduct (Summary View)"
-msgstr ""
+msgstr "Código de Conducta (vista resumida)"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:5
 msgid ""
-"Below is a summary of The Carpentries Code of Conduct. Continue reading "
-"for a more detailed description of the CoC."
+"Below is a summary of The Carpentries Code of Conduct. Continue reading for "
+"a more detailed description of the CoC."
 msgstr ""
+"A continuación, se encuentra un resúmen del Código de Conducta de The "
+"Carpentries. Para mayor detalle del CoC continúa leyendo."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:7
 msgid "For more information please review our:"
-msgstr ""
+msgstr "Para más información, por favor revisa nuestra:"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:8
 msgid "Incident Response Guidelines"
-msgstr ""
+msgstr "Guía para la Respuesta a Incidentes"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:9
 msgid "Incident Reporting Guidelines"
-msgstr ""
+msgstr "Guía para el Reporte de Incidentes"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:10
 msgid "Incident Response Procedure"
-msgstr ""
+msgstr "Procedimiento de Respuesta a Incidentes "
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:11
 msgid "Termed Suspension Guidelines"
-msgstr ""
+msgstr "Guía para la suspensión temporal."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:13
 msgid ""
-"We are dedicated to providing a welcoming and supportive environment for "
-"all people, regardless of background or identity. By participating in "
-"this community, participants accept to abide by The Carpentries' Code of "
-"Conduct and accept the procedures by which any Code of Conduct incidents "
-"are resolved. Any form or behaviour to exclude, intimidate, or cause "
-"discomfort is a violation of the Code of Conduct. In order to foster a "
-"positive and professional learning environment we encourage the following"
-" kinds of behaviours in all platforms and events:"
+"We are dedicated to providing a welcoming and supportive environment for all"
+" people, regardless of background or identity. By participating in this "
+"community, participants accept to abide by The Carpentries' Code of Conduct "
+"and accept the procedures by which any Code of Conduct incidents are "
+"resolved. Any form or behaviour to exclude, intimidate, or cause discomfort "
+"is a violation of the Code of Conduct. In order to foster a positive and "
+"professional learning environment we encourage the following kinds of "
+"behaviours in all platforms and events:"
 msgstr ""
+"Nos dedicamos a brindar un ambiente acogedor y de apoyo dirigido a todas las"
+" personas, independientemente de su conocimiento, experiencia, o identidad. "
+"La participación en esta comunidad, implica que los participantes aceptan el"
+" Código de Conducta de The Carpentries y los procedimientos por los cuales "
+"cualquier incidente referido al Código de Conducta será resuelto. Cualquier "
+"comportamiento para excluir, intimidar, o causar incomodidad es una "
+"violación del Código de Conducta. Con el objeto de fomentar un ambiente de "
+"aprendizaje positivo y profesional recomendamos los siguientes tipos de "
+"comportamiento en todas las plataformas y eventos:"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:15
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:44
 msgid "Use welcoming and inclusive language"
-msgstr ""
+msgstr "Usa lenguaje inclusivo y amistoso (receptivo)"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:16
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:45
 msgid "Be respectful of different viewpoints and experiences"
-msgstr ""
+msgstr "Sé respetuoso con los diferentes puntos de vista y experiencias "
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:17
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:46
 msgid "Gracefully accept constructive criticism"
-msgstr ""
+msgstr "Acepta amablemente las críticas constructivas."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:18
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:47
 msgid "Focus on what is best for the community"
-msgstr ""
+msgstr "Enfócate en lo que es mejor para la comunidad."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:19
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:48
 msgid "Show courtesy and respect towards other community members"
-msgstr ""
+msgstr "Muestra cortesía y respeto hacia los otros miembros de la comunidad."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:21
 msgid ""
 "If you believe someone is violating the Code of Conduct, we ask that you "
-"report it to the Carpentries Code of Conduct Committee completing this "
-"form, who will take the appropriate action to address the situation."
+"report it to the Carpentries Code of Conduct Committee completing this form,"
+" who will take the appropriate action to address the situation."
 msgstr ""
+"Si crees que alguien está violando el Código de Conducta, te pedimos que lo "
+"reportes al Comité del Código de Conducta de The Carpentries completando "
+"este formulario, quien tomará las acciones apropiadas para manejar la "
+"situación. "
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:23
 msgid "Code of Conduct (Detailed View)"
-msgstr ""
+msgstr "Código de Conducta (Vista detallada)"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:25
 msgid "Part 1. Introduction"
-msgstr ""
+msgstr "Parte 1. Introducción"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:27
 msgid ""
 "The Carpentries is a community-led project. We value the involvement of "
 "everyone in the community. We are committed to creating a friendly and "
-"respectful place for learning, teaching and contributing. All "
-"participants in our events and communications are expected to show "
-"respect and courtesy to others."
+"respectful place for learning, teaching and contributing. All participants "
+"in our events and communications are expected to show respect and courtesy "
+"to others."
 msgstr ""
+"The Carpentries es una comunidad liderada por proyectos. Valoramos la "
+"participación de cada miembro en la comunidad.  Estamos comprometidos en "
+"crear un espacio amigable y respetuoso para aprender,  enseñar y contribuir."
+" Esperamos que todos los participantes a nuestros eventos muestren respeto y"
+" cortesía con los demás."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:29
 msgid ""
-"To make clear what is expected, everyone participating in The Carpentries"
-" activities is required to conform to the Code of Conduct. This Code of "
-"Conduct applies to all spaces managed by The Carpentries including, but "
-"not limited to, workshops, email lists, and online forums such as GitHub,"
-" Slack and Twitter. Workshop hosts are expected to assist with the "
-"enforcement of the Code of Conduct."
+"To make clear what is expected, everyone participating in The Carpentries "
+"activities is required to conform to the Code of Conduct. This Code of "
+"Conduct applies to all spaces managed by The Carpentries including, but not "
+"limited to, workshops, email lists, and online forums such as GitHub, Slack "
+"and Twitter. Workshop hosts are expected to assist with the enforcement of "
+"the Code of Conduct."
 msgstr ""
+"Para dejar claro que es lo que se espera, cada uno de los participantes de "
+"las actividades de The Carpentries debe dar conformidad al Código de "
+"Conducta. Este aplica a todos los espacios manejados por The Carpentries "
+"incluidos, pero no limitados a, talleres, listas de correos, y foros online "
+"como GitHub, Slack y Twitter. Se espera que los anfitriones de los talleres "
+"ayuden a hacer cumplir el Código de Conducta."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:31
 msgid ""
-"The Carpentries Code of Conduct Committee is responsible for enforcing "
-"the Code of Conduct. It can be contacted by emailing coc@carpentries.org."
-" All reports will be reviewed by the Code of Conduct Committee and will "
-"be kept confidential."
+"The Carpentries Code of Conduct Committee is responsible for enforcing the "
+"Code of Conduct. It can be contacted by emailing coc@carpentries.org. All "
+"reports will be reviewed by the Code of Conduct Committee and will be kept "
+"confidential."
 msgstr ""
+"El Comité del Código de Conducta de The Carpentries es responsable de hacer "
+"cumplir el mismo. Dicho Comité puede ser contactado enviando un correo a "
+"coc@carpentries.org. Todos los reportes serán revisados por el Comité y "
+"serán confidenciales."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:34
 msgid "Part 2. The Carpentries Code of Conduct"
-msgstr ""
+msgstr "Parte 2. Código de Conducta de The Carpentries"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:36
 msgid ""
 "The Carpentries is dedicated to providing a welcoming and supportive "
-"environment for all people, regardless of background or identity. As "
-"such, we do not tolerate behaviour that is disrespectful to our teachers "
-"or learners or that excludes, intimidates, or causes discomfort to "
-"others. We do not tolerate discrimination or harassment based on "
-"characteristics that include, but are not limited to, gender identity and"
-" expression, sexual orientation, disability, physical appearance, body "
-"size, citizenship, nationality, ethnic or social origin, pregnancy, "
-"familial status, veteran status, genetic information, religion or belief "
-"(or lack thereof), membership of a national minority, property, age, "
-"education, socio-economic status, technical choices, and experience "
-"level."
+"environment for all people, regardless of background or identity. As such, "
+"we do not tolerate behaviour that is disrespectful to our teachers or "
+"learners or that excludes, intimidates, or causes discomfort to others. We "
+"do not tolerate discrimination or harassment based on characteristics that "
+"include, but are not limited to, gender identity and expression, sexual "
+"orientation, disability, physical appearance, body size, citizenship, "
+"nationality, ethnic or social origin, pregnancy, familial status, veteran "
+"status, genetic information, religion or belief (or lack thereof), "
+"membership of a national minority, property, age, education, socio-economic "
+"status, technical choices, and experience level."
 msgstr ""
+"The Carpentries está dedicado a brindar un ambiente acogedor y de apoyo "
+"dirigido a todas las personas, independientemente de su conocimiento, "
+"experiencia o identidad. Como tal, no toleramos comportamientos que sean "
+"irrespetuosos con nuestros maestros o alumnos o que excluyan, intimiden, o "
+"causen disconformidad a otros. No toleramos la discriminación o el acoso  "
+"basado en características que incluyen, pero no limitadas a, la identidad y "
+"expresión de género, la orientación sexual, la discapacidad, la apariencia "
+"física, el tamaño corporal, la ciudadanía, la nacionalidad, el origen étnico"
+" o social, el embarazo, condiciones familiares, condición de veterano, "
+"información genética, religión o creencia (o falta de ella), pertenencia a "
+"una minoría nacional, edad, educación, condiciones socio-económicas, "
+"elecciones técnicas, y nivel de experiencia."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:38
 msgid ""
-"Everyone who participates in Carpentries activities is required to "
-"conform to this Code of Conduct. It applies to all spaces managed by The "
-"Carpentries including, but not limited to, workshops, email lists, and "
-"online forums such as GitHub, Slack and Twitter. Workshop hosts are "
-"expected to assist with the enforcement of the Code of Conduct. By "
-"participating, participants indicate their acceptance of the procedures "
-"by which the Carpentries resolves any Code of Conduct incidents, which "
-"may include storage and processing of their personal information."
+"Everyone who participates in Carpentries activities is required to conform "
+"to this Code of Conduct. It applies to all spaces managed by The Carpentries"
+" including, but not limited to, workshops, email lists, and online forums "
+"such as GitHub, Slack and Twitter. Workshop hosts are expected to assist "
+"with the enforcement of the Code of Conduct. By participating, participants "
+"indicate their acceptance of the procedures by which the Carpentries "
+"resolves any Code of Conduct incidents, which may include storage and "
+"processing of their personal information."
 msgstr ""
+"Cada uno de los participantes de las actividades de The Carpentries debe dar"
+" conformidad al Código de Conducta. Este aplica a todos los espacios "
+"manejados por The Carprentries incluidos, pero no limitados a, talleres, "
+"listas de correos, y foros onlines como GitHub, Slack y Twitter. Se espera "
+"que los anfitriones de los talleres ayuden a hacer cumplir el Código de "
+"conducta. Mediante la participación, los participantes indican que aceptan "
+"los procedimientos por los cuales The Carprentries resuelven cualquier "
+"incidente referido al Código de Conducta, los cuales quizás incluyan el "
+"almacenamiento y procesamiento de información personal."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:40
 msgid "Part 2.1 Expected behaviour"
-msgstr ""
+msgstr "Parte 2.1 Comportamiento esperado"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:42
 msgid ""
 "All participants in our events and communications are expected to show "
 "respect and courtesy to others. All interactions should be professional "
 "regardless of platform: either online or in-person. In order to foster a "
-"positive and professional learning environment we encourage the following"
-" kinds of behaviours in all Carpentries events and platforms:"
+"positive and professional learning environment we encourage the following "
+"kinds of behaviours in all Carpentries events and platforms:"
 msgstr ""
+"Se espera que todos los participantes a nuestros eventos y comunicaciones "
+"muestren respeto y cortesía con los otros miembros. Todas las interacciones "
+"deberán ser profesionales independientemente de la plataforma: ya sea online"
+" o en persona. Con el objetivo de fomentar un ambiente de aprendizaje "
+"positivo y profesional alentamos a seguir este tipo de comportamientos en "
+"todos los eventos y plataformas de The Carpentries:"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:50
 msgid "Note: See the four social rules for further recommendations."
 msgstr ""
+"Nota: Consulte las cuatro reglas sociales para obtener más recomendaciones. "
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:52
 msgid "Part 2.2 Unacceptable behaviour"
-msgstr ""
+msgstr "Parte 2.2 Comportamiento inaceptable"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:54
 msgid ""
 "Examples of unacceptable behaviour by participants at any Carpentries "
 "event/platform include:"
 msgstr ""
+"Ejemplos de comportamientos inaceptables de parte de los participantes en "
+"cualquier evento/plataforma de The Carpentries incluyen:"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:56
 msgid ""
-"written or verbal comments which have the effect of excluding people on "
-"the basis of membership of any specific group"
+"written or verbal comments which have the effect of excluding people on the "
+"basis of membership of any specific group"
 msgstr ""
+"realizar comentarios escritos o verbales que tengan el efecto de excluir a "
+"las personas sobre la base de la pertenencia a cualquier grupo específico"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:57
 msgid ""
 "causing someone to fear for their safety, such as through stalking, "
 "following, or intimidation"
 msgstr ""
+"hacer que alguien tema por su seguridad, por ejemplo, a través del acecho, "
+"el seguimiento o la intimidación"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:58
 msgid "violent threats or language directed against another person"
-msgstr ""
+msgstr "amenazas o lenguaje violento dirigido contra otra persona"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:59
 msgid "the display of sexual or violent images"
-msgstr ""
+msgstr "la exhibición de imagenes sexuales o violentas"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:60
 msgid "unwelcome sexual attention"
-msgstr ""
+msgstr "atención sexual no deseada"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:61
 msgid "nonconsensual or unwelcome physical contact"
-msgstr ""
+msgstr "contacto físico no consensuado o no deseado"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:62
 msgid "sustained disruption of talks, events or communications"
-msgstr ""
+msgstr "interrupción sostenida de charlas, eventos o comunicaciones"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:63
 msgid "insults or put downs"
-msgstr ""
+msgstr "insultos o humillaciones"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:64
-msgid "sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes"
+msgid ""
+"sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes"
 msgstr ""
+"chistes sexistas, racistas, homófobos, transfóbicos, excluyentes o que "
+"discriminan contra las personas con discapacidad"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:65
 msgid "excessive swearing"
-msgstr ""
+msgstr "maldecir en exceso"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:66
 msgid "incitement to violence, suicide, or self-harm"
-msgstr ""
+msgstr "incitar a la violencia, al suicidio o a la auto-lesión"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:67
 msgid ""
-"continuing to initiate interaction (including photography or recording) "
-"with someone after being asked to stop"
+"continuing to initiate interaction (including photography or recording) with"
+" someone after being asked to stop"
 msgstr ""
+"continuar iniciando interacción (incluidas fotografías o grabaciones)  con "
+"alguien después de que se le solicite que deje de hacerlo"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:68
 msgid "publication of private communication without consent"
-msgstr ""
+msgstr "publicación de comunicaciones privadas sin consentimiento"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:70
 msgid "Part 2.3 Consequences of Unacceptable behaviour"
-msgstr ""
+msgstr "Parte 2.3 Consecuencias de los Comportamientos inaceptables"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:72
 msgid ""
-"Participants who are asked to stop any inappropriate behaviour are "
-"expected to comply immediately. This applies to any Carpentries events "
-"and platforms, either online or in-person. If a participant engages in "
-"behaviour that violates this code of conduct, the organizers may warn the"
-" offender, ask them to leave the event or platform (without refund), or "
-"engage the Carpentries Code of Conduct Committee to investigate the Code "
-"of Conduct violation and impose appropriate sanctions."
+"Participants who are asked to stop any inappropriate behaviour are expected "
+"to comply immediately. This applies to any Carpentries events and platforms,"
+" either online or in-person. If a participant engages in behaviour that "
+"violates this code of conduct, the organizers may warn the offender, ask "
+"them to leave the event or platform (without refund), or engage the "
+"Carpentries Code of Conduct Committee to investigate the Code of Conduct "
+"violation and impose appropriate sanctions."
 msgstr ""
+"Se espera que a los participantes a quienes se les pida que detengan "
+"cualquier comportamiento inapropiado, cumplan inmediatamente. Esto aplica a "
+"cualquier evento y plataforma de Carpentries, ya sea online o en persona. Si"
+" un participante se involucra en un comportamiento que viola este Código de "
+"Conducta, los organizadores pueden advertir al agresor, pedirle que abandone"
+" el evento o la plataforma (sin reembolso), o involucrar al Comité del "
+"Código de Conducta de Carpentries para que investigue la violación del "
+"Código de Conducta e imponga las sanciones apropiadas."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:74
 msgid "Update Logs"
-msgstr ""
+msgstr "Registro de actualizaciones"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:76
 msgid ""
-"2019-02-28 Added appeal process, procedure for following up with a "
-"reportee, terminology, CoC incident response procedure, termed supsension"
-" checklist, and expanded clauses for conflicts of interest."
+"2019-02-28 Added appeal process, procedure for following up with a reportee,"
+" terminology, CoC incident response procedure, termed supsension checklist, "
+"and expanded clauses for conflicts of interest."
 msgstr ""
+"2019-02-28 Adición del proceso de apelación, procedimiento para el "
+"seguimiento de la persona reportada, terminología, procedimiento de "
+"respuesta a incidentes del Código de Conducta, lista de verificación de "
+"suspensión temporal, y cláusulas ampliadas para conflictos de intereses."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:78
 msgid ""
-"2018-09-11 Code of Conduct revised to provide straightforward examples of"
-" both beneficial and unwanted behaviour. Also includes changes regarding "
-"evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin "
-"Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
+"2018-09-11 Code of Conduct revised to provide straightforward examples of "
+"both beneficial and unwanted behaviour. Also includes changes regarding "
+"evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen,"
+" Malvika Sharan, Samantha Ahern, and Simon Waldman."
 msgstr ""
+"2018-09-11 Código de Conducta revisado para proveer ejemplos de "
+"comportamiento beneficial y no deseado. También incluye cambios relacionados"
+" al intento de evaluación. Han contribuido: Ethan White, Kari L. Jordan, "
+"Karin Lagesen, Malvika Sharan, Samantha Ahern, y Simon Waldman."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:80
 msgid ""
-"2018-09-11 Reporting guidelines revised to include alternate contact "
-"points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika"
-" Sharan, Samantha Ahern, and Simon Waldman."
+"2018-09-11 Reporting guidelines revised to include alternate contact points."
+" Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, "
+"Samantha Ahern, and Simon Waldman."
 msgstr ""
+"2018-09-11 Se revisaron la Guías de reportes para incluir puntos de "
+"contactos alternativos. Colaboradores: Ethan White, Kari L. Jordan, Karin "
+"Lagesen, Malvika Sharan, Samantha Ahern, y Simon Waldman."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:82
 msgid ""
 "2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual "
 "released. Documents were adapted from guidelines written by the Django "
-"Project, which was itself based on the Ada Initiative template and the "
-"PyCon 2013 Procedure for Handling Harassment Incidents. Contributors: "
-"Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, "
-"Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, "
-"Simon Waldman, Tracy Teal."
+"Project, which was itself based on the Ada Initiative template and the PyCon"
+" 2013 Procedure for Handling Harassment Incidents. Contributors: Adam Obeng,"
+" Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, "
+"Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy"
+" Teal."
 msgstr ""
+"2016-11-21 Se ha publicado el Código de Conducta, las pautas para la "
+"presentación de Reportes y el Manual de Cumplimiento. Los documentos se "
+"adaptaron de las guías escritas para el Proyecto Django, las cuales a su vez"
+" se basan en la plantilla de la Iniciativa de Ada y en el procedimiento para"
+" manejar incidentes de acoso de la Pycon 2013. Colaboradores:  Adam Obeng, "
+"Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara"
+" Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy "
+"Teal."
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:84
 msgid "About this document"
-msgstr ""
+msgstr "Acerca de este documento"
 
 #: ../../handbook/topic_folders/policies/code-of-conduct.md:86
 msgid ""
 "This document is adapted from guidelines written by the Django Project, "
 "which was itself based on the Ada Initiative template and the PyCon 2013 "
-"Procedure for Handling Harassment Incidents. Contributors to this "
-"document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin "
-"Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila "
-"Miguez, Simon Waldman, Tracy Teal. Additional language was added by Otter"
-" Tech from the PyCon U.S. 2018 Code of Conduct (licensed CC BY 3.0)"
+"Procedure for Handling Harassment Incidents. Contributors to this document: "
+"Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, "
+"Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon "
+"Waldman, Tracy Teal. Additional language was added by Otter Tech from the "
+"PyCon U.S. 2018 Code of Conduct (licensed CC BY 3.0)"
 msgstr ""
-
+"Este documento se adaptó de las pautas escritas para el Proyecto Dyango, las"
+" cuales a su vez se basan en la plantilla de la Iniciativa Ada y en el "
+"procedimiento para manejar incidentes de acoso de la Pycon 2013. "
+"Colaboradores en este documento:  Adam Obeng, Aleksandra Pawlik, Bill Mills,"
+" Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline "
+"Barmby, Sheila Miguez, Simon Waldman, Tracy Teal. Otter Tech agregó un "
+"idioma adicional del Código de conducta de PyCon U.S. 2018 (con licencia CC "
+"BY 3.0)"

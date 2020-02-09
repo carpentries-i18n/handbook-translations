@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/regional_communities/regional_coordinators.md:1
 msgid "Regional Coordinators"
@@ -25,21 +23,21 @@ msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/regional_coordinators.md:3
 msgid ""
-"Around the world, Carpentries workshops are organized by a team of "
-"Regional Coordinators. Our staff Workshop and Logistics Manager, "
-"SherAaron Hurt, manages workshops in most of the world. In some parts of "
-"the world, local Carpenters support managing local workshops and building"
-" local communities. They work with our member sites or as volunteers."
+"Around the world, Carpentries workshops are organized by a team of Regional "
+"Coordinators. Our staff Workshop and Logistics Manager, SherAaron Hurt, "
+"manages workshops in most of the world. In some parts of the world, local "
+"Carpenters support managing local workshops and building local communities. "
+"They work with our member sites or as volunteers."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/regional_coordinators.md:6
 msgid ""
-"Regional Coordinators are the front face of The Carpentries, promoting "
-"our work and our culture in their geographical area. They manage workshop"
-" logistics, communicate with hosts and Instructors, and respond to "
-"general inquiries. The Regional Coordinators work together to support "
-"each other and ensure communities can thrive locally while maintaining "
-"quality and consistency globally."
+"Regional Coordinators are the front face of The Carpentries, promoting our "
+"work and our culture in their geographical area. They manage workshop "
+"logistics, communicate with hosts and Instructors, and respond to general "
+"inquiries. The Regional Coordinators work together to support each other and"
+" ensure communities can thrive locally while maintaining quality and "
+"consistency globally."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/regional_coordinators.md:8
@@ -51,4 +49,3 @@ msgid ""
 "More information about the Regional Coordinators can be found on The "
 "Carpentries website."
 msgstr ""
-

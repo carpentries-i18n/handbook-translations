@@ -1,31 +1,36 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Leonardo Spairani <leospairani@gmail.com>, 2019
+# David PS <dps.helio@gmail.com>, 2019
+# María Paula Caldas <mpaulacaldas@gmail.com>, 2019
+# Laura Acion <lacion@rladies.org>, 2020
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Last-Translator: Laura Acion <lacion@rladies.org>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:1
 msgid "Code of Conduct Incident Reporting Guidelines"
-msgstr ""
+msgstr "Guía de Informe de Incidentes del Código de Conducta"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:3
 msgid "Reporting a Potential Code of Conduct Incident"
-msgstr ""
+msgstr "Reportar un Potencial Incidente de Código de Conducta"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:5
 msgid ""
@@ -33,131 +38,194 @@ msgid ""
 "participating in one of our online events or communication channels and "
 "believe someone is in physical danger, please ask your workshop host, "
 "instructor(s), or another community member  to contact the appropriate "
-"emergency responders (police, crisis hotline, etc.). Prior to a "
-"Carpentries workshop or in-person event, event organisers should "
-"determine emergency contact numbers and local procedures."
+"emergency responders (police, crisis hotline, etc.). Prior to a Carpentries "
+"workshop or in-person event, event organisers should determine emergency "
+"contact numbers and local procedures."
 msgstr ""
+"Si estás asistiendo a un taller de Carpentries, a un evento en persona, o "
+"participando en uno de nuestros eventos en línea o  de nuestros canales de "
+"comunicación y crees que alguien está en peligro físico, por favor pídele al"
+" anfitrión de tu taller, instructor(es), u otro miembro de la comunidad que "
+"contacte al servicio de emergencia apropiado (policía, línea de emergencia, "
+"etc.). Previamente al taller de Carpentries o evento en persona, los "
+"organizadores del evento deberán determinar los números de emergencia y "
+"procedimientos locales."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:7
 msgid ""
 "If you believe someone violated the Code of Conduct during a Carpentries "
-"event or in a Carpentries online space, we ask that you report it. If you"
-" are not sure if the incident happened in a Carpentries governed space, "
-"we ask that you still report the incident. You are encouraged to submit "
-"your report by completing the Code of Conduct Incident Report Form. The "
-"form may be completed anonymously, or you may include your contact "
-"information."
+"event or in a Carpentries online space, we ask that you report it. If you "
+"are not sure if the incident happened in a Carpentries governed space, we "
+"ask that you still report the incident. You are encouraged to submit your "
+"report by completing the Code of Conduct Incident Report Form. The form may "
+"be completed anonymously, or you may include your contact information."
 msgstr ""
+"Si crees que alguien violó el Código de Conducta durante un evento de "
+"Carpentries o en uno de los espacios en línea de Carpentries, te pedimos que"
+" lo reportes. Si no estás segura si el incidente sucedió en un espacio "
+"gobernado por Carpentries, te pedimos que de todas formas reportes el "
+"incidente.  Te recomendamos que envíes tu reporte completando el Formulario "
+"de Reporte de Incidente del Código de Conducta. El formulario puede ser "
+"completado anónimamente, o si los deseas, puedes incluir tu información de "
+"contacto."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:9
 msgid "Submit a Code of Conduct Incident Report"
-msgstr ""
+msgstr "Enviar un Reporte de Incidente del Código de Conducta"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:11
 msgid ""
-"The Code of Conduct Committee takes all incident reports seriously and "
-"will review all reports according to our Enforcement Guidelines.  A "
-"report guarantees review, but not necessarily that an action will be "
-"taken."
+"The Code of Conduct Committee takes all incident reports seriously and will "
+"review all reports according to our Enforcement Guidelines.  A report "
+"guarantees review, but not necessarily that an action will be taken."
 msgstr ""
+"El Comité del Código de Conducta toma en serio todos los informes de "
+"incidentes y los revisará de acuerdo con nuestras pautas de cumplimiento. Un"
+" informe de incidente garantiza revisión, pero no necesariamente que se "
+"tomará una acción."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:13
 msgid "Alternative Contact Points"
-msgstr ""
+msgstr "Formas de contacto alternativas"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:15
 msgid ""
 "If you would prefer other ways to contact us, an email to "
-"coc@carpentries.org will be seen by all of the Code of Conduct committee."
-" If you are uncomfortable reporting to the Code of Conduct committee, "
-"incidents can also be reported to Cam Macdonell, the designated ombudsman"
-" for The Carpentries, at confidential@carpentries.org."
+"coc@carpentries.org will be seen by all of the Code of Conduct committee. If"
+" you are uncomfortable reporting to the Code of Conduct committee, incidents"
+" can also be reported to Cam Macdonell, the designated ombudsman for The "
+"Carpentries, at confidential@carpentries.org."
 msgstr ""
+"Si prefieres contactarnos por otros medios, un correo electrónico a "
+"coc@carpentries.org será visto por todo el comité de Código de Conducta. Si "
+"no te sientes cómoda informando al comité del Código de Conducta, los "
+"incidentes también se pueden reportar a Cam Macdonell, el defensor del "
+"pueblo designado para The Carpentries, en confidential@carpentries.org."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:17
 msgid ""
 "The Carpentries Executive Director (Tracy Teal) can also be contacted by "
 "telephone at +1-530-341-3230 or email at tkteal@carpentries.org."
 msgstr ""
+"También puedes contactar a la directora ejecutiva de The Carpentries (Tracy "
+"Teal) por teléfono al +1-530-341-3230 o por correo electrónico a "
+"tkteal@carpentries.org."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:19
 msgid "Confidentiality"
-msgstr ""
+msgstr "Confidencialidad"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:21
 msgid ""
-"You are welcome to report an incident anonymously. If you would like "
-"someone to follow-up with you about the progress of your incident report "
-"however, you would need to provide contact information."
+"You are welcome to report an incident anonymously. If you would like someone"
+" to follow-up with you about the progress of your incident report however, "
+"you would need to provide contact information."
 msgstr ""
+"Siempre puedes reportar un incidente de manera anónima. Sin embargo, si "
+"deseas que alguien te haga un seguimiento sobre el progreso de tu reporte de"
+" incidentes, deberás proporcionar información de contacto."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:23
 msgid ""
-"All reports will be kept confidential with details shared only with the "
-"Code of Conduct committee members. In the case that a CoC committee "
-"member is involved in a report, the member will be asked to recuse "
-"themselves from ongoing conversations, and they will not have access to "
-"reports after the enforcement decision has been made. Resolution action "
-"may also include removal of that member from the CoC committee."
+"All reports will be kept confidential with details shared only with the Code"
+" of Conduct committee members. In the case that a CoC committee member is "
+"involved in a report, the member will be asked to recuse themselves from "
+"ongoing conversations, and they will not have access to reports after the "
+"enforcement decision has been made. Resolution action may also include "
+"removal of that member from the CoC committee."
 msgstr ""
+"Todos los informes se mantendrán confidenciales y los detalles se "
+"compartirán solo con los miembros del comité del Código de Conducta. En caso"
+" tal que algún miembro del comité del CdC esté involucrado en un informe, se"
+" le pedirá a dicho miembro que se recuse de las conversaciones en curso, y "
+"se le prohibirá el acceso a los informes una vez que se haya tomado la "
+"decisión de cumplimiento. Las acciones de resolución también pueden incluir "
+"la expulsión del miembro del comité de CdC."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:25
 msgid ""
 "In rare cases, the CoC committee may suspend a community member. In such "
-"cases, the Executive Council and Carpentries Staff will be informed in "
-"order to prevent future harm to the community, and the Carpentries Staff "
+"cases, the Executive Council and Carpentries Staff will be informed in order"
+" to prevent future harm to the community, and the Carpentries Staff "
 "Immediate Response Checklist will be employed."
 msgstr ""
+"En casos excepcionales, el comité de CdC puede suspender a un miembro de la "
+"comunidad. En tales casos, se informará al Consejo Ejecutivo y al personal "
+"de Carpentries para evitar daños a la comunidad en el futuro, y se empleará "
+"la Lista de Verificación de Respuesta Inmediata del Personal de Carpentries."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:27
 msgid ""
 "Some incidents happen in one-on-one interactions, and though details are "
-"anonymized, the reported person may be able to guess who made the report."
-" If you have concerns about retaliation or your personal safety, please "
-"note those concerns in your report. You are still encouraged to report "
-"the incident so that we can support you while keeping our community "
-"members safe. In some cases, we can compile several anonymized reports "
-"into a pattern of behaviour, and take action on that pattern."
+"anonymized, the reported person may be able to guess who made the report. If"
+" you have concerns about retaliation or your personal safety, please note "
+"those concerns in your report. You are still encouraged to report the "
+"incident so that we can support you while keeping our community members "
+"safe. In some cases, we can compile several anonymized reports into a "
+"pattern of behaviour, and take action on that pattern."
 msgstr ""
+"Algunos incidentes ocurren en interacciones uno a uno, y aunque los detalles"
+" sean anonimizados, la persona reportada puede llegar a identificar a quién "
+"hizo el reporte. Si temes por posibles represalias o por tu seguridad "
+"personal, por favor comunícalo en tu reporte. Te invitamos a reportar el "
+"incidente para que podamos ayudarte a la vez que velamos por la seguridad de"
+" los otros miembros de nuestra comunidad. En algunos casos, podemos compilar"
+" varios informes anonimizados para resaltar un patrón de comportamiento y "
+"poder tomar medidas sobre él."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:29
 msgid ""
-"The Code of Conduct committee may determine that a public statement "
-"should be made about the incident and/or the action taken. If that is the"
-" case, the identities of all reporters and reportees will remain "
-"confidential unless those individuals instruct the CoC committee "
-"otherwise."
+"The Code of Conduct committee may determine that a public statement should "
+"be made about the incident and/or the action taken. If that is the case, the"
+" identities of all reporters and reportees will remain confidential unless "
+"those individuals instruct the CoC committee otherwise."
 msgstr ""
+"El comité del Código de Conducta puede decidir que se debe hacer una "
+"declaración pública sobre el incidente y/o la acción tomada. Si ese es el "
+"caso, las identidades de todos los reportados y reportadores se mantendrán "
+"confidenciales a menos que esas personas instruyan al comité de CdC de lo "
+"contrario."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:31
 msgid "Report Data"
-msgstr ""
+msgstr "Datos del Informe"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:32
 msgid ""
-"Reports can be filed anonymously with minimal details. If you do not feel"
-" you can provide details, we would still like to be aware that an "
-"incident occurred. Our ability to act is impacted by the amount of "
-"information you can provide, however."
+"Reports can be filed anonymously with minimal details. If you do not feel "
+"you can provide details, we would still like to be aware that an incident "
+"occurred. Our ability to act is impacted by the amount of information you "
+"can provide, however."
 msgstr ""
+"Los reportes se pueden presentar de forma anónima con detalles mínimos. Si "
+"crees no poder proporcionar detalles, nos gustaría de todas formas saber que"
+" ocurrió un incidente. Sin embargo, nuestra capacidad de actuar se verá "
+"afectada por la cantidad de información que nos puedas proporcionar."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:34
 msgid ""
-"Information about an incident may be communicated to relevant Carpentries"
-" personnel in cases where a community member is suspended from engaging "
-"in the Carpentries community. In those cases, the Termed Suspension "
-"Checklist will be employed."
+"Information about an incident may be communicated to relevant Carpentries "
+"personnel in cases where a community member is suspended from engaging in "
+"the Carpentries community. In those cases, the Termed Suspension Checklist "
+"will be employed."
 msgstr ""
+"La información sobre un incidente puede ser comunicada al personal relevante"
+" de Carpentries en casos en los cuales un miembro esté suspendido de "
+"participar en la comunidad de Carpentries. En esos casos, se empleará la "
+"Lista de Verificación de Suspensión."
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:36
 msgid "Following Up with Reporter(s)"
-msgstr ""
+msgstr "Seguimiento con Quien Realizó el Reporte"
 
 #: ../../handbook/topic_folders/policies/incident-reporting.md:38
 msgid ""
-"Once a report is filed through the Code of Conduct Incident Report Form "
-"or other communication channels, the Code of Conduct committee will "
-"handle the review and follow up according to the procedures in the "
-"Enforcement Guidelines."
+"Once a report is filed through the Code of Conduct Incident Report Form or "
+"other communication channels, the Code of Conduct committee will handle the "
+"review and follow up according to the procedures in the Enforcement "
+"Guidelines."
 msgstr ""
-
+"Una vez presentado un informe a través del Formulario de Informe de "
+"Incidente del Código de Conducta u otros canales de comunicación, el comité "
+"del Código de Conducta manejará la revisión y el seguimiento de acuerdo con "
+"los procedimientos establecidos en las Pautas de Cumplimiento."

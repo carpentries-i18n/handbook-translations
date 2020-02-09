@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:1
 msgid "Community Discussions Workflow"
@@ -36,15 +34,14 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:7
 msgid ""
-"Review responses from the Call for Community Discussions Facilitators "
-"form."
+"Review responses from the Call for Community Discussions Facilitators form."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:8
 msgid ""
-"The Call for Community Discussions Facilitators form includes an "
-"integration which, when a form response is received, an e-mail is sent to"
-" The Carpentries Discussion Session Coordinator who should then open the "
+"The Call for Community Discussions Facilitators form includes an integration"
+" which, when a form response is received, an e-mail is sent to The "
+"Carpentries Discussion Session Coordinator who should then open the "
 "attachment and review its contents."
 msgstr ""
 
@@ -55,8 +52,8 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:10
 msgid ""
 "If the Community Discussions Facilitator proposed a day/time for the "
-"community discussion they'll be hosting, add that day/time to the "
-"Etherpad as TBD in this format:"
+"community discussion they'll be hosting, add that day/time to the Etherpad "
+"as TBD in this format:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:30
@@ -66,15 +63,15 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:31
 msgid ""
 "If the Community Discussions Facilitator proposed a day/time for the "
-"community discussion, add that day/time to the community calendar in UTC "
-"and assign the Zoom Room carpentries room 2 for the call. If they did not"
-" provide a time, include that question in your e-mail to them."
+"community discussion, add that day/time to the community calendar in UTC and"
+" assign the Zoom Room carpentries room 2 for the call. If they did not "
+"provide a time, include that question in your e-mail to them."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:32
 msgid ""
-"Add potential Community Discussion to the Community Discussions Page on "
-"the website"
+"Add potential Community Discussion to the Community Discussions Page on the "
+"website"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:33
@@ -85,8 +82,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:34
 msgid ""
-"The appropriate GitHub repository to submit your Pull Request to is here."
-" Add the new community discussion in the upcoming discussions section."
+"The appropriate GitHub repository to submit your Pull Request to is here. "
+"Add the new community discussion in the upcoming discussions section."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:35
@@ -96,8 +93,8 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:36
 msgid ""
 "Send a version of the following templated e-mail to the individual who "
-"completed the form. Once the e-mail has been sent, highlight the row in "
-"the spreadsheet yellow indicating that you've contacted the individuals."
+"completed the form. Once the e-mail has been sent, highlight the row in the "
+"spreadsheet yellow indicating that you've contacted the individuals."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:37
@@ -116,8 +113,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:40
 msgid ""
-"Make a copy of this template and draft tweets to spread the word about "
-"the Community Discussion."
+"Make a copy of this template and draft tweets to spread the word about the "
+"Community Discussion."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:41
@@ -133,8 +130,8 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:43
 msgid ""
 "Remind facilitator to write a blog post to get the word out about the "
-"community discussion. Here's a handy blog post drafting guide to help "
-"them get started"
+"community discussion. Here's a handy blog post drafting guide to help them "
+"get started"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:45
@@ -199,8 +196,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:60
 msgid ""
-"Contact the Community Engagement Lead on serah@carpentries.org in case "
-"you need alternative Zoom Room Credentials shared."
+"Contact the Community Engagement Lead on serah@carpentries.org in case you "
+"need alternative Zoom Room Credentials shared."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:61
@@ -229,9 +226,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:68
 msgid ""
-"Contact the Community Engagement Lead on serah@carpentries.org to have "
-"the recording of the Community Discussion uploaded to The Carpentries "
-"YouTube Channel."
+"Contact the Community Engagement Lead on serah@carpentries.org to have the "
+"recording of the Community Discussion uploaded to The Carpentries YouTube "
+"Channel."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:69
@@ -259,16 +256,14 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:73
 msgid ""
-"Review the Community Discussion blog post and ask Community Engagement "
-"Lead to merge by emailing serah@carpentries.org or tagging @serahrono in "
-"the PR."
+"Review the Community Discussion blog post and ask Community Engagement Lead "
+"to merge by emailing serah@carpentries.org or tagging @serahrono in the PR."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/community_discussions_workflow.md:74
 msgid ""
 "If the discussion host wrote a blog post, review the blog post and the "
 "results of the questionnaire. Add/edit blog post content and be sure to "
-"include any responses from the survey that are valuable/interesting "
-"before requesting the Community Engagement Lead to merge."
+"include any responses from the survey that are valuable/interesting before "
+"requesting the Community Engagement Lead to merge."
 msgstr ""
-

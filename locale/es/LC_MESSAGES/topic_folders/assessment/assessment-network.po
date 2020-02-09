@@ -1,58 +1,67 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tito David Peña Montenegro <davidpm@uga.edu>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Last-Translator: Tito David Peña Montenegro <davidpm@uga.edu>, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/assessment/assessment-network.md:1
 msgid "Assessment Network"
-msgstr ""
+msgstr "Red de Evaluación"
 
 #: ../../handbook/topic_folders/assessment/assessment-network.md:3
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: ../../handbook/topic_folders/assessment/assessment-network.md:4
 msgid ""
-"The Assessment Network was established in October 2016 as a space for "
-"those working on assessment within the open source/research computing "
-"space to collaborate and share resources."
+"The Assessment Network was established in October 2016 as a space for those "
+"working on assessment within the open source/research computing space to "
+"collaborate and share resources."
 msgstr ""
+"La Red de Evaluación se estableció en octubre de 2016 como un espacio para "
+"aquellos que trabajan en la evaluación dentro de los espacios de computación"
+" de código abierto o de investigación para colaborar y compartir recursos."
 
 #: ../../handbook/topic_folders/assessment/assessment-network.md:6
 msgid "What We Do"
-msgstr ""
+msgstr "Lo que hacemos"
 
 #: ../../handbook/topic_folders/assessment/assessment-network.md:7
 msgid ""
 "The Assessment Network meets quarterly to discuss best-practices and "
-"projects around assessing outcomes in scientific computing. For past "
-"meeting information, check out the minutes in the Assessment Network "
-"repo."
+"projects around assessing outcomes in scientific computing. For past meeting"
+" information, check out the minutes in the Assessment Network repo."
 msgstr ""
+"La Red de Evaluación se reúne trimestralmente para discutir las mejores "
+"prácticas y proyectos en torno a la evaluación de resultados en computación "
+"científica. Para obtener información sobre reuniones anteriores, consulte "
+"las actas en el repositorio de la Red de evaluación."
 
 #: ../../handbook/topic_folders/assessment/assessment-network.md:9
 msgid "Get Involved"
-msgstr ""
+msgstr "Participa"
 
 #: ../../handbook/topic_folders/assessment/assessment-network.md:10
 msgid ""
 "To join the Assessment Network, email Kari Jordan at "
 "kariljordan@carpentries.org."
 msgstr ""
-
+"Para unirse a la red de evaluación, envíe un correo electrónico a Kari "
+"Jordan a kariljordan@carpentries.org."

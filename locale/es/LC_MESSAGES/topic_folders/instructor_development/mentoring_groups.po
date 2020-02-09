@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:1
 msgid "Mentoring Groups"
@@ -26,26 +24,25 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:3
 msgid ""
 "Mentoring is a professional development opportunity that the Carpentries "
-"offers our growing instructor pool to help community members learn and "
-"grow."
+"offers our growing instructor pool to help community members learn and grow."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:5
 msgid ""
-"Mentoring Groups support instructors in a variety of ways. Whether you "
-"are a new instructor preparing to teach your first workshop, a seasoned "
-"instructor hoping to launch workshops in a new community, or an "
-"instructor excited about getting involved with lesson development and "
-"maintenance, mentoring groups will help you gain the confidence, "
-"technical skills, and teaching skills you need to reach your goal."
+"Mentoring Groups support instructors in a variety of ways. Whether you are a"
+" new instructor preparing to teach your first workshop, a seasoned "
+"instructor hoping to launch workshops in a new community, or an instructor "
+"excited about getting involved with lesson development and maintenance, "
+"mentoring groups will help you gain the confidence, technical skills, and "
+"teaching skills you need to reach your goal."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:7
 msgid ""
-"Mentors guide small groups of no more than five mentees toward a "
-"particular outcome. Outcomes might be anything from teaching a specific "
-"lesson (i.e. Version Control with Git) to making a meaningful "
-"contribution to one of our lessons."
+"Mentors guide small groups of no more than five mentees toward a particular "
+"outcome. Outcomes might be anything from teaching a specific lesson (i.e. "
+"Version Control with Git) to making a meaningful contribution to one of our "
+"lessons."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:9
@@ -54,9 +51,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:11
 msgid ""
-"Groups are encouraged to set SMART goals to be achieved. The following "
-"are sample mentoring group outlines. Groups are free to decide how to "
-"spend their time."
+"Groups are encouraged to set SMART goals to be achieved. The following are "
+"sample mentoring group outlines. Groups are free to decide how to spend "
+"their time."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:13
@@ -68,8 +65,8 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:32
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:41
 msgid ""
-"Introductions, review the Carpentries community culture, and "
-"communication channels."
+"Introductions, review the Carpentries community culture, and communication "
+"channels."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:15
@@ -77,13 +74,14 @@ msgid "Review and discussion lesson objectives."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:16
-msgid "Meeting with Lesson Maintainers to discuss challenges and opportunities."
+msgid ""
+"Meeting with Lesson Maintainers to discuss challenges and opportunities."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:17
 msgid ""
-"Review, discuss, and comment on lesson issues. Identify a representative "
-"to attend the mid-way touch base."
+"Review, discuss, and comment on lesson issues. Identify a representative to "
+"attend the mid-way touch base."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:18
@@ -107,8 +105,7 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:38
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:49
 msgid ""
-"Finish slide for mentoring group showcase. Attend mentoring group "
-"showcase."
+"Finish slide for mentoring group showcase. Attend mentoring group showcase."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:23
@@ -133,8 +130,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:28
 msgid ""
-"Second mock quarter/half day workshop with group members. Draft one slide"
-" for the mentoring group showcase."
+"Second mock quarter/half day workshop with group members. Draft one slide "
+"for the mentoring group showcase."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:31
@@ -142,13 +139,14 @@ msgid "Sample Mentoring Group Outline: Organizing Workshops"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:33
-msgid "Introduce existing workshop resources. Identify challenges for organizers."
+msgid ""
+"Introduce existing workshop resources. Identify challenges for organizers."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:34
 msgid ""
-"Walkthrough of workshop set up using checklists. Discuss workshop "
-"planning tools, e.g. Eventbrite, spreadsheets."
+"Walkthrough of workshop set up using checklists. Discuss workshop planning "
+"tools, e.g. Eventbrite, spreadsheets."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:35
@@ -159,8 +157,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:36
 msgid ""
-"Draft one slide for the mentoring group showcase. Identify a "
-"representative to attend the mid-way touch base."
+"Draft one slide for the mentoring group showcase. Identify a representative "
+"to attend the mid-way touch base."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:37
@@ -175,18 +173,19 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:42
 msgid ""
-"Discuss desired local outcome. Discuss existing community, if any. "
-"Identify stakeholders and potential supporters."
+"Discuss desired local outcome. Discuss existing community, if any. Identify "
+"stakeholders and potential supporters."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:43
 msgid ""
-"Discuss community building methods used elsewhere (e.g. ResBaz, Hacky "
-"Hours, MeetUps, communities of practice)."
+"Discuss community building methods used elsewhere (e.g. ResBaz, Hacky Hours,"
+" MeetUps, communities of practice)."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:44
-msgid "Discuss the use of communication tools such as Slack and Gitter channels."
+msgid ""
+"Discuss the use of communication tools such as Slack and Gitter channels."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:45
@@ -195,14 +194,14 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:46
 msgid ""
-"Draft one slide for the mentoring group showcase. Identify a "
-"representative to attend the mid-group touch base."
+"Draft one slide for the mentoring group showcase. Identify a representative "
+"to attend the mid-group touch base."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:47
 msgid ""
-"Draft a plan for a local community building event that includes a "
-"marketing strategy."
+"Draft a plan for a local community building event that includes a marketing "
+"strategy."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:48
@@ -215,8 +214,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:53
 msgid ""
-"Participants can choose the type of mentoring group they'd like to belong"
-" to:"
+"Participants can choose the type of mentoring group they'd like to belong "
+"to:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:54
@@ -253,8 +252,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:62
 msgid ""
-"Logistics of running a workshop (e.g. recruiting instructors, "
-"distributing tasks)"
+"Logistics of running a workshop (e.g. recruiting instructors, distributing "
+"tasks)"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:63
@@ -271,15 +270,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:67
 msgid ""
-"An additional highlight includes the opportunity to participate in in-"
-"person mentoring groups."
+"An additional highlight includes the opportunity to participate in in-person"
+" mentoring groups."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:69
 msgid ""
 "During the final week of the mentoring groups, we will host a virtual "
-"mentoring groups showcase. During this event, the community can hear "
-"about the projects on which the mentoring groups worked."
+"mentoring groups showcase. During this event, the community can hear about "
+"the projects on which the mentoring groups worked."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:71
@@ -292,9 +291,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:75
 msgid ""
-"I agree to follow the Code of Conduct in all communications and "
-"interactions with The Carpentries community and to promptly report any "
-"violations of the CoC that I become aware of."
+"I agree to follow the Code of Conduct in all communications and interactions"
+" with The Carpentries community and to promptly report any violations of the"
+" CoC that I become aware of."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:77
@@ -313,15 +312,14 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:80
 msgid ""
-"avoid dismissive language, question my expert blind spot, and model "
-"error-making as a vital part of the mentoring process."
+"avoid dismissive language, question my expert blind spot, and model error-"
+"making as a vital part of the mentoring process."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:82
 msgid ""
 "I understand that it is important to keep in touch with The Carpentries "
-"community so that my mentorship will reflect current practices. I agree "
-"to:"
+"community so that my mentorship will reflect current practices. I agree to:"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:83
@@ -334,8 +332,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:85
 msgid ""
-"provide feedback to the Mentoring Subcommittee and Carpentries staff to "
-"help continue improving our mentoring groups."
+"provide feedback to the Mentoring Subcommittee and Carpentries staff to help"
+" continue improving our mentoring groups."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:87
@@ -356,20 +354,20 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:93
 msgid ""
-"Mentoring groups are open to any individual who has completed Carpentries"
-" instructor training."
+"Mentoring groups are open to any individual who has completed Carpentries "
+"instructor training."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:94
 msgid ""
-"Community members who have taught fewer than two workshops (or no "
-"workshops at all yet) are invited as mentees."
+"Community members who have taught fewer than two workshops (or no workshops "
+"at all yet) are invited as mentees."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:95
 msgid ""
-"Certified Carpentries instructors who have taught three or more workshops"
-" are invited to lead mentoring groups."
+"Certified Carpentries instructors who have taught three or more workshops "
+"are invited to lead mentoring groups."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:96
@@ -382,14 +380,14 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:98
 msgid ""
-"Kari Jordan will hold a mentoring groups 'touch base with mentors' "
-"halfway through the 8-12 week period."
+"Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway "
+"through the 8-12 week period."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:99
 msgid ""
-"Mentors and mentees will be asked to complete a short survey halfway "
-"through the 8-12 week period."
+"Mentors and mentees will be asked to complete a short survey halfway through"
+" the 8-12 week period."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:100
@@ -398,8 +396,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:101
 msgid ""
-"Mentors and mentees will be asked to complete asecond short survey at the"
-" end of the mentoring group period."
+"Mentors and mentees will be asked to complete asecond short survey at the "
+"end of the mentoring group period."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:102
@@ -408,14 +406,14 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:103
 msgid ""
-"A mentoring page will be added to The Carpentries' website with "
-"information on how to join a mentoring group."
+"A mentoring page will be added to The Carpentries' website with information "
+"on how to join a mentoring group."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:104
 msgid ""
-"Members will be added to groups, and new groups will be formed, on a "
-"rolling basis as needed, at the discretion of Kari Jordan."
+"Members will be added to groups, and new groups will be formed, on a rolling"
+" basis as needed, at the discretion of Kari Jordan."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:105
@@ -480,8 +478,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:128
 msgid ""
-"Attend scheduled meetings and participate actively or let your Mentor "
-"know you won’t be attending."
+"Attend scheduled meetings and participate actively or let your Mentor know "
+"you won’t be attending."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:129
@@ -497,9 +495,9 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:133
 msgid ""
-"Be either a newly certified Carpentries instructor or be in the process "
-"of completing certification. Generally Mentees will have taught one or no"
-" workshops, but may have been helpers before."
+"Be either a newly certified Carpentries instructor or be in the process of "
+"completing certification. Generally Mentees will have taught one or no "
+"workshops, but may have been helpers before."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:135
@@ -527,7 +525,8 @@ msgid "Follow up with Mentees who miss meetings."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:147
-msgid "Be respectful of Mentees. Provide a safe space for questions and mistakes."
+msgid ""
+"Be respectful of Mentees. Provide a safe space for questions and mistakes."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:148
@@ -593,24 +592,24 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:175
 msgid ""
-"The Carpentries' community is invited to participate in a Virtual "
-"Showcase of our mentoring groups' projects.  These will be scheduled at "
-"the end of each mentoring group term."
+"The Carpentries' community is invited to participate in a Virtual Showcase "
+"of our mentoring groups' projects.  These will be scheduled at the end of "
+"each mentoring group term."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:177
 msgid ""
-"What to expect: Each group will present one slide outlining something "
-"they learned or completed with their mentoring group. We will also answer"
-" questions from the community and discuss the benefits of mentoring."
+"What to expect: Each group will present one slide outlining something they "
+"learned or completed with their mentoring group. We will also answer "
+"questions from the community and discuss the benefits of mentoring."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:178
 msgid ""
-"Why attend: Be inspired by the projects of your global community members!"
-" Be empowered to start a new project, contribute to a lesson, or prepare "
-"to teach a lesson. Explore the benefits of mentoring and being a part of "
-"a global community."
+"Why attend: Be inspired by the projects of your global community members! Be"
+" empowered to start a new project, contribute to a lesson, or prepare to "
+"teach a lesson. Explore the benefits of mentoring and being a part of a "
+"global community."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:180
@@ -619,8 +618,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:181
 msgid ""
-"Please visit this Etherpad to view notes from past meetings or sign up "
-"for upcoming meetings."
+"Please visit this Etherpad to view notes from past meetings or sign up for "
+"upcoming meetings."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:183
@@ -629,8 +628,7 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_development/mentoring_groups.md:184
 msgid ""
-"For information regarding the Carpentries Mentoring Groups, e-mail Kari "
-"L. Jordan. To join the next Instructor Development Committee meeting, "
-"sign up via this Etherpad."
+"For information regarding the Carpentries Mentoring Groups, e-mail Kari L. "
+"Jordan. To join the next Instructor Development Committee meeting, sign up "
+"via this Etherpad."
 msgstr ""
-

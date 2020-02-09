@@ -1,39 +1,46 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Irene Vazano <irene.vazano@gmail.com>, 2020
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Last-Translator: Irene Vazano <irene.vazano@gmail.com>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:1
 msgid "Trainer Duties and Agreement"
-msgstr ""
+msgstr "Responsabilidades y Trainer Agreement"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:3
 msgid ""
 "As of May 2017, the Trainers group adopted a Trainer Agreement outlining "
 "Trainer duties. Only active Trainers are voting members of the Trainer "
-"community. An inactive Trainer may re-activate their Trainer status at "
-"any time by resuming Trainer activities."
+"community. An inactive Trainer may re-activate their Trainer status at any "
+"time by resuming Trainer activities."
 msgstr ""
+"A partir de mayo de 2017, el grupo de Trainers adoptó un Acuerdo (Trainer "
+"Agreement) que describe las responsabilidades del Trainer. Solo los Trainers"
+" activos son miembros votantes de la comunidad de Trainers. Un Trainer "
+"inactivo puede reactivar su estado de Trainer en cualquier momento "
+"reanudando las actividades del Trainer."
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:5
 msgid "Trainer Agreement"
-msgstr ""
+msgstr "Trainer Agreement"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:7
 msgid ""
@@ -41,81 +48,111 @@ msgid ""
 "interactions with The Carpentries community and to promptly report any "
 "violations of the CoC that I become aware of."
 msgstr ""
+"Estoy de acuerdo en seguir el Código de Conducta (CoC) en todas las "
+"comunicaciones e interacciones con la comunidad de The Carpentries y en "
+"informar de inmediato cualquier violación del CoC de la que tenga "
+"conocimiento."
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:9
 msgid ""
 "I understand that the secondary learning outcomes of workshops are as "
 "important as their stated goals. I will:"
 msgstr ""
+"Entiendo que los resultados del aprendizaje secundario de los talleres son "
+"tan importantes como sus objetivos establecidos. Voy a:"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:10
 msgid ""
 "Communicate The Carpentries community values to trainees and model that "
 "behaviour myself in how I teach"
 msgstr ""
+"Comunicar los valores de la comunidad de The Carpentries a trainees y "
+"modelar ese comportamiento en la forma en que enseño"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:11
 msgid "Provide a welcoming and supporting environment for trainees"
-msgstr ""
+msgstr "Proporcionar un ambiente acogedor y de apoyo para las trainees."
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:12
 msgid "Model our “show, don’t tell” policy in instructor training"
 msgstr ""
+"Modelar nuestra política de \"mostrar, no decir\" durante el instructor "
+"training"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:13
 msgid ""
-"Connect the principles used in The Carpentries workshops with other "
-"teaching contexts"
+"Connect the principles used in The Carpentries workshops with other teaching"
+" contexts"
 msgstr ""
+"Conectar los principios utilizados en los talleres de The Carpentries con "
+"otros contextos de enseñanza."
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:15
 msgid ""
-"I understand that it is important to keep up to date and in touch with "
-"the Trainer community so that my teaching will reflect current practices "
-"and curriculum. Therefore, to be an active Trainer, I agree to:"
+"I understand that it is important to keep up to date and in touch with the "
+"Trainer community so that my teaching will reflect current practices and "
+"curriculum. Therefore, to be an active Trainer, I agree to:"
 msgstr ""
+"Entiendo que es importante mantenerme al día y en contacto con la comunidad "
+"de Trainers para que mi enseñanza refleje las prácticas y el plan de "
+"estudios actuales. Por lo tanto, para ser un Trainer activo, acepto:"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:16
 msgid "Teach at least two instructor training events per year"
-msgstr ""
+msgstr "Brindar al menos dos instructor trainings por año"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:17
 msgid "Host on average four teaching demonstrations per year  (1 per quarter)"
 msgstr ""
+"Organizar en promedio cuatro demostraciones de enseñanza por año (una por "
+"trimestre)"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:18
 msgid ""
 "Regularly attend Trainer meetings when possible and read meeting "
 "minutes/notes when I am not able to attend"
 msgstr ""
+"Asistir regularmente a las meetings de Trainers cuando sea posible y leer "
+"las minutas/notas de la reunión cuando no sea posible asistir"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:19
 msgid "Read emails sent to the Trainer listserv"
-msgstr ""
+msgstr "Leer emails enviados a la lista de distribución de Trainers"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:20
 msgid "Keep up-to-date with the instructor training curriculum"
-msgstr ""
+msgstr "Mantenerme al día con la currícula del instructor training"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:21
 msgid ""
 "Teach a curriculum that fulfills all of the current requirements for "
 "instructor certification"
 msgstr ""
+"Enseñe una currícula que cumpla con todos los requisitos actuales para la "
+"certificación de instructor"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:22
 msgid ""
 "Provide feedback to other trainers and Carpentries staff about training "
 "events to help continue developing our offerings"
 msgstr ""
+"Proporcionar comentarios a otros trainers y al personal de las Carpentries "
+"sobre eventos de training para ayudar a continuar desarrollando nuestras "
+"ofertas"
 
 #: ../../handbook/topic_folders/instructor_training/duties_agreement.md:24
 msgid ""
-"I understand that The Carpentries staff need an accurate understanding of"
-" Trainer availability in order to plan instructor training events. If at "
-"any point I am no longer able to serve as a Trainer, I will let The "
-"Carpentries staff know. I understand that only active Trainers are voting"
-" members of the Trainer community, but that I will be able to re-activate"
-" my Trainer status at any time by resuming Trainer activities."
+"I understand that The Carpentries staff need an accurate understanding of "
+"Trainer availability in order to plan instructor training events. If at any "
+"point I am no longer able to serve as a Trainer, I will let The Carpentries "
+"staff know. I understand that only active Trainers are voting members of the"
+" Trainer community, but that I will be able to re-activate my Trainer status"
+" at any time by resuming Trainer activities."
 msgstr ""
-
+"Entiendo que el personal de The Carpentries necesita una comprensión precisa"
+" de la disponibilidad del Trainer para planificar eventos de onstructor "
+"training. Si en algún momento ya no puedo servir como Trainer, informaré al "
+"personal de The Carpentries. Entiendo que solo los Trainers activos son "
+"miembros votantes de la comunidad de Trainers, pero que podré reactivar mi "
+"estado de Trainer en cualquier momento reanudando las actividades del "
+"Trainer."

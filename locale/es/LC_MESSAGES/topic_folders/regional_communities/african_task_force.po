@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:1
 msgid "Carpentries in Africa"
@@ -29,21 +27,20 @@ msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:5
 msgid ""
-"Support for the African community is provided by community members and "
-"the regional coordinator who will be appointed in 2019"
+"Support for the African community is provided by community members and the "
+"regional coordinator who will be appointed in 2019"
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:7
 msgid ""
-"Monthly African Instructor Meetup: Our monthly African instructor meetups"
-" have been running since 2017 and are  attracting more and more interest."
-" Here we discuss topics that are of interest to our instructors in the "
+"Monthly African Instructor Meetup: Our monthly African instructor meetups "
+"have been running since 2017 and are  attracting more and more interest. "
+"Here we discuss topics that are of interest to our instructors in the "
 "African context, including previous and upcoming workshops, available "
-"resources, opportunities, events, and more. The meetings are restricted "
-"to folks who have already participated in instructor training as we also "
-"focus on helping instructors to complete their checkouts, connecting "
-"instructors with others who can co-teach or co-organise workshops, and "
-"more."
+"resources, opportunities, events, and more. The meetings are restricted to "
+"folks who have already participated in instructor training as we also focus "
+"on helping instructors to complete their checkouts, connecting instructors "
+"with others who can co-teach or co-organise workshops, and more."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:9
@@ -55,10 +52,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:11
 msgid ""
-"Mentoring for Instructors and Helpers before a workshop: Some members of "
-"the African instructor community are willing to host online mentoring "
-"sessions for instructors and helpers before a workshop to ensure everyone"
-" knows what to expect and what is expected of them."
+"Mentoring for Instructors and Helpers before a workshop: Some members of the"
+" African instructor community are willing to host online mentoring sessions "
+"for instructors and helpers before a workshop to ensure everyone knows what "
+"to expect and what is expected of them."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:13
@@ -73,31 +70,31 @@ msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:17
 msgid ""
-"If you’ve trained as an instructor in Africa (even if you’re not "
-"qualified yet), please join the African instructors mailing list."
+"If you’ve trained as an instructor in Africa (even if you’re not qualified "
+"yet), please join the African instructors mailing list."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:19
 msgid ""
-"We would love to get more people involved in specific activities to "
-"support our growing African community."
+"We would love to get more people involved in specific activities to support "
+"our growing African community."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:21
 msgid ""
-"Join the monthly African meetup: We would love to hear more voices at our"
-" monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 "
-"SAST (10:00 - 11:00 UTC). If you are keen to join or host a session, "
-"please sign up at our Etherpad."
+"Join the monthly African meetup: We would love to hear more voices at our "
+"monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST "
+"(10:00 - 11:00 UTC). If you are keen to join or host a session, please sign "
+"up at our Etherpad."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:23
 msgid ""
-"Provide mentorship before workshops: If you are available to meet with an"
-" instructor/helper team before they run a workshop to answer any "
-"questions they may have or to help them prepare for the lessons they will"
-" be teaching, please get in touch via our email and we can pair you up "
-"with a team at a time and date that will suit you."
+"Provide mentorship before workshops: If you are available to meet with an "
+"instructor/helper team before they run a workshop to answer any questions "
+"they may have or to help them prepare for the lessons they will be teaching,"
+" please get in touch via our email and we can pair you up with a team at a "
+"time and date that will suit you."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:25
@@ -107,27 +104,25 @@ msgstr ""
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:27
 msgid ""
 "The first Carpentries workshops in Africa were run in 2013 but it only "
-"really kicked off in 2015. An African Task Force was established in 2016,"
-" consisting of international mentors from the USA, UK, and Australia, and"
-" guided the first batch of trained African instructors through the "
-"checkout process as most of them were very isolated and new to the world "
-"of the Carpentries."
+"really kicked off in 2015. An African Task Force was established in 2016, "
+"consisting of international mentors from the USA, UK, and Australia, and "
+"guided the first batch of trained African instructors through the checkout "
+"process as most of them were very isolated and new to the world of the "
+"Carpentries."
 msgstr ""
 
 #: ../../handbook/topic_folders/regional_communities/african_task_force.md:29
 msgid ""
-"Since then more than 100 African instructors have participated in online "
-"or in-person instructor training events. The African Task Force was "
-"revived in December 2017, then completely consisting of African "
-"instructors. The task force played a role in mentoring instructors who "
-"had been trained but hadn’t qualified as well as qualified instructors "
-"who needed support before teaching a workshop. Small online sessions were"
-" hosted by task force members to demonstrate how various lessons are "
-"taught and to help solidify skills in the tools we teach. The second "
-"African Task Force finished its activities in December 2018. Some of the "
-"South African-based activities were funded through the Rural Campuses "
-"Connection Project II (RCCP II), which ended in March 2019. You can read "
-"more about the experiences of the African Task Force in this blog post "
-"and about RCCPII here."
+"Since then more than 100 African instructors have participated in online or "
+"in-person instructor training events. The African Task Force was revived in "
+"December 2017, then completely consisting of African instructors. The task "
+"force played a role in mentoring instructors who had been trained but hadn’t"
+" qualified as well as qualified instructors who needed support before "
+"teaching a workshop. Small online sessions were hosted by task force members"
+" to demonstrate how various lessons are taught and to help solidify skills "
+"in the tools we teach. The second African Task Force finished its activities"
+" in December 2018. Some of the South African-based activities were funded "
+"through the Rural Campuses Connection Project II (RCCP II), which ended in "
+"March 2019. You can read more about the experiences of the African Task "
+"Force in this blog post and about RCCPII here."
 msgstr ""
-

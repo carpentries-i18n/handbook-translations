@@ -1,27 +1,29 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Leonardo Spairani <leospairani@gmail.com>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Last-Translator: Leonardo Spairani <leospairani@gmail.com>, 2019\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:1
 msgid "Carpentries-es"
-msgstr ""
+msgstr "Carpentries-es"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:3
 msgid ""
@@ -30,142 +32,181 @@ msgid ""
 "instructores, coordinación de talleres y recaudación de fondos. Este "
 "repositorio sirve como punto de entrada para este grupo de actividades."
 msgstr ""
+"La construcción de una comunidad sostenible y activa en América Latina "
+"incluye varias iniciativas: traducción de lecciones, capacitación de "
+"instructores, coordinación de talleres y recaudación de fondos. Este "
+"repositorio sirve como punto de entrada para este grupo de actividades."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:5
 msgid ""
-"Building a sustainable and active community in Latin America include "
-"several iniatives: lesson translation, instructor training, workshop "
-"coordination, and fundraising. This respository serves as a landing point"
-" for this diverse group of activies."
-msgstr ""
+"Building a sustainable and active community in Latin America include several"
+" iniatives: lesson translation, instructor training, workshop coordination, "
+"and fundraising. This respository serves as a landing point for this diverse"
+" group of activies."
+msgstr " "
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:7
 msgid "Como puedes ayudar / Ways to help"
-msgstr ""
+msgstr "Cómo puedes ayudar"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:9
 msgid ""
 "There are many ways to help build The Carpentries community in Latin "
 "America."
 msgstr ""
+"Hay muchas maneras de ayudar a construir la comunidad The Carpentries en "
+"América Latina."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:11
 msgid ""
 "We need native and fluent Spanish speakers to help translate lesson "
 "materials."
 msgstr ""
+"Necesitamos hispanohablantes nativos y personas con manejo fluido del "
+"español para ayudar a traducir los materiales de las lecciones."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:12
 msgid ""
-"We need a way to keep different language versions of The Carpentries "
-"lessons in synch so that contributions made to one version also appear in"
-" other versions."
+"We need a way to keep different language versions of The Carpentries lessons"
+" in synch so that contributions made to one version also appear in other "
+"versions."
 msgstr ""
+"Necesitamos una forma de mantener sincronizadas las versiones en diferentes "
+"idiomas de las lecciones de The Carpentries para que las contribuciones "
+"hechas a una versión también aparezcan en otras versiones."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:13
 msgid ""
-"We need experienced instructors to teach with and to mentor new "
-"instructors in Latin America, especially those familiar with the region."
+"We need experienced instructors to teach with and to mentor new instructors "
+"in Latin America, especially those familiar with the region."
 msgstr ""
+"Necesitamos instructores experimentados para enseñar juntos y que guíen a "
+"nuevos instructores en América Latina, especialmente aquellos que están "
+"familiarizados con la región."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:14
 msgid ""
-"We need Trainers located in Latin America or with strong ties to the "
-"region."
+"We need Trainers located in Latin America or with strong ties to the region."
 msgstr ""
+"Necesitamos entrenadores ubicados en América Latina o con fuertes vínculos "
+"con la región."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:15
 msgid ""
-"We need help with workshop coordination from people familiar with pricing"
-" structures, geography and computational infrastructure in Latin America."
+"We need help with workshop coordination from people familiar with pricing "
+"structures, geography and computational infrastructure in Latin America."
 msgstr ""
+"Necesitamos ayuda con la coordinación de talleres por parte de personas "
+"familiarizadas con las estructuras de precios, la geografía y la "
+"infraestructura computacional en América Latina."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:16
 msgid ""
 "We need local Champions to spread the word about the Carpentries and the "
-"work that we do and advocate for The Carpentries workshops and "
-"memberships in the region."
+"work that we do and advocate for The Carpentries workshops and memberships "
+"in the region."
 msgstr ""
+"Necesitamos Campeones locales para difundir la palabra sobre las "
+"Carpentries, el trabajo que hacemos y abogar por los talleres y membresías "
+"de The Carpentries en la región."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:18
 msgid ""
-"If you can help in any of these ways, or know of another way you can "
-"support development of The Carpentries community in Latin America, please"
-" get in touch!"
+"If you can help in any of these ways, or know of another way you can support"
+" development of The Carpentries community in Latin America, please get in "
+"touch!"
 msgstr ""
+"Si puedes ayudar de alguna de estas maneras, o si sabes de alguna otra "
+"manera que puedas apoyar el desarrollo de la comunidad de The Carpentries en"
+" América Latina, ¡ponte en contacto con nosotros!"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:20
 msgid "Cómo participar / How to get involved"
-msgstr ""
+msgstr "Cómo participar"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:22
 msgid ""
 "Para ponerse en contacto con este grupo, envía un correo electrónico a "
-"local-latinoamerica@lists.carpentries.org. Para unirse a la lista de "
-"correo electrónico, visita Topic-Box. Para contactarnos directamente te "
-"invitamos a usar slack en el canal carpentries_es."
+"local-latinoamerica@lists.carpentries.org. Para unirse a la lista de correo "
+"electrónico, visita Topic-Box. Para contactarnos directamente te invitamos a"
+" usar slack en el canal carpentries_es."
 msgstr ""
+"Para ponerse en contacto con este grupo, envía un correo electrónico a "
+"local-latinoamerica@lists.carpentries.org. Para unirse a la lista de correo "
+"electrónico, visita Topic-Box. Para contactarnos directamente te invitamos a"
+" usar slack en el canal carpentries_es."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:24
 msgid ""
-"To contact this group, email local-latinoamerica@lists.carpentries.org. "
-"To join the email list, visit Topic-Box. To contact us directly you are "
-"invited to join slack in the carpentries_es channel."
-msgstr ""
+"To contact this group, email local-latinoamerica@lists.carpentries.org. To "
+"join the email list, visit Topic-Box. To contact us directly you are invited"
+" to join slack in the carpentries_es channel."
+msgstr " "
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:26
 msgid "¿Quién está involucrado? / Who is already involved?"
-msgstr ""
+msgstr "¿Quién está involucrado?"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:28
 msgid ""
-"Traducción de lección / Lesson translation: Paula Andrea Martinez, "
-"Francisco Palm, Rayna Harris"
+"Traducción de lección / Lesson translation: Paula Andrea Martinez, Francisco"
+" Palm, Rayna Harris"
 msgstr ""
+"Traducción de lección: Paula Andrea Martinez, Francisco Palm, Rayna Harris"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:29
 msgid ""
-"Capacitación de instructores / Instructor training: Karen Word (with help"
-" from Sue McClatchy, Rayna Harris, Belinda Weaver)"
+"Capacitación de instructores / Instructor training: Karen Word (with help "
+"from Sue McClatchy, Rayna Harris, Belinda Weaver)"
 msgstr ""
+"Capacitación de instructores: Karen Word (con ayuda de Sue McClatchy, Rayna "
+"Harris, Belinda Weaver)"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:31
 msgid "Reuniones bilingües / Bilingual meetings"
-msgstr ""
+msgstr "Reuniones bilingües"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:33
 msgid ""
-"Hacemos reuniones bilingües para la sección \"Enseñanza de las sesiones "
-"de demostración\" de \"Instructor Training Checkout\". Inscríbase en el "
+"Hacemos reuniones bilingües para la sección \"Enseñanza de las sesiones de "
+"demostración\" de \"Instructor Training Checkout\". Inscríbase en el "
 "Etherpad o lea las instrucciones bilingües para saber cómo funcionan las "
 "sesiones de demostración."
 msgstr ""
+"Hacemos reuniones bilingües para la sección \"Enseñanza de las sesiones de "
+"demostración\" de \"Instructor Training Checkout\". Inscríbete en el "
+"Etherpad o lee las instrucciones bilingües para saber cómo funcionan las "
+"sesiones de demostración."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:35
 msgid ""
 "We host bilingual meetings for the \"Teaching Demo Sessions\"  part of "
-"Instructor Training Checkout. Sign up on the Etherpad or read the "
-"bilingual instructions for how the demo sessions work."
-msgstr ""
+"Instructor Training Checkout. Sign up on the Etherpad or read the bilingual "
+"instructions for how the demo sessions work."
+msgstr " "
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:38
 msgid "Traducciones / Translations"
-msgstr ""
+msgstr "Traducciones"
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:40
 msgid ""
-"Los respositorios de GitHub para las traducciones en progreso son "
-"mantenidos por la organización carpentries-es. Varias lecciones de Data "
-"Carpentry y Software Carpentry tienen traducciones al lenguaje español "
-"completas. Estas se encuentran listadas en los sitios web de las "
-"lecciones de Data Carpentry y Software Carpentry."
+"Los respositorios de GitHub para las traducciones en progreso son mantenidos"
+" por la organización carpentries-es. Varias lecciones de Data Carpentry y "
+"Software Carpentry tienen traducciones al lenguaje español completas. Estas "
+"se encuentran listadas en los sitios web de las lecciones de Data Carpentry "
+"y Software Carpentry."
 msgstr ""
+"Los respositorios de GitHub para las traducciones en progreso son mantenidos"
+" por la organización carpentries-es. Varias lecciones de Data Carpentry y "
+"Software Carpentry tienen traducciones al lenguaje español completas. Estas "
+"se encuentran listadas en los sitios web de las lecciones de Data Carpentry "
+"y Software Carpentry."
 
 #: ../../handbook/topic_folders/regional_communities/carpentries_en_latinoamerica.md:42
 msgid ""
 "The GitHub repos for translations in progress are maintained in the "
-"Carpentries-ES organization. Several Data Carpentry and Software "
-"Carpentry lessons have complete Spanish language translations.  These are"
-" listed on the Data Carpentry and Software Carpentry lesson websites."
-msgstr ""
-
+"Carpentries-ES organization. Several Data Carpentry and Software Carpentry "
+"lessons have complete Spanish language translations.  These are listed on "
+"the Data Carpentry and Software Carpentry lesson websites."
+msgstr " "

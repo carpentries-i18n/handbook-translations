@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:2
 msgid "Maintainer Guidelines"
@@ -27,9 +25,9 @@ msgstr ""
 msgid ""
 "The Carpentries Maintainers work with the community to make sure that "
 "lessons stay up-to-date, accurate, functional and cohesive. They monitor "
-"their lesson repository, make sure that PRs and Issues are addressed in a"
-" timely manner, and participate in the lesson development cycle including"
-" lesson releases. They endeavor to be welcoming and supportive of "
+"their lesson repository, make sure that PRs and Issues are addressed in a "
+"timely manner, and participate in the lesson development cycle including "
+"lesson releases. They endeavor to be welcoming and supportive of "
 "contributions from all members of the community."
 msgstr ""
 
@@ -57,8 +55,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:13
 msgid ""
-"Adhering to the Code of Conduct and alerting the Policy Subcommittee to "
-"any potential violations."
+"Adhering to the Code of Conduct and alerting the Policy Subcommittee to any "
+"potential violations."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:14
@@ -81,8 +79,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:20
 msgid ""
-"Maintainers represent The Carpentries community and should strive to "
-"embody The Carpentries philosophy, by:"
+"Maintainers represent The Carpentries community and should strive to embody "
+"The Carpentries philosophy, by:"
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:21
@@ -97,12 +95,13 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:23
 msgid ""
-"Find what’s good. Be specific about improvements needed. Use motivational"
-" language."
+"Find what’s good. Be specific about improvements needed. Use motivational "
+"language."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:24
-msgid "Evaluating lesson contributions in light of Carpentries pedagogical model:"
+msgid ""
+"Evaluating lesson contributions in light of Carpentries pedagogical model:"
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:25
@@ -123,10 +122,10 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:30
 msgid ""
-"Note: These guidelines are adapted from those currently in use by the "
-"Data Carpentry Genomics Maintainers and are provisional. The Maintainer "
-"team will be deciding on official guidelines for the full set of "
-"Carpentries lesson Maintainers."
+"Note: These guidelines are adapted from those currently in use by the Data "
+"Carpentry Genomics Maintainers and are provisional. The Maintainer team will"
+" be deciding on official guidelines for the full set of Carpentries lesson "
+"Maintainers."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:32
@@ -135,16 +134,16 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:34
 msgid ""
-"The overall Maintainer community communicates using our mailing list and "
-"our Slack channel. If you don't already have a Slack account with the "
+"The overall Maintainer community communicates using our mailing list and our"
+" Slack channel. If you don't already have a Slack account with the "
 "Carpentries, you can create one."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:36
 msgid ""
 "The Maintainer community meets monthly to discuss issues relevant to all "
-"lesson Maintainers. Our meeting schedule can be found on our Etherpad and"
-" on the community calendar."
+"lesson Maintainers. Our meeting schedule can be found on our Etherpad and on"
+" the community calendar."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:38
@@ -169,19 +168,18 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:47
 msgid ""
-"There are many ways to request help on an issue or PR you are reviewing. "
-"To get help from other Maintainers or the general community, use the help"
-" wanted or good first issue labels."
+"There are many ways to request help on an issue or PR you are reviewing. To "
+"get help from other Maintainers or the general community, use the help "
+"wanted or good first issue labels."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:49
 msgid ""
-"If an issue affects the overall structure or scope of the lesson, you can"
-" refer the issue to your curriculum's Curriculum Advisory Subcommittee by"
-" using the status:refer-to-cac label. Remember that the Curriculum "
-"Advisors only meet once every six months (in advance of lesson releases) "
-"and they will likely not be able to provide a quick response to your "
-"question."
+"If an issue affects the overall structure or scope of the lesson, you can "
+"refer the issue to your curriculum's Curriculum Advisory Subcommittee by "
+"using the status:refer-to-cac label. Remember that the Curriculum Advisors "
+"only meet once every six months (in advance of lesson releases) and they "
+"will likely not be able to provide a quick response to your question."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:51
@@ -201,9 +199,9 @@ msgstr ""
 #: ../../handbook/topic_folders/maintainers/maintainers.md:59
 msgid ""
 "New Maintainers go through an onboarding process. The curriculum for "
-"onboarding new Maintainers is available as a Maintainer Onboarding "
-"Lesson. This documentation describes how to recruit new Maintainers and "
-"take them through the onboarding process."
+"onboarding new Maintainers is available as a Maintainer Onboarding Lesson. "
+"This documentation describes how to recruit new Maintainers and take them "
+"through the onboarding process."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:65
@@ -229,24 +227,24 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:73
 msgid ""
-"Add Maintainers who are going through training to the maintainer-"
-"onboarding Google Group. This is where announcements about upcoming "
-"meetings should be sent."
+"Add Maintainers who are going through training to the maintainer-onboarding "
+"Google Group. This is where announcements about upcoming meetings should be "
+"sent."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:75
 msgid ""
-"After the deadline has passed for responding to the Maintainer Onboarding"
-" scheduling poll, select the two times that maximize attendance. This "
-"needs to be done manually from the whenisgood results, as there isn't a "
-"\"choose two times\" option."
+"After the deadline has passed for responding to the Maintainer Onboarding "
+"scheduling poll, select the two times that maximize attendance. This needs "
+"to be done manually from the whenisgood results, as there isn't a \"choose "
+"two times\" option."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:77
 msgid ""
-"Populate the Maintainer onboarding Etherpad with meeting dates and times."
-" Use timeanddate meeting time announcer links to make it easy for people "
-"to convert meeting times to their own time zone."
+"Populate the Maintainer onboarding Etherpad with meeting dates and times. "
+"Use timeanddate meeting time announcer links to make it easy for people to "
+"convert meeting times to their own time zone."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:79
@@ -257,27 +255,27 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:81
 msgid ""
-"Set up a new event in AMY with the slug YEAR-MO-DA-maintainer-onboarding."
-" Add all maintainer trainees as learners. Add onboarding leader as "
+"Set up a new event in AMY with the slug YEAR-MO-DA-maintainer-onboarding. "
+"Add all maintainer trainees as learners. Add onboarding leader as "
 "instructor."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:83
 msgid ""
-"One week before the first onboarding meeting, send a reminder email to "
-"the Google Group."
+"One week before the first onboarding meeting, send a reminder email to the "
+"Google Group."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:85
 msgid ""
-"Run the three weeks of meetings according to the curriculum. Keep record "
-"of who participates in the AMY event."
+"Run the three weeks of meetings according to the curriculum. Keep record of "
+"who participates in the AMY event."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:87
 msgid ""
-"If people are not able to make all of the meetings, email them to ask "
-"them to write out responses to the discussion questions and homeworks."
+"If people are not able to make all of the meetings, email them to ask them "
+"to write out responses to the discussion questions and homeworks."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/maintainers.md:89
@@ -311,4 +309,3 @@ msgstr ""
 #: ../../handbook/topic_folders/maintainers/maintainers.md:98
 msgid "Announce new Maintainers in the next newsletter."
 msgstr ""
-

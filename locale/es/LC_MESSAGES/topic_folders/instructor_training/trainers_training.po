@@ -1,107 +1,129 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Irene Vazano <irene.vazano@gmail.com>, 2020
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:54+0000\n"
+"Last-Translator: Irene Vazano <irene.vazano@gmail.com>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:1
 msgid "Becoming a Trainer"
-msgstr ""
+msgstr "Convertirse en un Trainer"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:2
 msgid ""
 "The Trainers group periodically accepts new members via application. New "
-"Trainers undergo an eight-week training program outlined below and agree "
-"to the Trainer Agreement."
+"Trainers undergo an eight-week training program outlined below and agree to "
+"the Trainer Agreement."
 msgstr ""
+"El grupo de Trainers acepta periódicamente nuevos miembros a través de las "
+"aplicaciones. Los nuevos Trainers se someten a un programa de training de "
+"ocho semanas que se describe a continuación y aceptan el Acuerdo de "
+"Trainers."
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:4
 msgid "Trainers Training Program"
-msgstr ""
+msgstr "Programa Trainers Training"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:6
 msgid ""
-"This outline represents the time commitment required for being an "
-"instructor Trainer with the Carpentries. Please read through and check to"
-" see that you are able to commit to the responsibilities outlined below."
+"This outline represents the time commitment required for being an instructor"
+" Trainer with the Carpentries. Please read through and check to see that you"
+" are able to commit to the responsibilities outlined below."
 msgstr ""
+"Este bosquejo representa el compromiso de tiempo requerido para ser "
+"instructores de Trainer con las Carpentries. Leer y verificar la posibilidad"
+" de comprometerse con las responsabilidades que se detallan a continuación."
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:8
 msgid ""
 "Instructor Trainers agree to abide by the Code of Conduct in all "
 "communications and interactions with The Carpentries community."
 msgstr ""
+"Los instructores de Trainers acuerdan cumplir con el Código de conducta en "
+"todas las comunicaciones e interacciones con la comunidad de The "
+"Carpentries."
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:10
 msgid ""
 "Read How Learning Works by Susan Ambrose and discuss in book club format "
 "with Trainers-in-training. Preliminary reading schedule."
 msgstr ""
+"Leer cómo funciona el aprendizaje de Susan Ambrose y discutir en formato de "
+"club de lectura con Trainers en formación. Calendario de lectura preliminar."
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:11
 msgid ""
-"Time commitment: 1 hour per week for 8 weeks meetings; can miss one "
-"meeting; ~10 hours reading"
+"Time commitment: 1 hour per week for 8 weeks meetings; can miss one meeting;"
+" ~10 hours reading"
 msgstr ""
+"Compromiso de tiempo: 1 hora por semana para meetings de 8 semanas; puede "
+"faltar a una meeting; ~10 horas de lectura"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:12
 msgid "Join Trainer meetings"
-msgstr ""
+msgstr "Unirse a las meetings de Trainers"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:13
 msgid "Time commitment: 1 hour per month; can miss one meeting"
-msgstr ""
+msgstr "Compromiso de tiempo: 1 hora por mes; puede faltar a una meeting"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:14
 msgid "Shadow a teaching demonstration session"
-msgstr ""
+msgstr "Presenciar una sesión de demostración de enseñanza como shadow"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:15
 msgid "Time commitment: 1 hour one time"
-msgstr ""
+msgstr "Compromiso de tiempo: 1 hora una vez."
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:16
 msgid "Shadow at least half a day of an online instructor training event"
 msgstr ""
+"Presenciar al menos medio día de un evento de capacitación de instructores "
+"en línea como shadow"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:17
 msgid "Time commitment: 4 hours one time"
-msgstr ""
+msgstr "Compromiso de tiempo: 4 horas una vez"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:18
 msgid ""
 "Teach once either online or in person with experienced Trainer (after "
 "finishing book club)"
 msgstr ""
+"Enseñe una vez en línea o en persona con un Trainer experimentado (después "
+"de terminar el club de lectura)"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:19
 msgid "Time commitment: 2 days one time plus prep"
-msgstr ""
+msgstr "Compromiso de tiempo: 2 días una vez más preparación"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:20
 msgid "Agree to the Trainer Agreement."
-msgstr ""
+msgstr "Aceptar el trainer agreement"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:22
 msgid ""
-"Total time commitment for continuing Trainers: 4 days per year + 2.5 hrs "
-"per month"
+"Total time commitment for continuing Trainers: 4 days per year + 2.5 hrs per"
+" month"
 msgstr ""
+"Compromiso de tiempo total para Trainers continuos: 4 días por año + 2.5 "
+"horas por mes"
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:25
 msgid ""
@@ -111,12 +133,12 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:28
 msgid "Trainers Training Reading Schedule"
-msgstr ""
+msgstr "calendario de lectura  de Trainers Training "
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:30
 msgid ""
-"For the most recent Trainer Training schedule and discussion questions, "
-"see the Trainer Training Curriculum"
+"For the most recent Trainer Training schedule and discussion questions, see "
+"the Trainer Training Curriculum"
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:32
@@ -125,8 +147,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:34
 msgid ""
-"Director of Instructor Training and Carpentries staff will decide on "
-"goals for Trainer recruitment."
+"Director of Instructor Training and Carpentries staff will decide on goals "
+"for Trainer recruitment."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:35
@@ -136,9 +158,9 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:36
 msgid ""
 "Open application period will be announced via Carpentries platforms "
-"including Twitter, Facebook, the Discuss email list, and blogs. Ask "
-"relevant community members to promote within their networks as well.  "
-"Personal invitations can be sent with this email template."
+"including Twitter, Facebook, the Discuss email list, and blogs. Ask relevant"
+" community members to promote within their networks as well.  Personal "
+"invitations can be sent with this email template."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:37
@@ -147,16 +169,15 @@ msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:38
 msgid ""
-"Ask 2-3 existing Trainers to help review applications in line with "
-"defined goals. There is no rubric for this.  Reviewers should leave notes"
-" supporting their rankings."
+"Ask 2-3 existing Trainers to help review applications in line with defined "
+"goals. There is no rubric for this.  Reviewers should leave notes supporting"
+" their rankings."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:39
 msgid ""
-"Consolidate rankings, adding discretionary points for gaps in "
-"representation by characteristics like gender, race, geography, and "
-"experience."
+"Consolidate rankings, adding discretionary points for gaps in representation"
+" by characteristics like gender, race, geography, and experience."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:40
@@ -180,7 +201,8 @@ msgid "Update the Reading Guides as needed."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:45
-msgid "Take attendance at all Book Club meetings. At most one absence is allowed."
+msgid ""
+"Take attendance at all Book Club meetings. At most one absence is allowed."
 msgstr ""
 
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:46
@@ -194,4 +216,3 @@ msgstr ""
 #: ../../handbook/topic_folders/instructor_training/trainers_training.md:48
 msgid "Inform the Communications Lead so he/she can promote the new cohort."
 msgstr ""
-

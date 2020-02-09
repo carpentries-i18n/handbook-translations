@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-2019, The Carpentries. This content is released under
-# the terms of the Creative Commons Attribution License
-# This file is distributed under the same license as the The Carpentries
-# Handbook package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# Copyright (C) 2018-2019, The Carpentries. This content is released under the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: The Carpentries Handbook \n"
+"Project-Id-Version: The Carpentries Handbook\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-05-26 19:52+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:1
 msgid "How to label issues"
@@ -31,28 +29,28 @@ msgstr ""
 msgid ""
 "The carpenter R pacakge provides helper functions to create these labels "
 "from a CSV file using the GitHub API. To use the GitHub API, you need to "
-"obtain a GitHub Personal Access Token (PAT). This PAT is a way for GitHub"
-" to identify you and should be treated as a password."
+"obtain a GitHub Personal Access Token (PAT). This PAT is a way for GitHub to"
+" identify you and should be treated as a password."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:137
 msgid ""
-"Once you have installed R and RStudio, at the RStudio console, install "
-"the remotes package:"
+"Once you have installed R and RStudio, at the RStudio console, install the "
+"remotes package:"
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:143
 msgid ""
-"Go to https://github.com/settings/tokens, and click on the \"Generate new"
-" token\" button."
+"Go to https://github.com/settings/tokens, and click on the \"Generate new "
+"token\" button."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:146
 msgid ""
-"Choose a name that will help you remember what you use this token for, "
-"and click on the repo box. Finish the creation of the token by clicking "
-"on \"Generate token\" at the bottom of the page. The token will be "
-"displayed on the screen."
+"Choose a name that will help you remember what you use this token for, and "
+"click on the repo box. Finish the creation of the token by clicking on "
+"\"Generate token\" at the bottom of the page. The token will be displayed on"
+" the screen."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:151
@@ -67,8 +65,8 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:164
 msgid ""
-"If everything worked, you should see your PAT being displayed. If "
-"something didn't work it will display empty quotes (\"\")."
+"If everything worked, you should see your PAT being displayed. If something "
+"didn't work it will display empty quotes (\"\")."
 msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:167
@@ -90,7 +88,6 @@ msgstr ""
 
 #: ../../handbook/topic_folders/maintainers/github_labels.md:187
 msgid ""
-"If you set delete_previous to TRUE, all exisitng labels will be deleted "
-"from the repository (and removed from issues/PR that had it)."
+"If you set delete_previous to TRUE, all exisitng labels will be deleted from"
+" the repository (and removed from issues/PR that had it)."
 msgstr ""
-
