@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the The Carpentries Handbook package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tito David Peña Montenegro <davidpm@uga.edu>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
 "PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Last-Translator: Tito David Peña Montenegro <davidpm@uga.edu>, 2019\n"
 "Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,13 +23,16 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/logos.md:1
 msgid "Logos"
-msgstr ""
+msgstr "Logos"
 
 #: ../../handbook/topic_folders/communications/logos.md:3
 msgid ""
 "The names “The Carpentries”, “Software Carpentry”, “Library Carpentry”, and "
 "“Data Carpentry”, and their associated logos are all trademarked."
 msgstr ""
+"Los nombres \"The Carpentries\", \"Software Carpentry\", \"Library "
+"Carpentry\" y \"Data Carpentry\", y sus logotipos asociados, todos están "
+"registrados."
 
 #: ../../handbook/topic_folders/communications/logos.md:5
 msgid ""
@@ -37,29 +44,39 @@ msgid ""
 " like. In those cases, you may use the term “The Carpentries” or the "
 "unaltered logos to indicate this, without our prior approval."
 msgstr ""
+"No se necesita aprobación para usar estas marcas comerciales en algunos "
+"casos. Es permitido siempre que se declare con precisión que un taller es un"
+" taller de The Carpentries, o que un taller está basado en materiales de The"
+" Carpentries. Es aceptable usar la marca registrada si se reconoce o "
+"acredita The Carpentries en artículos de revistas, presentaciones de "
+"conferencias y conferencias, convocatorias de financiación (grants) y "
+"similares. En estos casos se puede usar el término \"The Carpentries\" o los"
+" logotipos sin alterar, sin necesidad de nuestra aprobación previa."
 
 #: ../../handbook/topic_folders/communications/logos.md:7
 msgid ""
 "If you have any doubts about your intended use of the trademarks, please "
 "write to us at team@carpentries.org and one of our team members will advise."
 msgstr ""
+"Si tiene dudas sobre el uso previsto de las marcas comerciales, escríbanos a"
+" team@carpentries.org y uno de los miembros de nuestro equipo lo asesorará."
 
 #: ../../handbook/topic_folders/communications/logos.md:9
 msgid "Links to logo files"
-msgstr ""
+msgstr "Links para los logos"
 
 #: ../../handbook/topic_folders/communications/logos.md:11
 msgid "The Carpentries"
-msgstr ""
+msgstr "The Carpentries"
 
 #: ../../handbook/topic_folders/communications/logos.md:12
 msgid "Data Carpentry"
-msgstr ""
+msgstr "Data Carpentry"
 
 #: ../../handbook/topic_folders/communications/logos.md:13
 msgid "Library Carpentry"
-msgstr ""
+msgstr "Library Carpentry"
 
 #: ../../handbook/topic_folders/communications/logos.md:14
 msgid "Software Carpentry"
-msgstr ""
+msgstr "Software Carpentry"

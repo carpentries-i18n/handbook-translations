@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the The Carpentries Handbook package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tito David Peña Montenegro <davidpm@uga.edu>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
 "PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Last-Translator: Tito David Peña Montenegro <davidpm@uga.edu>, 2019\n"
 "Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/commons.md:1
 msgid "Carpentries Commons"
-msgstr ""
+msgstr "Carpentries Commons"
 
 #: ../../handbook/topic_folders/communications/commons.md:3
 msgid ""
@@ -28,6 +32,11 @@ msgid ""
 "applications, slide decks for conferences, workshop descriptions, "
 "promotional copy, and so on."
 msgstr ""
+"El repositorio GitHub de Carpentries Commons es un lugar para compartir "
+"abiertamente material reutilizable, como texto para convocatorias de "
+"financiación (grants), redacción para solicitudes de empleo o de contrato "
+"indefinido (tenure track), diapositivas para conferencias, descripciones de "
+"talleres, copias promocionaled, etc."
 
 #: ../../handbook/topic_folders/communications/commons.md:5
 msgid ""
@@ -35,3 +44,6 @@ msgid ""
 "here. Other members of our community will need to fork the repository and "
 "submit pull requests."
 msgstr ""
+"El personal de The Carpentries tendrá acceso de escritura para agregar, "
+"editar y cargar material aquí. Otros miembros de nuestra comunidad deberán "
+"bifurcar el repositorio y someter pull requests."

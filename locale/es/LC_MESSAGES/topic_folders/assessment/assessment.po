@@ -5,6 +5,7 @@
 # 
 # Translators:
 # nicoguaro <nicoguarin@gmail.com>, 2019
+# Tito David Peña Montenegro <davidpm@uga.edu>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
 "PO-Revision-Date: 2019-05-26 19:52+0000\n"
-"Last-Translator: nicoguaro <nicoguarin@gmail.com>, 2019\n"
+"Last-Translator: Tito David Peña Montenegro <davidpm@uga.edu>, 2019\n"
 "Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,6 +57,12 @@ msgid ""
 "website.  Source code, data, and additional information are also available "
 "in this GitHub repository."
 msgstr ""
+"Nuestras herramientas de evaluación cubrirán el conocimiento del contenido, "
+"la autoeficacia y las estrategias metacognitivas. Además, la evaluación se "
+"realizará al final de cada taller y 6 meses después de un taller. Los datos "
+"se publican cada dos años, y se publicará una revisión anual de nuestro "
+"impacto en nuestro sitio web. El código fuente, los datos y la información "
+"adicional también están disponibles en este repositorio de GitHub."
 
 #: ../../handbook/topic_folders/assessment/assessment.md:7
 msgid ""
@@ -76,6 +83,10 @@ msgid ""
 "learners' attitudes about the content covered in their workshop, and their "
 "objectives (i.e. what they hope to learn)."
 msgstr ""
+"Evaluamos a nuestros alumnos midiendo los cambios en sus actitudes, "
+"motivación y autoeficacia. Nuestra encuesta previa al taller incluye "
+"preguntas sobre las actitudes de los alumnos sobre el contenido cubierto en "
+"su taller y sus objetivos (es decir, lo que esperan aprender)."
 
 #: ../../handbook/topic_folders/assessment/assessment.md:11
 msgid ""
@@ -83,16 +94,22 @@ msgid ""
 "objective is to measure their confidence in their ability to learn, not "
 "necessarily execute specific tasks."
 msgstr ""
+"También hacemos preguntas para medir la mentalidad de los alumnos "
+"(crecimiento vs. fijo). Nuestro objetivo es medir su confianza en su "
+"capacidad de aprender, no necesariamente ejecutar tareas específicas."
 
 #: ../../handbook/topic_folders/assessment/assessment.md:13
 msgid ""
 "Additionally, we measure learners' perception of skill growth and whether or"
 " not they plan to recommend our workshops to colleagues."
 msgstr ""
+"Además, medimos la percepción de los alumnos sobre el crecimiento de sus "
+"habilidades y si planean recomendar nuestros talleres a sus colegas."
 
 #: ../../handbook/topic_folders/assessment/assessment.md:15
 msgid "Our pre- and post-workshop surveys can be previewed here:"
 msgstr ""
+"Nuestras encuestas previas y posteriores al taller se pueden ver aquí:"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:16
 msgid "Software Carpentry pre-workshop survey"
@@ -120,11 +137,11 @@ msgstr "Encuesta posterior al taller de Library Carpentry"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:22
 msgid "Carpentries Long Term Impact Survey"
-msgstr "Encuesta de impacto a largo plazo de las Carpentries"
+msgstr "Encuesta de impacto a largo plazo de Carpentries"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:24
 msgid "Programmatic Assessment"
-msgstr ""
+msgstr "Evaluación programática"
 
 #: ../../handbook/topic_folders/assessment/assessment.md:26
 msgid ""
@@ -132,3 +149,7 @@ msgid ""
 " These reports provide overviews of our workshop and instructor activities."
 "  More information including published reports can be found on our website."
 msgstr ""
+"En mayo de 2018, comenzamos a publicar regularmente informes de evaluación "
+"programática. Estos informes proporcionan una visión general de nuestras "
+"actividades en el taller y del instructor. Puede encontrar más información, "
+"incluidos los informes publicados, en nuestro sitio web."

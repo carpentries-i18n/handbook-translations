@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the The Carpentries Handbook package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tito David Peña Montenegro <davidpm@uga.edu>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-26 18:55+0100\n"
 "PO-Revision-Date: 2019-05-26 19:53+0000\n"
+"Last-Translator: Tito David Peña Montenegro <davidpm@uga.edu>, 2019\n"
 "Language-Team: Spanish (https://www.transifex.com/carpentries-i18n/teams/98915/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,33 +23,42 @@ msgstr ""
 
 #: ../../handbook/topic_folders/communications/newsletter.md:1
 msgid "Newsletter"
-msgstr ""
+msgstr "Boletín informativo (Newsletter)"
 
 #: ../../handbook/topic_folders/communications/newsletter.md:3
 msgid "Our newsletter, Carpentry Clippings, appears every two weeks."
-msgstr ""
+msgstr "Nuestro Newsletter, Carpentry Clippings, aparece cada dos semanas."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:5
 msgid "Newsletter content"
-msgstr ""
+msgstr "Contenido del Newsletter"
 
 #: ../../handbook/topic_folders/communications/newsletter.md:7
 msgid ""
 "Highlights from the Carpentries Community Calendar: Includes items from The "
 "Carpentries calendar, such as upcoming events."
 msgstr ""
+"Aspectos destacados del calendario (Community Calendar) de The Carpentries: "
+"Incluye elementos del calendario de The Carpentries, como los próximos "
+"eventos."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:8
 msgid ""
 "Community News: A place to report on all kinds of things - events, workshop "
 "or conference reports, awards, lesson releases, new reports ..."
 msgstr ""
+"Noticias de la comunidad (Community News): Un lugar para informar sobre todo"
+" tipo de cosas: eventos, informes de talleres o conferencias, premios, "
+"lanzamientos de lecciones, nuevos informes ..."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:9
 msgid ""
 "Committee and Task Force Activity: Includes announcements directly from task"
 " force and committee chairs and summaries from meeting notes."
 msgstr ""
+"Actividades del comité y grupo de trabajo: Incluye anuncios directamente del"
+" grupo de trabajo y presidentes de comité, y resúmenes de las notas de la "
+"reunión."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:10
 msgid ""
@@ -53,12 +66,17 @@ msgid ""
 "of key conversations on the Discuss email list, other lists or things on the"
 " blog that need further highlighting."
 msgstr ""
+"Si no lo viste en el blog o en el email: incluye los aspectos más destacados"
+" de las conversaciones en las listas de correo electrónico, Discuss u otras "
+"listas, o cosas del blog que deben resaltarse."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:11
 msgid ""
 "Tweet of the Week: One noteworthy tweet is chosen and a screen captured "
 "image is included."
 msgstr ""
+"Tweet de la semana: se elige un tweet destacado junto a una captura de "
+"pantalla."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:12
 msgid ""
@@ -66,11 +84,16 @@ msgid ""
 "announcements that were made on the Discuss email list, Twitter, or other "
 "media."
 msgstr ""
+"Opcional: Artículos y manuscritos para y desde la comunidad: Incluye "
+"anuncios que se hicieron en la lista de correo electrónico Discuss, Twitter "
+"u otros medios."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:13
 msgid ""
 "Optional: Offcuts: Includes other unusual news that may be of interest."
 msgstr ""
+"Opcional: Offcuts: incluye otras noticias inusuales que pueden ser de "
+"interés."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:14
 msgid ""
@@ -78,6 +101,9 @@ msgid ""
 "community and ways the Carpentries community is involved in other "
 "conferences, etc."
 msgstr ""
+"Opcional: Joinery: incluye otras formas de involucrarse en la comunidad de "
+"The Carpentries y formas en que la comunidad de The Carpentries participa en"
+" otras conferencias, etc."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:15
 msgid ""
@@ -85,22 +111,30 @@ msgid ""
 "from the blog or discussion list archives that might still be relevant to "
 "postings to lists and other issues."
 msgstr ""
+"Opcional: Toolshed (publicaciones de nuestro pasado): un lugar para resaltar"
+" publicaciones de utilidad que vienen del blog o de las listas de discusión "
+"que aún podrían ser relevantes para publicaciones en listas y otras "
+"ediciones."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:16
 msgid ""
 "Community Job postings: Includes information that has come through on the "
 "Discuss email list, Twitter, and other media."
 msgstr ""
+"Ofertas de empleo en la comunidad: incluye información que se ha publicado "
+"en la lista de correo electrónico Discuss, en Twitter y otros medios."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:17
 msgid ""
 "Other places to connect: This section is standardized for all newsletter "
 "issues."
 msgstr ""
+"Otros lugares de contacto: esta sección está estandarizada para todas las "
+"ediciones del boletín."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:19
 msgid "Submitting newsletter content"
-msgstr ""
+msgstr "Someter contenido al Newsletter"
 
 #: ../../handbook/topic_folders/communications/newsletter.md:21
 msgid ""
@@ -108,20 +142,26 @@ msgid ""
 "project.  Submissions from community members are welcome by emailing "
 "newsletter@carpentries.org."
 msgstr ""
+"El personal de The Carpentries administra el Newsletter a través de este "
+"proyecto privado de Asana. Los contenidos sometidos por los miembros de la "
+"comunidad son bienvenidos enviando un correo electrónico a "
+"newsletter@carpentries.org."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:23
 msgid "Publishing the newsletter"
-msgstr ""
+msgstr "Publicación del Newsletter"
 
 #: ../../handbook/topic_folders/communications/newsletter.md:25
 msgid ""
 "This information is intended for staff or community members who have taken "
 "on the responsibility of publishing the newsletter."
 msgstr ""
+"Esta información está destinada al personal o miembros de la comunidad que "
+"han asumido la responsabilidad de publicar el Newsletter."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:27
 msgid "Each newsletter is a campaign on MailChimp."
-msgstr ""
+msgstr "Cada Newsletter es una campaña en MailChimp"
 
 #: ../../handbook/topic_folders/communications/newsletter.md:29
 msgid ""
@@ -129,22 +169,32 @@ msgid ""
 "Make a copy of the latest newsletter and rename the copy to reflect the "
 "current date (e.g. Carpentry Clippings, 27 March, 2018.)."
 msgstr ""
+"Para crear un Newsletter, inicie sesión en MailChimp y haga clic en "
+"Campaigns. Haga una copia del último boletín y cambie el nombre de la copia "
+"para reflejar la fecha actual (por ejemplo, Carpentry Clippings, 27 de marzo"
+" de 2018)."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:31
 msgid ""
 "Check the To field is correctly set as going to x number of newsletter "
 "subscribers."
 msgstr ""
+"Verifique que el campo Para (To) esté configurado correctamente ya que va a "
+"x suscriptores del Newsletter."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:33
 msgid "Check the From field is correctly set as coming from The Carpentries."
 msgstr ""
+"Verifique que el campo De (From) esté configurado correctamente como "
+"proveniente de The Carpentries."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:35
 msgid ""
 "Make sure the date in the Subject line is changed to the new newsletter "
 "date."
 msgstr ""
+"Asegúrese de que la fecha en la línea Asunto (Subject) se cambie a la nueva "
+"fecha del Newsletter."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:37
 msgid ""
@@ -153,22 +203,32 @@ msgid ""
 "for editing. (Editing is all done within the right pane; the left pane "
 "renders the public view as you edit.)"
 msgstr ""
+"Seleccione editar diseño para agregar contenido al newsletter. Cuando abra "
+"el newsletter, haga clic en el ícono del lápiz en el Newsletter de la "
+"izquierda para abrirlo y editarlo. (La edición se realiza dentro del panel "
+"derecho; el panel izquierdo muestra la vista pública a medida que se edita)."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:39
 msgid ""
 "Remove the old content and paste in the new, leaving the headings so that "
 "the formatting for them is not disturbed."
 msgstr ""
+"Elimine el contenido anterior y péguelo en el nuevo, dejando los encabezados"
+" para que el formato no se vea afectado."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:41
 msgid "Be sure to update the date at the top of the email as well."
 msgstr ""
+"Asegúrese de actualizar la fecha en la parte superior del correo electrónico"
+" también."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:43
 msgid ""
 "Highlight each paragraph and click Clear styles if anything you are copying "
 "in appears in bold when you don't want it to."
 msgstr ""
+"Resalte cada párrafo y haga clic en Borrar estilos si todo lo que está "
+"copiando aparece en negrita cuando no lo desee."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:45
 msgid ""
@@ -176,6 +236,10 @@ msgid ""
 "must be no more than 550px wide to render properly. These can be resized "
 "within MailChimp by working with the image styling and location."
 msgstr ""
+"Agregue imágenes haciendo clic en el ícono Imagen en la ventana de edición. "
+"Las imágenes deben tener menos de 550 px de ancho para renderizarse "
+"correctamente. Se pueden redimensionar dentro de MailChimp trabajando con el"
+" estilo de imagen (image styling) y la ubicación de la imagen."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:47
 msgid ""
@@ -183,6 +247,10 @@ msgid ""
 " includes a desktop and mobile version preview.  Send a test email to "
 "yourself to preview it in your email client."
 msgstr ""
+"Vaya a Vista previa y prueba (Preview and Test) para obtener una vista "
+"previa del Newsletter antes de enviarlo. Esto incluye una vista previa de la"
+" versión de escritorio y móvil. Envíe un correo electrónico de prueba para "
+"obtener una vista previa en su cliente de correo electrónico."
 
 #: ../../handbook/topic_folders/communications/newsletter.md:49
 msgid ""
